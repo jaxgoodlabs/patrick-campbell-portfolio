@@ -78,6 +78,10 @@ One unanswered question, which may affect my comments above, has to do with whic
 </details>
 
 ## Mecklenburg Hazard Evacuation Exercise
+An exercise I completed for the 90-753: Advanced GIS course at CMU in which I map evacuation routes around a hypothetical hazard in Mecklenburg County, North Carolina.
+
+<details>
+  <summary>Click to expand!</summary>
 
 **I. Map with Incident and Evacuation Plans**
 
@@ -107,7 +111,13 @@ Below is a proposed text message that the North Carolina DMV can send out that i
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Mapping Damage from Hurricane Katrina
+An exercise I completed for the 90-753: Advanced GIS course at CMU in which I map the extent of damage across 3 coastal Mississippi counties due to Hurricane Katrina.
+
+<details>
+  <summary>Click to expand!</summary>
 
 **I.	Map of Mississippi elevation/bathymetry**
 <br />
@@ -145,18 +155,31 @@ The map below shows the infrastructure and health facilities at risk from the Hu
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Visualizing 412 Food Rescue Data with Kepler
+An exercise I completed for the 90-753: Advanced GIS course at CMU in which I use the [Kepler.gl tool](https://kepler.gl/) to visualize data collected by the [412 Food Rescue](https://412foodrescue.org/) service in Pittsburgh, Pennsylvania.
+
+<details>
+  <summary>Click to expand!</summary>
+
 Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/79072640-1ebccf00-7cb0-11ea-8d3c-50a9fee402d5.JPG">
 </p>
 
-Clich [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
+Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Investigating Patterns in my Google Location Data
+An exercise I completed for the 90-753: Advanced GIS course at CMU in which I use ArcGIS Pro to investigate patterns in my Google Location Data.
+
+<details>
+  <summary>Click to expand!</summary>
 
 While exploring my location data in ArcGIS data - which curiously included data just from 2015, 2019 and 2020 - the first thing that struck me was how spotty the coverage was. I had thoroughly expected to see a complete saturation of points throughout my travel range, but for many trips, found only single points representing a final destination. These were long, drawn out car trips, some of them covering multiple days of travel, and yet Google seems to have only collected a single data point from the whole trip.
 
@@ -182,7 +205,13 @@ To see how easily I could extract this sort of information from these data, I us
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Final Project: Hazus Flood Modeling for Miami, FL
+My final project for the 90-753: Advanced GIS course at CMU. For this project, I use a variety of GIS software and supplementary applications to model flooding in Miami, Florida. 
+
+<details>
+  <summary>Click to expand!</summary>
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80930537-2a1c8b00-8d82-11ea-9803-c63422e9555e.JPG">
@@ -259,7 +288,13 @@ A secondary goal of this project was to troubleshoot various tutorials and flood
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Sustainable Campus Project
+My final project for the 94-802: Geographic Information Systems course at CMU. For this project, I use ArcGIS Pro and [Mapbox](https://www.mapbox.com/) to visualize the greenhouse gas emissions of CMU-owned and leased buildings.
+
+<details>
+  <summary>Click to expand!</summary>
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80049872-1e0f0e80-84e2-11ea-99b5-3ff09698fc8c.JPG">
@@ -269,7 +304,13 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) to 
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Sustainable City Project
+An extension of my Sustainable Campus Project I completed for the City of Pittsburgh's [Division of Sustainability and Resilience](https://pittsburghpa.gov/dcp/sustainability-resilience#:~:text=As%20a%20division%2C%20we%20champion,city%20through%20holistic%20decision%20making). For this project, I use ArcGIS Pro and [Mapbox](https://www.mapbox.com/) to visualize the changes in emissions from 2017 to 2018 for all buildings falling under Pittsburgh's new [Building Benchmarking Ordinance](https://pittsburghpa.gov/dcp/building-benchmarking).
+
+<details>
+  <summary>Click to expand!</summary>
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83973007-78590880-a8b1-11ea-8c1f-6ab0df87929f.png">
@@ -279,7 +320,13 @@ Click [here](https://jaxgoodlabs.github.io/SustainableCity/) to view the interac
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Norwalk Transportation Project
+My final group project for the 90-783: Policy Innovation Lab - Smart Cities course at CMU. For this project, I used ArcGIS Pro to help guide recommendations to the City of Norwalk's [Department of Transportation, Mobility and Parking](https://www.norwalkct.org/1827/Transportation-Mobility-and-Parking) regarding how to best improve wayfinding for the city's residents and visitors using the city’s public transit infrastructure.
+
+<details>
+  <summary>Click to expand!</summary>
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83985569-c00a7f00-a907-11ea-801d-83699e1ea831.png">
@@ -289,7 +336,13 @@ Click [here](https://github.com/jaxgoodlabs/Norwalk_Transportation/) to view thi
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Pittsburgh Electric Vehicle Site Analysis
+An in-depth site analysis for EV infrastructure I completed for the City of Pittsburgh's [Division of Sustainability and Resilience](https://pittsburghpa.gov/dcp/sustainability-resilience#:~:text=As%20a%20division%2C%20we%20champion,city%20through%20holistic%20decision%20making).
+
+<details>
+  <summary>Click to expand!</summary>
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80050002-79410100-84e2-11ea-9ced-5082f60267e9.JPG">
@@ -298,6 +351,8 @@ Click [here](https://github.com/jaxgoodlabs/Norwalk_Transportation/) to view thi
 Click [here](https://github.com/jaxgoodlabs/Pitt_EV_Bike_Ped_Site_Analysis) to view this project on GitHub.
 
 [Return to top](#jump-to-section)
+
+<details>
 
 ## Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida
 
@@ -309,6 +364,8 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Bumblebee Conservation in the Midwest US
 
 <p align="center">
@@ -319,11 +376,15 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 
 [Return to top](#jump-to-section)
 
+<details>
+
 ## Resilience Oriented Planning Map
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83976614-14dad500-a8c9-11ea-829d-abff9be35343.png">
 </p>
+
+<details>
 
 Click [here](https://jaxgoodlabs.github.io/pittsburgh-hazards-map) to view this project.
 
