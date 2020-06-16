@@ -47,7 +47,7 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html) t
 
 Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html) to access the interactive version.
 
-[Return to top](#jump-to-section
+[Return to top](#jump-to-section)
 
 </details>
 
