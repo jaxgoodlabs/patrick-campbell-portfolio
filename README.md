@@ -1,4 +1,4 @@
-# Portfolio
+# Patrick Campbell's Portfolio
 Welcome to my portfolio. Below you can browse examples of my work spanning my various fields of interest. Projects are organized into the following categories:
 
 - [Google Map Styles](#google-maps-styles) 
