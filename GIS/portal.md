@@ -47,7 +47,9 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html) t
 
 Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html) to access the interactive version.
 
-[Return to top](#jump-to-section)
+[Return to top](#jump-to-section
+
+</details>
 
 ## ArcGIS Map Style: Plant Growing in the Desert
 <img align="left" width="17%" height="17%" src="https://user-images.githubusercontent.com/32546509/77484326-9d84c180-6e00-11ea-8bb3-d4757ef2b7d8.JPG">
