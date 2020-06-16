@@ -1,11 +1,11 @@
 # Patrick Campbell's Portfolio
 Welcome to my portfolio. Below you can browse examples of my work spanning my various fields of interest. Projects are organized by the following categories:
 
-- [GIS](jaxgoodlabs.github.io/GIS_portfolio/)
-- [Data Visualization](jaxgoodlabs.github.io/data-viz-portfolio/)
-- [Concepts and Protoypes](jaxgoodlabs.github.io/concepts-and-prototypes/)
-- [Writing](jaxgoodlabs.github.io/writing-portfolio/)
-- [Photography](jaxgoodlabs.github.io/photography-portfolio/)
+- [GIS](https://jaxgoodlabs.github.io/GIS_portfolio/)
+- [Data Visualization](https://jaxgoodlabs.github.io/data-viz-portfolio/)
+- [Concepts and Protoypes](https://jaxgoodlabs.github.io/concepts-and-prototypes/)
+- [Writing](https://jaxgoodlabs.github.io/writing-portfolio/)
+- [Photography](https://jaxgoodlabs.github.io/photography-portfolio/)
 
 View this portfolio [online](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/). 
 
