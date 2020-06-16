@@ -19,3 +19,4 @@ This realization is what ultimately led me to Carnegie Mellon, and to Heinz Coll
 <br />
 My most recent projects have focused on public interest technologies that help to increase the range and accessibility of social services worldwide, especially as a means of increasing society's resilience to global threats like climate change.
 
+View my resume [here](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Patrick Campbell Resume.pdf).
