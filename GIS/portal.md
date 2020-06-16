@@ -22,6 +22,8 @@ In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapst
 
 To create each of the styles below, I first searched Google for an image (filtered by "marked for resuse" license) whose color scheme matched that of the map style I wanted to create. I then used [Canva's color palette generator](https://www.canva.com/colors/color-palette-generator/) to create a custom color palette based on the image I had chosen. 
 
+  <summary>Click to expand!</summary>
+
 ### People's Square
 
 <p align="center">
