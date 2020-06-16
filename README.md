@@ -1,20 +1,11 @@
 # Patrick Campbell's Portfolio
 Welcome to my portfolio. Below you can browse examples of my work spanning my various fields of interest. Projects are organized into the following categories:
 
-- [Google Map Styles](#google-maps-styles) 
-- [ArcGIS Map Style](#arcgis-map-style-plant-growing-in-the-desert) 
-- [Mecklenburg Hazard Evacuation Exercise](#mecklenburg-hazard-evacuation-exercise)
-- [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) 
-- [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) 
-- [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) 
-- [Final Project: Hazus Flood Modeling for Miami, FL](#final-project-hazus-flood-modeling-for-miami-fl)
-- [Sustainable Campus Project](#sustainable-campus-project) 
-- [Sustainable City Project](#sustainable-city-project) 
-- [Norwalk Transportation Project](#norwalk-transportation-project)
-- [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis) 
-- [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida) 
-- [Bumblebee Conservation in the Midwest US](#bumblebee-conservation-in-the-midwest-us)
-- [Resilience Oriented Planning Map](#resilience-oriented-planning-map)
+- [GIS](#google-maps-styles)
+- [Data Visualization](#arcgis-map-style-plant-growing-in-the-desert)
+- [Concepts and Protoypes]()
+- [Writing]()
+- [Photography]()
 
 View this portfolio [online](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/). 
 
