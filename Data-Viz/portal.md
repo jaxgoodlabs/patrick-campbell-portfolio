@@ -6,7 +6,7 @@ A project I completed for my 94-870: Telling Stories with Data course at CMU in 
 
 <details>
   <summary>Click to expand!</summary>
-
+<br />
 For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [“The Chartbook of Economic Inequality.”](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/)
 
 I chose this visualization because I was interested in the topic of economic inequality and familiar with the narrative in general (i.e., that inequality in the US is on the rise), but not particularly clear on its finer details. When I found this graph and saw all the technical jargon it contained, I saw an opportunity to test the limits of what effective data visualization techniques could accomplish. I was confident that I could clean the chart up aesthetically, but I was less confident of how accessible I could make its content given the technical nature of the underlying data.
@@ -27,6 +27,7 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 ![Tableau graph 1](https://user-images.githubusercontent.com/32546509/68548170-e8ed8480-03b7-11ea-9cea-34af4472b192.JPG)
 
 <details>
+<br />
 
 ### Final Project
 My final project for my 94-870: Telling Stories with Data course at CMU in which I use effective data visualization to argue that universities should adopt open data policies.
@@ -37,6 +38,7 @@ My final project for my 94-870: Telling Stories with Data course at CMU in which
 See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/final_project_PatrickCampbell).
 
 <details>
+<br />
 
 ### 
 Check out some of my smaller projects and experiments [here](/dataviz2.md).
