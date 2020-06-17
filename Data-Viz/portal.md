@@ -1,6 +1,11 @@
 # Data Visualization Portfolio
 Below you'll find examples of my work in data visualization. To view a project, just navigate to the description and click the **open project** link.
 
+#### Jump to Section
+- [Critique by Design](#critique-by-design) 
+- [Final Project](#final-project)
+- [Smaller Projects and Experiments](#smaller-projects-and-experiments) 
+
 ### Critique by Design
 A project I completed for my 94-870: Telling Stories with Data course at CMU in which I applied course concepts and skills to redesigned a chart depicting economic inequality in the US.
 
@@ -26,8 +31,9 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 
 ![Tableau graph 1](https://user-images.githubusercontent.com/32546509/68548170-e8ed8480-03b7-11ea-9cea-34af4472b192.JPG)
 
+[Return to top](#jump-to-section)
+
 <details>
-<br />
 
 ### Final Project
 My final project for my 94-870: Telling Stories with Data course at CMU in which I use effective data visualization to argue that universities should adopt open data policies.
@@ -37,8 +43,16 @@ My final project for my 94-870: Telling Stories with Data course at CMU in which
 
 See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/final_project_PatrickCampbell).
 
-<details>
-<br />
+[Return to top](#jump-to-section)
 
-### 
+<details>
+
+### Smaller Projects and Experiments
+<details>
+  <summary>Click to expand!</summary>
+
 Check out some of my smaller projects and experiments [here](/dataviz2.md).
+
+[Return to top](#jump-to-section)
+
+<details>
