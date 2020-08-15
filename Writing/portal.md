@@ -3,7 +3,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 #### Jump to Section
 - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
-- [Descartes: A Theodicy of Error](#descartes-a-theology-of-error)
+- [Descartes: A Theodicy of Error](#descartes-a-theodicy-of-error)
 - [Making Room for Volitionism](#making-room-for-volitionism)
 - [Ontology and the Implications of Existence](#ontology-and-the-implications-of-existence)
 - [Kant on Human Freedom](#kant-on-human-freedom)
