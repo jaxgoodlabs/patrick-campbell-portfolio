@@ -15,40 +15,40 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 ## A Volitional Analysis of Moral Obligations
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
+[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
 
 ## Descartes: A Theodicy of Error
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Descartes%a%Theodicy%of%Error.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Descartes%20a%20Theodicy%20of%20Error.pdf)
 
 ## Making Room for Volitionism
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Making%Room%for%Volitionism.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Making%20Room%20for%20Volitionism.pdf)
 
 ## Ontology and the Implications of Existence
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Ontology%and%the%Implications%of%Existence.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Ontology%20and%20the%20Implications%20of%20Existence.pdf)
 
 ## Kant on Human Freedom
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Kant%on%Human%Freedom.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Kant%20on%20Human%20Freedom.pdf)
 
 ## Schematism and the Second Analogy
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Schematism%and%the%Second%Analogy.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Schematism%20and%20the%20Second%20Analogy.pdf)
 
 ## Spinoza's Modal Metaphysics
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Spinozas%Modal%Metaphysics.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Spinozas%20Modal%20Metaphysics.pdf)
 
 ## James on Achieving Intimacy with God
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/James%on%Achieving%Intimacy%with%God.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/James%20on%20Achieving%20Intimacy%20with%20God.pdf)
 
 ## Jubien: Are All Kinds Created Equal?
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Jubien%Are%All%Kinds%Created%Equal.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Jubien%20Are%20All%20Kinds%20Created%20Equal.pdf)
 
 ## Belief and Autonomy
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Belief%and%Autonomy.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Belief%20and%20Autonomy.pdf)
