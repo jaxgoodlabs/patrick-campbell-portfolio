@@ -43,7 +43,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 ## James on Achieving Intimacy with God
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/James%20on%20Achieving%20Intimacy%20with%20God.pdf)
+[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/James%20on%20Achieving%20Intimacy%20with%20God.pdf)
 
 ## Jubien: Are All Kinds Created Equal?
 
