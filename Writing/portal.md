@@ -5,7 +5,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
 - [Descartes: A Theodicy of Error](#descartes-a-theology-of-error)
 - [Making Room for Volitionism](#making-room-for-volitionism)
-- [Ontology and the Implications of Existence]
+- [Ontology and the Implications of Existence](#ontology-and-the-implications-of-existence)
 - [Kant on Human Freedom](#kant-on-human-freedom)
 - [Schematism and the Second Analogy](#schematism-and-the-second-analogy)
 - [Spinoza's Modal Metaphysics](#spinozas-modal-metaphysics)
@@ -19,7 +19,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 ## Descartes: A Theodicy of Error
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Descartes%20a%20Theodicy%20of%20Error.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Descartes_A%20Theodicy%20of%20Error.pdf)
 
 ## Making Room for Volitionism
 
@@ -39,7 +39,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 ## Spinoza's Modal Metaphysics
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Spinozas%20Modal%20Metaphysics.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Spinoza_s%20Modal%20Metaphysics.pdf)
 
 ## James on Achieving Intimacy with God
 
@@ -47,7 +47,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 ## Jubien: Are All Kinds Created Equal?
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Jubien%20Are%20All%20Kinds%20Created%20Equal.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Jubien_Are%20All%20Kinds%20Created%20Equal.pdf)
 
 ## Belief and Autonomy
 
