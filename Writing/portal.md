@@ -3,7 +3,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 #### Jump to Section
 - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
-- [Descartes: A Theodicy of Error](#descartes-a-theodicy-of-error)
+- [Descartes: Theodicy of Error](#descartes-theodicy-of-error)
 - [Making Room for Volitionism](#making-room-for-volitionism)
 - [Ontology and the Implications of Existence](#ontology-and-the-implications-of-existence)
 - [Kant on Human Freedom](#kant-on-human-freedom)
@@ -17,9 +17,9 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 [Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
 
-## Descartes: A Theodicy of Error
+## Descartes: Theodicy of Error
 
-[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Descartes_A%20Theodicy%20of%20Error.pdf)
+[Link](jaxgoodlabs.github.io/patrick-campbell-portfolio/Writings/Descartes_Theodicy%20of%20Error.pdf)
 
 ## Making Room for Volitionism
 
