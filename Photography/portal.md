@@ -8,9 +8,12 @@ Below you'll find examples of my photography. To view a project, just navigate t
 ## Meet Your Neighbours
 A collection of images in the style of [Meet Your Neighbours](https://www.facebook.com/meetyourneighbours/), "a worldwide photographic initiative created by Niall Benvie and Clay Bolt. The project is dedicated to reconnecting people with the wildlife on their own doorsteps – and enriching their lives in the process" [1](http://allspeciesphotography.com/meet-your-neighbors).
 
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/90993291-49823280-e582-11ea-8418-b2e8b31ae2f5.jpg">
+</p>
+
 <details>
   <summary>Click to expand!</summary>
-
 
 
 [Return to top](#jump-to-section)
