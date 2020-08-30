@@ -18,9 +18,9 @@ Click on an image to enlarge it.
 
 #### (Tortoises)
 
-<p align="center">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650282-87cc9580-ea4b-11ea-8357-9bcbcea0bbdc.jpg">
-<img width="33%" height="33%" src="ttps://user-images.githubusercontent.com/32546509/91650300-a29f0a00-ea4b-11ea-90ea-7d67adcf3e89.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650300-a29f0a00-ea4b-11ea-90ea-7d67adcf3e89.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
