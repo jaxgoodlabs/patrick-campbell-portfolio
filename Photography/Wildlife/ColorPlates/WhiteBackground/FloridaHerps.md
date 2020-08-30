@@ -28,9 +28,9 @@ Click on an image to enlarge it.
 ### Lacertilia (Lizards and Skinks)
 #### Dactyloidae (Anoles)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667430-ae81df00-ead2-11ea-82e7-e2a148723247.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667620-053be880-ead4-11ea-9ef9-07d57c74075c.jpg">
-<img width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
+<img width="35%" height="35%" src="https://user-images.githubusercontent.com/32546509/91667430-ae81df00-ead2-11ea-82e7-e2a148723247.jpg">
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/91667620-053be880-ead4-11ea-9ef9-07d57c74075c.jpg">
+<img width="20%" height="20%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
 </p>
 
 #### Scincidae (Skinks)
