@@ -11,6 +11,7 @@ Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650294-99ae3880-ea4b-11ea-8a57-1974058899c2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650296-9d41bf80-ea4b-11ea-8cbc-af01d0848e50.jpg">
 </p>
+Florida softshell turtle (*Apalone ferox*)
 
 #### Emydidae (Pond turtles)
 <p align="center">
@@ -18,10 +19,10 @@ Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650292-92872a80-ea4b-11ea-9a7e-d065251bcc9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650301-a894eb00-ea4b-11ea-977e-cd0fb647d38a.jpg">
 </p>
+Florida box turtle (*Terrapene carolina bauri*) Peninsula cooter (*Pseudemys peninsularis*)
 
 #### Testudinidae (Tortoises)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650282-87cc9580-ea4b-11ea-8357-9bcbcea0bbdc.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650300-a29f0a00-ea4b-11ea-90ea-7d67adcf3e89.jpg">
 </p>
 Gopher tortoise (*Gopherus polyphemus*)
