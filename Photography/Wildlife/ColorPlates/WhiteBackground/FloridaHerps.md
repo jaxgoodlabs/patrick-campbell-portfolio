@@ -68,7 +68,6 @@ Click on an image to enlarge it.
 #### Hylidae (Tree frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650555-1e4e8600-ea4f-11ea-8121-bab794bc7737.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
