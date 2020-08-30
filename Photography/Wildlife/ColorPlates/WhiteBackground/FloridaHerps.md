@@ -46,7 +46,7 @@ Cottonmouth (*Agkistrodon piscivorus*)
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
 </p>
 
-#### Gastrophryne (Sheep frogs)
+#### Microhylidae (Microhylid frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650452-cb280380-ea4d-11ea-8ead-b48be1f3821c.jpg">
 </p>
