@@ -28,6 +28,18 @@ Gopher tortoise (*Gopherus polyphemus*)
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
+#### Dactyloidae (Anoles)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667430-ae81df00-ead2-11ea-82e7-e2a148723247.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
+</p>
+Brown anole (*Anolis sagrei*)
+
+#### Scincidae (Skinks)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666859-5fd24600-eace-11ea-8edf-f96cc2fb6b2f.jpg">
+</p>
+
 #### Teiidae (Whiptails)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91663866-76ba6d80-eab9-11ea-98c2-b2835baa382c.jpg">
@@ -36,6 +48,7 @@ Gopher tortoise (*Gopherus polyphemus*)
 #### Gekkonidae (Geckos)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666680-b2aafe00-eacc-11ea-83ed-5fbe2c2b0306.jpg">
 </p>
 
 ### (Snakes)
