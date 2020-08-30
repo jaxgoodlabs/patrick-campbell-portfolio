@@ -28,7 +28,15 @@ Gopher tortoise (*Gopherus polyphemus*)
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
+#### Teiidae (Whiptails)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91663866-76ba6d80-eab9-11ea-98c2-b2835baa382c.jpg">
+</p>
 
+#### Gekkonidae (Geckos)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
+</p>
 
 ### (Snakes)
 #### Viperidae (Vipers)
