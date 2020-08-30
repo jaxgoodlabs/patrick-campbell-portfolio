@@ -38,12 +38,12 @@ Cottonmouth (*Agkistrodon piscivorus*)
 
 ## Anura (Frogs and Toads)
 #### Ranidae (True frogs)
-<p align="center">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650451-c8c5a980-ea4d-11ea-8802-21da66f416f3.jpg">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
 </p>
 
+#### Leptodactylidae (Thin-toed frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
 </p>
@@ -56,18 +56,7 @@ Cottonmouth (*Agkistrodon piscivorus*)
 #### Bufonidae (toads)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650456-d11de480-ea4d-11ea-8eb1-ffc1d666e25a.jpg">
-<img width="33%" height="33%" src="">
-<img width="33%" height="33%" src="">
 </p>
 
 #### Hylidae (Tree frogs)
-<p align="center">
-<img width="33%" height="33%" src="">
-<img width="33%" height="33%" src="">
-<img width="33%" height="33%" src="">
-</p>
-
-<p align="left">
-<img width="33%" height="33%" src="">
-</p>
 
