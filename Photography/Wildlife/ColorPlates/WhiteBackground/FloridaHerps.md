@@ -43,6 +43,16 @@ Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91663866-76ba6d80-eab9-11ea-98c2-b2835baa382c.jpg">
 </p>
 
+#### Phrynosomatidae (Spiny lizards)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668447-d8d79a80-eada-11ea-860b-4d9a89b8edd4.jpg">
+</p>
+
+#### Leiocephalidae (Curly-tail lizards)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668432-aa59bf80-eada-11ea-9efd-6fcdde3b5032.jpg">
+</p>
+
 #### Gekkonidae (Geckos)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
