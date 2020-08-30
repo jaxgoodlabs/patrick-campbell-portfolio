@@ -1,6 +1,6 @@
 # Florida Herpetofauna
 
-Below is a collection of images of reptiles and amphibians collected from various regions of Florida. Photos are organized by Taxanomic order, family, genus, and species.
+Below is a collection of images of reptiles and amphibians collected from various regions of Florida. Photos are organized by taxanomic category.
 
 Click on an image to enlarge it.
 
@@ -22,7 +22,12 @@ Florida softshell turtle (*Apalone ferox*)
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650292-92872a80-ea4b-11ea-9a7e-d065251bcc9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650301-a894eb00-ea4b-11ea-977e-cd0fb647d38a.jpg">
 </p>
-Florida box turtle (*Terrapene carolina bauri*) Peninsula cooter (*Pseudemys peninsularis*)
+
+<p align="left">
+Florida box turtle (*Terrapene carolina bauri*) 
+Peninsula cooter (*Pseudemys peninsularis*)
+</p>
+
 
 #### Testudinidae (Tortoises)
 <p align="left">
