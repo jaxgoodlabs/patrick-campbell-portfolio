@@ -1,6 +1,6 @@
 # Florida Herpetofauna
 
-Below is a collection of images of reptiles and amphibians collected from various regions of Florida. Photos are organized by taxanomic category.
+Below is a collection of images of reptiles and amphibians collected from various regions of Florida. Photos are organized by taxonomic category.
 
 Click on an image to enlarge it.
 
@@ -84,6 +84,11 @@ Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91749404-6aa0df80-eb8f-11ea-817f-4324ec205979.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91751983-a473e500-eb93-11ea-9319-11f0a7a56fd8.jpg">
+</p>
+
+#### Typhlopidae (Blind snakes)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91761316-a98c6080-eba2-11ea-8ef0-051717d11b8b.jpg">
 </p>
 
 ## Anura (Frogs and Toads)
