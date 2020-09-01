@@ -98,18 +98,29 @@ Click on an image to enlarge it.
 </p>
 
 ## Anura (Frogs and Toads)
-#### Hylidae (Tree frogs)
+#### Ranidae (True frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790729-7a481480-ebdf-11ea-9348-7f9ac3bbf15c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790762-88963080-ebdf-11ea-930e-eb89cd383aea.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
+</p>
+
+#### Hylidae (Tree frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790729-7a481480-ebdf-11ea-9348-7f9ac3bbf15c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790762-88963080-ebdf-11ea-930e-eb89cd383aea.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
+</p>
+
+#### Eleutherodactylidae (Rain frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
@@ -119,18 +130,11 @@ Click on an image to enlarge it.
 
 #### Bufonidae (Toads)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91791232-9a2c0800-ebe0-11ea-925b-d1a36b979a11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650456-d11de480-ea4d-11ea-8eb1-ffc1d666e25a.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790457-d65e6900-ebde-11ea-8835-6d31a461253a.jpg">
 </p>
 
 #### Scaphiopodidae (Spadefoot toads)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790444-d2324b80-ebde-11ea-9f5d-c66a0c6e56c1.jpg">
-</p>
-
-#### Ranidae (True frogs)
-<p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
 </p>
