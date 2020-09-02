@@ -11,7 +11,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida)
   - [Policy Statement on the Regulation of Commercial Search Engines](#policy-statement-on-the-regulation-of-commercial-search-engines)
   - [Can Earlier Onboarding Increase Voter Turnout Among Young Voters?](#can-earlier-onboarding-increase-voter-turnout-among-young-voters)
-  - [Supercharging the Booster Break](#supercharging-the-booster-break)
+  - [Supercharging the "Booster Break"](#supercharging-the-booster-break)
   - [From a PUSH to a Nudge: How a bit of handholding can help more PUSH universities transition to open data policies](#from-a-push-to-a-nudge-how-a-bit-of-handholding-can-help-more-push-universities-transition-to-open-data-policies)
   - [Peru’s Economic Relations with the US and China](#perus-economic-relations-with-the-us-and-china)
   - [China’s Economic and Military Power](#chinas-economic-and-military-power)
@@ -62,7 +62,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Can%20Earlier%20Onboarding%20Increase%20Voter%20Turnout%20Among%20Young%20Voters.pdf)
 
-#### Supercharging the Booster Break
+#### Supercharging the "Booster Break"
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Supercharging%20the%20Booster%20Break.pdf)
 
@@ -76,7 +76,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 #### China’s Economic and Military Power
 
-[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/China's%20Economic%20and%20Military%20Power.pdf)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/China’s%20Economic%20and%20Military%20Power.pdf)
 
 #### Cold War Policies of the Truman Administration Toward the Soviet Union
 
