@@ -293,12 +293,12 @@ A secondary goal of this project was to troubleshoot various tutorials and flood
 ## Sustainable Campus Project
 My final project for the 94-802: Geographic Information Systems course at CMU. For this project, I use ArcGIS Pro and [Mapbox](https://www.mapbox.com/) to visualize the greenhouse gas emissions of CMU-owned and leased buildings.
 
-<details>
-  <summary>Click to expand!</summary>
-
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80049872-1e0f0e80-84e2-11ea-99b5-3ff09698fc8c.JPG">
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
 
 Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) to view the final report for this project. The interactive final product can be accessed [here](https://jaxgoodlabs.github.io/Sustainable_Campus/).
 
@@ -309,12 +309,12 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) to 
 ## Sustainable City Project
 An extension of my Sustainable Campus Project I completed for the City of Pittsburgh's [Division of Sustainability and Resilience](https://pittsburghpa.gov/dcp/sustainability-resilience#:~:text=As%20a%20division%2C%20we%20champion,city%20through%20holistic%20decision%20making). For this project, I use ArcGIS Pro and [Mapbox](https://www.mapbox.com/) to visualize the changes in emissions from 2017 to 2018 for all buildings falling under Pittsburgh's new [Building Benchmarking Ordinance](https://pittsburghpa.gov/dcp/building-benchmarking).
 
-<details>
-  <summary>Click to expand!</summary>
-
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83973007-78590880-a8b1-11ea-8c1f-6ab0df87929f.png">
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
 
 Click [here](https://jaxgoodlabs.github.io/SustainableCity/) to view the interactive final product.
 
@@ -325,12 +325,12 @@ Click [here](https://jaxgoodlabs.github.io/SustainableCity/) to view the interac
 ## Norwalk Transportation Project
 My final group project for the 90-783: Policy Innovation Lab - Smart Cities course at CMU. For this project, I used ArcGIS Pro to help guide recommendations to the City of Norwalk's [Department of Transportation, Mobility and Parking](https://www.norwalkct.org/1827/Transportation-Mobility-and-Parking) regarding how to best improve wayfinding for the city's residents and visitors using the city’s public transit infrastructure.
 
-<details>
-  <summary>Click to expand!</summary>
-
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83985569-c00a7f00-a907-11ea-801d-83699e1ea831.png">
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
 
 Click [here](https://github.com/jaxgoodlabs/Norwalk_Transportation/) to view this project on GitHub.
 
@@ -341,12 +341,12 @@ Click [here](https://github.com/jaxgoodlabs/Norwalk_Transportation/) to view thi
 ## Pittsburgh Electric Vehicle Site Analysis
 An in-depth site analysis for EV infrastructure I completed for the City of Pittsburgh's [Division of Sustainability and Resilience](https://pittsburghpa.gov/dcp/sustainability-resilience#:~:text=As%20a%20division%2C%20we%20champion,city%20through%20holistic%20decision%20making).
 
-<details>
-  <summary>Click to expand!</summary>
-
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80050002-79410100-84e2-11ea-9ced-5082f60267e9.JPG">
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
 
 Click [here](https://github.com/jaxgoodlabs/Pitt_EV_Bike_Ped_Site_Analysis) to view this project on GitHub.
 
