@@ -76,7 +76,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 #### China’s Economic and Military Power
 
-[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/China_s%20Economic%20and%20Military%20Power.pdf)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/China's%20Economic%20and%20Military%20Power.pdf)
 
 #### Cold War Policies of the Truman Administration Toward the Soviet Union
 
