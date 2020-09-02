@@ -8,7 +8,6 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 - [GoodLabs](#good-labs)
 - [Pop-up Consulting](#pop-up-consulting)
 - [Virtual City](#virtual-city)
-- 
 
 ## Antfarm.io
 
@@ -25,6 +24,9 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 </details>
 
 ## Homepage
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92022860-ed5da200-ed29-11ea-83f4-a8bb3bdf2ed1.jpg">
+</p>
 
 <details>
   <summary>Click to expand!</summary>
