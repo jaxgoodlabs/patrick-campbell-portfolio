@@ -19,9 +19,9 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 <img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92001153-546c5e00-ed0c-11ea-9070-3c213a22c070.jpg">
 </p>
 
-[Return to top](#jump-to-section)
-
 <details>
+
+[Return to top](#jump-to-section)
 
 ## Homepage
 
