@@ -60,7 +60,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 #### Can Earlier Onboarding Increase Voter Turnout Among Young Voters?
 
-[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Can%20Earlier%20Onboarding%20Increase%20Voter%20Turnout%20Among%20Young%20Voters?.pdf)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Can%20Earlier%20Onboarding%20Increase%20Voter%20Turnout%20Among%20Young%20Voters.pdf)
 
 #### Supercharging the Booster Break
 
