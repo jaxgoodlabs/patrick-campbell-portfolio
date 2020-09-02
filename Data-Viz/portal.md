@@ -45,7 +45,7 @@ See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/fin
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ### Smaller Projects and Experiments
 <details>
@@ -55,4 +55,4 @@ Check out some of my smaller projects and experiments [here](/dataviz2.md).
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
