@@ -16,12 +16,13 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
   <summary>Click to expand!</summary>
 
 <p align="center">
-<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92001153-546c5e00-ed0c-11ea-9070-3c213a22c070.jpg">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92001153-546c5e00-ed0c-11ea-9070-3c213a22c070.jpg">
 </p>
 
-<details>
 
 [Return to top](#jump-to-section)
+
+<details>
 
 ## Homepage
 
