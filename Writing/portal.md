@@ -1,4 +1,4 @@
-# Writing Portfolio
+# Academic and Professional Writing
 Below you'll find examples of my academic and professional writing. To view a project, just navigate to the description and click the **open project** link.
 
 #### Jump to Section
