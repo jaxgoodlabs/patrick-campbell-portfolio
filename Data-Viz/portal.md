@@ -44,7 +44,7 @@ My final project for my 94-870: Telling Stories with Data course at CMU in which
 
 <details>
   <summary>Click to expand!</summary>
-
+</br>
 See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/final_project_PatrickCampbell).
 
 [Return to top](#jump-to-section)
@@ -54,7 +54,7 @@ See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/fin
 ### Smaller Projects and Experiments
 <details>
   <summary>Click to expand!</summary>
-
+</br>
 Check out some of my smaller projects and experiments [here](/dataviz2.md).
 
 [Return to top](#jump-to-section)
