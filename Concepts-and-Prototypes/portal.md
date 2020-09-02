@@ -12,8 +12,6 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 
 ## Antfarm.io
 
-test
-
 <details>
   <summary>Click to expand!</summary>
 
@@ -21,13 +19,12 @@ test
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92001153-546c5e00-ed0c-11ea-9070-3c213a22c070.jpg">
 </p>
 
+
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Homepage
-
-test
 
 <details>
   <summary>Click to expand!</summary>
@@ -35,7 +32,7 @@ test
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Amateurs, Inc.
 
@@ -45,7 +42,7 @@ test
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
   
 ## GoodLabs
 
@@ -55,7 +52,7 @@ test
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
   
 ## Pop-up Consulting
 
@@ -65,12 +62,13 @@ test
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
   
 ## Virtual City
 
 <details>
   <summary>Click to expand!</summary>
+
 
 <p align="center">
 <img width="100%" height="100%" src="">
@@ -78,4 +76,4 @@ test
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
