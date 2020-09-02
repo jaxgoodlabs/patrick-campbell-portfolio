@@ -11,7 +11,7 @@ A project I completed for my 94-870: Telling Stories with Data course at CMU in 
 
 <details>
   <summary>Click to expand!</summary>
-<br />
+
 For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [The Chartbook of Economic Inequality](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/).
 
 I chose this visualization because I was interested in the topic of economic inequality and familiar with the narrative in general (i.e., that inequality in the US is on the rise), but not particularly clear on its finer details. When I found this graph and saw all the technical jargon it contained, I saw an opportunity to test the limits of what effective data visualization techniques could accomplish. I was confident that I could clean the chart up aesthetically, but I was less confident of how accessible I could make its content given the technical nature of the underlying data.
@@ -44,7 +44,7 @@ My final project for my 94-870: Telling Stories with Data course at CMU in which
 
 <details>
   <summary>Click to expand!</summary>
-<br />
+
 See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/final_project_PatrickCampbell).
 
 [Return to top](#jump-to-section)
