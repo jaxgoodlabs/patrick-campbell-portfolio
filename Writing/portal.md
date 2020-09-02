@@ -8,6 +8,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [Sustainable Campus Project Final Report](#sustainable-campus-project-final-report)
   - [Cost and Carbon Analysis of the Impact of Inaction](#cost-and-carbon-analysis-of-the-impact-of-inaction)
   - [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida)
+  - [Policy Statement on the Regulation of Commercial Search Engines](#policy-statement-on-the-regulation-of-commercial-search-engines)
   - [Can Earlier Onboarding Increase Voter Turnout Among Young Voters?](#can-earlier-onboarding-increase-voter-turnout-among-young-voters)
   - [Supercharging the Booster Break](#supercharging-the-booster-break)
   - [From a PUSH to a Nudge: How a bit of handholding can help more PUSH universities transition to open data policies](#from-a-push-to-a-nudge-how-a-bit-of-handholding-can-help-more-push-universities-transition-to-open-data-policies)
@@ -47,6 +48,10 @@ Below you'll find examples of my academic and professional writing. To view a pr
 #### Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese pythons in South Florida
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Optimizing%20Coverage%20of%20Hunting%20Areas%20for%20Maximum%20Removal%20of%20Burmese%20pythons%20in%20South%20Florida.pdf)
+
+#### Policy Statement on the Regulation of Commercial Search Engines
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Policy%20Statement%20on%20the%20Regulation%20of%20Commercial%20Search%20Engines.pdf)
 
 #### Can Earlier Onboarding Increase Voter Turnout Among Young Voters?
 
