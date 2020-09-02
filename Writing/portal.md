@@ -21,49 +21,49 @@ Below you'll find examples of my academic and professional writing. To view a pr
 ## Public Policy
 ### Does Intellectual Propery Lead to Economic Growth?
 
-[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Does%20Intellectual%20Propery%20Lead%20to%20Economic%20Growth.pdf)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Does%20Intellectual%20Propery%20Lead%20to%20Economic%20Growth.pdf)
 
 ### An Assessment of Community-Based Models for the Conservation of Biodiversity
 
-[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/An%20Assessment%20of%20Community%20Based%20Models%20for%20the%20Conservation%20of%20Biodiversity.pdf)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/An%20Assessment%20of%20Community%20Based%20Models%20for%20the%20Conservation%20of%20Biodiversity.pdf)
 
 ## Philosophy
 ### A Volitional Analysis of Moral Obligations
 
-[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
 
 ### Descartes: Theodicy of Error
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Descartes_Theodicy%20of%20Error.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Descartes_Theodicy%20of%20Error.pdf)
 
 ### Making Room for Volitionism
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Making%20Room%20for%20Volitionism.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Making%20Room%20for%20Volitionism.pdf)
 
 ### Ontology and the Implications of Existence
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Ontology%20and%20the%20Implications%20of%20Existence.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Ontology%20and%20the%20Implications%20of%20Existence.pdf)
 
 ### Kant on Human Freedom
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Kant%20on%20Human%20Freedom.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Kant%20on%20Human%20Freedom.pdf)
 
 ### Schematism and the Second Analogy
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Schematism%20and%20the%20Second%20Analogy.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Schematism%20and%20the%20Second%20Analogy.pdf)
 
 ### Spinoza's Modal Metaphysics
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Spinoza_s%20Modal%20Metaphysics.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Spinoza_s%20Modal%20Metaphysics.pdf)
 
 ### James on Achieving Intimacy with God
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/James%20on%20Achieving%20Intimacy%20with%20God.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/James%20on%20Achieving%20Intimacy%20with%20God.pdf)
 
 ### Jubien: Are All Kinds Created Equal?
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Jubien_Are%20All%20Kinds%20Created%20Equal.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Jubien_Are%20All%20Kinds%20Created%20Equal.pdf)
 
 ### Belief and Autonomy
 
-[Link](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Belief%20and%20Autonomy.pdf)
+[Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Belief%20and%20Autonomy.pdf)
