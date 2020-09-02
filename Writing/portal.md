@@ -7,6 +7,13 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [An Assessment of Community-Based Models for the Conservation of Biodiversity](#an-assessment-of-community-based-models-for-the-conservation-of-biodiversity)
   - [Sustainable Campus Project Final Report](#sustainable-campus-project-final-report)
   - [Cost and Carbon Analysis of the Impact of Inaction](#cost-and-carbon-analysis-of-the-impact-of-inaction)
+  - [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida)
+  - [Can Earlier Onboarding Increase Voter Turnout Among Young Voters?](#can-earlier-onboarding-increase-voter-turnout-among-young-voters)
+  - [Supercharging the Booster Break](#supercharging-the-booster-break)
+  - [From a PUSH to a Nudge: How a bit of handholding can help more PUSH universities transition to open data policies](#from-a-push-to-a-nudge-how-a-bit-of-handholding-can-help-more-push-universities-transition-to-open-data-policies)
+  - [Peru’s Economic Relations with the US and China](#perus-economic-relations-with-the-us-and-china)
+  - [China’s Economic and Military Power](#chinas-economic-and-military-power)
+  - [Cold War Policies of the Truman Administration Toward the Soviet Union](#cold-war-policies-of-the-truman-administration-toward-the-soviet-union)
 
 - [Philosopy](#philosophy)
   - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
@@ -36,6 +43,34 @@ Below you'll find examples of my academic and professional writing. To view a pr
 #### Cost and Carbon Analysis of the Impact of Inaction
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Cost%20and%20Carbon%20Analysis%20of%20the%20Impact%20of%20Inaction.pdf)
+
+#### Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese pythons in South Florida
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Optimizing%20Coverage%20of%20Hunting%20Areas%20for%20Maximum%20Removal%20of%20Burmese%20pythons%20in%20South%20Florida.pdf)
+
+#### Can Earlier Onboarding Increase Voter Turnout Among Young Voters?
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Can%20Earlier%20Onboarding%20Increase%20Voter%20Turnout%20Among%20Young%20Voters?.pdf)
+
+#### Supercharging the Booster Break
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Supercharging%20the%20Booster%20Break.pdf)
+
+#### From a PUSH to a Nudge: How a bit of handholding can help more PUSH universities transition to open data policies
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/From%20a%20PUSH%20to%20a%20Nudge_How%20a%20bit%20of%20handholding%20can%20help%20more%20PUSH%20universities%20transition%20to%20open%20data%20policies.pdf)
+
+#### Peru’s Economic Relations with the US and China
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Peru’s%20Economic%20Relations%20with%20the%20US%20and%20China.pdf)
+
+#### China’s Economic and Military Power
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/China_s%20Economic%20and%20Military%20Power.pdf)
+
+#### Cold War Policies of the Truman Administration Toward the Soviet Union
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Cold%20War%20Policies%20of%20the%20Truman%20Administration%20Toward%20the%20Soviet%20Union.pdf)
 
 ## Philosophy
 #### A Volitional Analysis of Moral Obligations
