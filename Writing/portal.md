@@ -32,7 +32,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 ## Public Policy
 #### Evidence for a Gender Wage Gap in the 1979 National Longitudinal Survey of Youth
 
-[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Evidence%20for%20a%20Gender%20wage%20Gap%20in%20the%201979%20National%20Longitudinal%20Survey%20of%20Youth.html)
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Evidence-for-a-Gender-wage-Gap-in-the-1979-National-Longitudinal-Survey-of-Youth.html)
 
 #### Does Intellectual Propery Lead to Economic Growth?
 
