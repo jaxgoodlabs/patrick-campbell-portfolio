@@ -25,7 +25,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 ### An Assessment of Community-Based Models for the Conservation of Biodiversity
 
-[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/An%20Assessment%20of%20Community%20Based%20Models%20for%20the%20Conservation%20of%20 Biodiversity.pdf)
+[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/An%20Assessment%20of%20Community%20Based%20Models%20for%20the%20Conservation%20of%20Biodiversity.pdf)
 
 ## Philosophy
 ### A Volitional Analysis of Moral Obligations
