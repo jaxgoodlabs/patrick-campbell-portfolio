@@ -2,18 +2,33 @@
 Below you'll find examples of my academic and professional writing. To view a project, just navigate to the description and click the **open project** link.
 
 #### Jump to Section
-- [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
-- [Descartes: Theodicy of Error](#descartes-theodicy-of-error)
-- [Making Room for Volitionism](#making-room-for-volitionism)
-- [Ontology and the Implications of Existence](#ontology-and-the-implications-of-existence)
-- [Kant on Human Freedom](#kant-on-human-freedom)
-- [Schematism and the Second Analogy](#schematism-and-the-second-analogy)
-- [Spinoza's Modal Metaphysics](#spinozas-modal-metaphysics)
-- [James on Achieving Intimacy with God](#james-on-achieving-intimacy-with-god)
-- [Jubien: Are All Kinds Created Equal?](#jubien-are-all-kinds-created-equal)
-- [Belief and Autonomy](#belief-and-autonomy)
+- [Public Policy](#pulic-policy)
+  - [Does Intellectual Propery Lead to Economic Growth?](#does-intellectual-propery-lead-to-economic-growth)
+  - [An Assessment of Community-Based Models for the Conservation of Biodiversity](#an-assessment-of-community-based-models-for-the-conservation-of-biodiversity)
 
-## A Volitional Analysis of Moral Obligations
+- [Philosopy]
+  - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
+  - [Descartes: Theodicy of Error](#descartes-theodicy-of-error)
+  - [Making Room for Volitionism](#making-room-for-volitionism)
+  - [Ontology and the Implications of Existence](#ontology-and-the-implications-of-existence)
+  - [Kant on Human Freedom](#kant-on-human-freedom)
+  - [Schematism and the Second Analogy](#schematism-and-the-second-analogy)
+  - [Spinoza's Modal Metaphysics](#spinozas-modal-metaphysics)
+  - [James on Achieving Intimacy with God](#james-on-achieving-intimacy-with-god)
+  - [Jubien: Are All Kinds Created Equal?](#jubien-are-all-kinds-created-equal)
+  - [Belief and Autonomy](#belief-and-autonomy)
+  
+## Public Policy
+### Does Intellectual Propery Lead to Economic Growth?
+
+[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Does%20Intellectual%20Propery%20Lead%20to%20Economic%20Growth.pdf)
+
+### An Assessment of Community-Based Models for the Conservation of Biodiversity
+
+[Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/An%20Assessment%20of%20Community%20Based%20Models%20for%20the%20Conservation%20of%20 Biodiversity.pdf)
+
+## Philosophy
+### A Volitional Analysis of Moral Obligations
 
 [Link](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
 
