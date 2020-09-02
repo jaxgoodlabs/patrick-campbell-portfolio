@@ -19,51 +19,51 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [Belief and Autonomy](#belief-and-autonomy)
   
 ## Public Policy
-### Does Intellectual Propery Lead to Economic Growth?
+#### Does Intellectual Propery Lead to Economic Growth?
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Does%20Intellectual%20Propery%20Lead%20to%20Economic%20Growth.pdf)
 
-### An Assessment of Community-Based Models for the Conservation of Biodiversity
+#### An Assessment of Community-Based Models for the Conservation of Biodiversity
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/An%20Assessment%20of%20Community%20Based%20Models%20for%20the%20Conservation%20of%20Biodiversity.pdf)
 
 ## Philosophy
-### A Volitional Analysis of Moral Obligations
+#### A Volitional Analysis of Moral Obligations
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/A%20Volitional%20Analysis%20of%20Moral%20Obligations.pdf)
 
-### Descartes: Theodicy of Error
+#### Descartes: Theodicy of Error
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Descartes_Theodicy%20of%20Error.pdf)
 
-### Making Room for Volitionism
+#### Making Room for Volitionism
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Making%20Room%20for%20Volitionism.pdf)
 
-### Ontology and the Implications of Existence
+#### Ontology and the Implications of Existence
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Ontology%20and%20the%20Implications%20of%20Existence.pdf)
 
-### Kant on Human Freedom
+#### Kant on Human Freedom
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Kant%20on%20Human%20Freedom.pdf)
 
-### Schematism and the Second Analogy
+#### Schematism and the Second Analogy
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Schematism%20and%20the%20Second%20Analogy.pdf)
 
-### Spinoza's Modal Metaphysics
+#### Spinoza's Modal Metaphysics
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Spinoza_s%20Modal%20Metaphysics.pdf)
 
-### James on Achieving Intimacy with God
+#### James on Achieving Intimacy with God
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/James%20on%20Achieving%20Intimacy%20with%20God.pdf)
 
-### Jubien: Are All Kinds Created Equal?
+#### Jubien: Are All Kinds Created Equal?
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Jubien_Are%20All%20Kinds%20Created%20Equal.pdf)
 
-### Belief and Autonomy
+#### Belief and Autonomy
 
 [Open Project](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Writing/Belief%20and%20Autonomy.pdf)
