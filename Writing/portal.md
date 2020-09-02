@@ -6,7 +6,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [Does Intellectual Propery Lead to Economic Growth?](#does-intellectual-propery-lead-to-economic-growth)
   - [An Assessment of Community-Based Models for the Conservation of Biodiversity](#an-assessment-of-community-based-models-for-the-conservation-of-biodiversity)
   - [Sustainable Campus Project Final Report](#sustainable-campus-project-final-report)
-  - []
+  - [Cost and Carbon Analysis of the Impact of Inaction](#cost-and-carbon-analysis-of-the-impact-of-inaction)
 
 - [Philosopy](#philosophy)
   - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
@@ -32,6 +32,10 @@ Below you'll find examples of my academic and professional writing. To view a pr
 #### Sustainable Campus Project Final Report
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Sustainable%20Campus%20Project%20Final%20Report.pdf)
+
+#### Cost and Carbon Analysis of the Impact of Inaction
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Cost%20and%20Carbon%20Analysis%20of%20the%20Impact%20of%20Inaction.pdf)
 
 ## Philosophy
 #### A Volitional Analysis of Moral Obligations
