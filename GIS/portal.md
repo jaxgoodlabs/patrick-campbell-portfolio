@@ -111,7 +111,7 @@ Below is a proposed text message that the North Carolina DMV can send out that i
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Mapping Damage from Hurricane Katrina
 An exercise I completed for the 90-753: Advanced GIS course at CMU in which I map the extent of damage across 3 coastal Mississippi counties due to Hurricane Katrina.
@@ -155,7 +155,7 @@ The map below shows the infrastructure and health facilities at risk from the Hu
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Visualizing 412 Food Rescue Data with Kepler
 An exercise I completed for the 90-753: Advanced GIS course at CMU in which I use the [Kepler.gl tool](https://kepler.gl/) to visualize data collected by the [412 Food Rescue](https://412foodrescue.org/) service in Pittsburgh, Pennsylvania.
@@ -173,7 +173,7 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to 
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Investigating Patterns in my Google Location Data
 An exercise I completed for the 90-753: Advanced GIS course at CMU in which I use ArcGIS Pro to investigate patterns in my Google Location Data.
@@ -205,7 +205,7 @@ To see how easily I could extract this sort of information from these data, I us
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Final Project: Hazus Flood Modeling for Miami, FL
 My final project for the 90-753: Advanced GIS course at CMU. For this project, I use a variety of GIS software and supplementary applications to model flooding in Miami, Florida. 
@@ -288,7 +288,7 @@ A secondary goal of this project was to troubleshoot various tutorials and flood
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Sustainable Campus Project
 My final project for the 94-802: Geographic Information Systems course at CMU. For this project, I use ArcGIS Pro and [Mapbox](https://www.mapbox.com/) to visualize the greenhouse gas emissions of CMU-owned and leased buildings.
@@ -304,7 +304,7 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) to 
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Sustainable City Project
 An extension of my Sustainable Campus Project I completed for the City of Pittsburgh's [Division of Sustainability and Resilience](https://pittsburghpa.gov/dcp/sustainability-resilience#:~:text=As%20a%20division%2C%20we%20champion,city%20through%20holistic%20decision%20making). For this project, I use ArcGIS Pro and [Mapbox](https://www.mapbox.com/) to visualize the changes in emissions from 2017 to 2018 for all buildings falling under Pittsburgh's new [Building Benchmarking Ordinance](https://pittsburghpa.gov/dcp/building-benchmarking).
@@ -320,7 +320,7 @@ Click [here](https://jaxgoodlabs.github.io/SustainableCity/) to view the interac
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Norwalk Transportation Project
 My final group project for the 90-783: Policy Innovation Lab - Smart Cities course at CMU. For this project, I used ArcGIS Pro to help guide recommendations to the City of Norwalk's [Department of Transportation, Mobility and Parking](https://www.norwalkct.org/1827/Transportation-Mobility-and-Parking) regarding how to best improve wayfinding for the city's residents and visitors using the city’s public transit infrastructure.
@@ -336,7 +336,7 @@ Click [here](https://github.com/jaxgoodlabs/Norwalk_Transportation/) to view thi
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Pittsburgh Electric Vehicle Site Analysis
 An in-depth site analysis for EV infrastructure I completed for the City of Pittsburgh's [Division of Sustainability and Resilience](https://pittsburghpa.gov/dcp/sustainability-resilience#:~:text=As%20a%20division%2C%20we%20champion,city%20through%20holistic%20decision%20making).
@@ -352,7 +352,7 @@ Click [here](https://github.com/jaxgoodlabs/Pitt_EV_Bike_Ped_Site_Analysis) to v
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida
 
@@ -364,7 +364,7 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Bumblebee Conservation in the Midwest US
 
@@ -376,7 +376,7 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Resilience Oriented Planning Map
 
@@ -385,7 +385,10 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 </p>
 
 <details>
+  <summary>Click to expand!</summary>
 
 Click [here](https://jaxgoodlabs.github.io/pittsburgh-hazards-map) to view this project.
 
 [Return to top](#jump-to-section)
+
+</details>
