@@ -77,6 +77,8 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Cold%20War%20Policies%20of%20the%20Truman%20Administration%20Toward%20the%20Soviet%20Union.pdf)
 
+</br>
+
 ## Philosophy
 #### A Volitional Analysis of Moral Obligations
 
