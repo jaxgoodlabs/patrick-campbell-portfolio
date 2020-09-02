@@ -33,7 +33,7 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ### Final Project
 My final project for my 94-870: Telling Stories with Data course at CMU in which I use effective data visualization to argue that universities should adopt open data policies.
