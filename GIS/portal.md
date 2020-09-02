@@ -54,24 +54,24 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html) to
 ## ArcGIS Map Style: Plant Growing in the Desert
 For this exercise, I wanted to make another attempt at executing my concept from last week - which, again, was to use a contrasting color scheme to highlight the specific elements of a municipality's physical infrastructure (buildings, highways, etc.) used by commons, cooperatives, and other cooperative enterprises. Similar to the previous exercise, I searched for images following a "life and death" theme, where life was represented by living greenery (trees, plants, etc.) and death was represented by burned or desiccated soil or dull, gray concrete. I ended up using  this image of a plant sprouting in the desert.
 
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/77484477-0409df80-6e01-11ea-865e-6f1b805e9d65.JPG">
+</p>
+
 <details>
   <summary>Click to expand!</summary>
 <br />
 A lesson I took away from last week's assignment was that the role of the basemap in a project like I've described is pretty minimal. Most of the contrast I want to draw is between elements of the physical infrastructure, most of which (particularly buildings) is absent from the basemap. For that reason, I decided it was best to use a subtle, low-contrast color scheme for the basemap and give priority to the duller hues, i.e., the browns, taupes, and beiges. I used the greens for their traditional purpose of demarcating parks and natural areas, saving the brighter tones for those map layers I would add later.<br />
 <br />
 To execute my vision, I selected the Modern Antique template. I naturally think of the development of the commons-based infrastructure as a sort of frontiersman/early-explorer sort of enterprise, so I wanted to use a basemap that had an older, antique feel to it. This template also looked like it would work well for the subtle, low-contrast color scheme I had in mind.
+<br />
+A screenshot of my final map style is copied above. (Click [here](https://arcg.is/1qPCSb) to view the fully interactive version.)
+<br />
+The big test for how effective my basemap is has to do with how well it supports the message I want to communicate with the layers I add later, specifically, buildings, roads, etc. This is where I'd want to focus my attention when QA-ing the final product. At first glance, I'm satisfied with how everything is rendering. I like the general subdued tone of the map and the old-timey feel it has.
 
-A screenshot of my final map style is copied below. (Click [here](https://arcg.is/1qPCSb) to view the fully interactive version.)
+One change I'd like to make to improve my final map is to dull the color used for certain parks/natural areas. For whatever reason, the template I used automatically dulled the green for most of these areas but left certain polygons with the full color saturation (see, e.g., the top right corner of Schenley Park in the main screenshot above). Because I don't want my basemap to compete with added layers (specifically the physical infrastructure layers that are the map's primary subject), I'd prefer all these areas to be the same shade of green.
 
-<p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/77484477-0409df80-6e01-11ea-865e-6f1b805e9d65.JPG">
-</p>
-
-The big test for how effective my basemap is has to do with how well it supports the message I want to communicate with the layers I add later, specifically, buildings, roads, etc. This is where I'd want to focus my attention when QA-ing the final product. At first glance, I'm satisfied with how everything is rendering. I like the general subdued tone of the map and the old-timey feel it has. 
-
-One change I'd like to make to improve my final map is to dull the color used for certain parks/natural areas. For whatever reason, the template I used automatically dulled the green for most of these areas but left certain polygons with the full color saturation (see, e.g., the top right corner of Schenley Park in the main screenshot above). Because I don't want my basemap to compete with added layers (specifically the physical infrastructure layers that are the map's primary subject), I'd prefer all these areas to be the same shade of green. 
-
-One unanswered question, which may affect my comments above, has to do with which additional map layers end up being relevant to the final map, and how my design choices for those features interact with those of my basemap. For example,  I mentioned that I want to display large portions of the physical infrastructure layers as background/contextual layers also, using a similar color scheme to those I've used for the basemap. (This is necessary, e.g., to highlight those specific portions of that infrastructure that are utilized by cooperative enterprises.) So one thing I'd want to pay special attention to is how well that effect works when it's being duplicated at both the basemap and feature layers, or if, alternatively, I need to make some adjustments to the basemap to preserve the impact at the feature level. 
+One unanswered question, which may affect my comments above, has to do with which additional map layers end up being relevant to the final map, and how my design choices for those features interact with those of my basemap. For example,  I mentioned that I want to display large portions of the physical infrastructure layers as background/contextual layers also, using a similar color scheme to those I've used for the basemap. (This is necessary, e.g., to highlight those specific portions of that infrastructure that are utilized by cooperative enterprises.) So one thing I'd want to pay special attention to is how well that effect works when it's being duplicated at both the basemap and feature layers, or if, alternatively, I need to make some adjustments to the basemap to preserve the impact at the feature level.
 
 [Return to top](#jump-to-section)
 
@@ -160,14 +160,14 @@ The map below shows the infrastructure and health facilities at risk from the Hu
 ## Visualizing 412 Food Rescue Data with Kepler
 An exercise I completed for the 90-753: Advanced GIS course at CMU in which I use the [Kepler.gl tool](https://kepler.gl/) to visualize data collected by the [412 Food Rescue](https://412foodrescue.org/) service in Pittsburgh, Pennsylvania.
 
-<details>
-  <summary>Click to expand!</summary>
-
-Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
-
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/79072640-1ebccf00-7cb0-11ea-8d3c-50a9fee402d5.JPG">
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
+
+Above is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
 
 Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
 
@@ -210,12 +210,12 @@ To see how easily I could extract this sort of information from these data, I us
 ## Final Project: Hazus Flood Modeling for Miami, FL
 My final project for the 90-753: Advanced GIS course at CMU. For this project, I use a variety of GIS software and supplementary applications to model flooding in Miami, Florida. 
 
-<details>
-  <summary>Click to expand!</summary>
-
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80930537-2a1c8b00-8d82-11ea-9803-c63422e9555e.JPG">
 </p>
+
+<details>
+  <summary>Click to expand!</summary>
 
 *Overview*
 
