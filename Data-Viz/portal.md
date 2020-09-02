@@ -12,7 +12,7 @@ A project I completed for my 94-870: Telling Stories with Data course at CMU in 
 <details>
   <summary>Click to expand!</summary>
 <br />
-For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [“The Chartbook of Economic Inequality.”](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/)
+For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [“The Chartbook of Economic Inequality”](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/).
 
 I chose this visualization because I was interested in the topic of economic inequality and familiar with the narrative in general (i.e., that inequality in the US is on the rise), but not particularly clear on its finer details. When I found this graph and saw all the technical jargon it contained, I saw an opportunity to test the limits of what effective data visualization techniques could accomplish. I was confident that I could clean the chart up aesthetically, but I was less confident of how accessible I could make its content given the technical nature of the underlying data.
 
@@ -39,8 +39,7 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 My final project for my 94-870: Telling Stories with Data course at CMU in which I use effective data visualization to argue that universities should adopt open data policies.
 
 <p align="left">
-<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92024734-8f7e8980-ed2c-11ea-8e9e-73ccfa56bdcb.JPG
-">
+<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92024734-8f7e8980-ed2c-11ea-8e9e-73ccfa56bdcb.JPG">
 </p>
 
 <details>
