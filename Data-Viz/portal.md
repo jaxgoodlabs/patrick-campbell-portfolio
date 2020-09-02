@@ -38,6 +38,11 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 ### Final Project
 My final project for my 94-870: Telling Stories with Data course at CMU in which I use effective data visualization to argue that universities should adopt open data policies.
 
+<p align="left">
+<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92024734-8f7e8980-ed2c-11ea-8e9e-73ccfa56bdcb.JPG
+">
+</p>
+
 <details>
   <summary>Click to expand!</summary>
 
