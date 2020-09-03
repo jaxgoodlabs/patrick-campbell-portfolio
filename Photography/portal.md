@@ -15,10 +15,14 @@ A collection of images in the style of [Meet Your Neighbours](https://www.facebo
 <details>
   <summary>Click to expand!</summary>
 
+Use the links below to navigate to each collection.
+
+1. [Florida Herpetofauna](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/FloridaHerps)
+2. [Peruvian Herpetofauna)(https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/PeruHerps)
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
 
 ## Florida Wildlife
 A collection of images of Florida wildlife.
@@ -30,4 +34,4 @@ A collection of images of Florida wildlife.
 
 [Return to top](#jump-to-section)
 
-<details>
+</details>
