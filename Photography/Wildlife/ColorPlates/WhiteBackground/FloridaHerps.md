@@ -12,11 +12,30 @@ Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650296-9d41bf80-ea4b-11ea-8cbc-af01d0848e50.jpg">
 </p>
 
+#### Chelydridae (Snapping turtles)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068295-94672b80-ed74-11ea-8d55-4134371f4650.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068418-d85a3080-ed74-11ea-80c8-3c2104afe2ee.jpg">
+</p>
+
 #### Emydidae (Pond turtles)
 <p align="center">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650289-8f8c3a00-ea4b-11ea-851e-67fa106fcdb2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650292-92872a80-ea4b-11ea-9a7e-d065251bcc9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650301-a894eb00-ea4b-11ea-977e-cd0fb647d38a.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068812-e65c8100-ed75-11ea-8cb4-6f35cc2f2388.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068816-e78dae00-ed75-11ea-9b51-4f9b34e84c05.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068813-e6f51780-ed75-11ea-865c-ff8ccb49aa23.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068828-ef4d5280-ed75-11ea-8d3f-cffaf623b0f9.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068830-f07e7f80-ed75-11ea-89f4-bed7396a23de.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068829-efe5e900-ed75-11ea-9456-25674f0c2668.jpg">
+</p>
+
+#### Kinosternidae (Mud turtles and musk turtles)
+<p align="center">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068808-e3619080-ed75-11ea-94fa-7b41dd726322.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068807-e2c8fa00-ed75-11ea-8aa5-7ba6f064307d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068805-e2306380-ed75-11ea-86b4-fbcc927e8859.jpg">
 </p>
 
 #### Testudinidae (Tortoises)
@@ -68,6 +87,11 @@ Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91669104-4e923500-eae0-11ea-84ba-8bb4d75c1f6a.jpg">
 </p>
 
+#### Anguidae (Glass lizards)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068580-4a327a00-ed75-11ea-96b4-3bc209d9da9c.jpg">
+</p>
+
 ### (Snakes)
 #### Viperidae (Vipers)
 <p align="left">
@@ -93,9 +117,15 @@ Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91857854-7eebe780-ec36-11ea-84a1-5952c7459417.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91873629-3f79c700-ec47-11ea-8683-f3620ab236ff.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91883353-4ce87e80-ec52-11ea-9330-a09598cf3232.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068478-0ccdec80-ed75-11ea-929d-1eac698178b0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91918460-eb93d000-ec90-11ea-8fdb-cfdb616f2906.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91873758-6cc67500-ec47-11ea-8b06-c2aa262901c1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068761-c62cc200-ed75-11ea-99fd-e30f2fac59a1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068571-456dc600-ed75-11ea-8ce7-4c25d478552d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91895715-b0c87280-ec65-11ea-880e-cf44ae66dd89.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068253-7699c680-ed74-11ea-9e50-49d75590b956.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068499-1c4d3580-ed75-11ea-828d-d040a849d86b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068542-31c25f80-ed75-11ea-957a-ab16ca45e395.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
