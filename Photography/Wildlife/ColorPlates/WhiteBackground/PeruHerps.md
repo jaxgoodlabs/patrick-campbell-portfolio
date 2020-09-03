@@ -1,6 +1,6 @@
 # Peruvian Herpetofauna
 
-Below is a collection of images of reptiles and amphibians collected from various regions of Florida. Photos are organized by taxonomic category.
+Below is a collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru. Photos are organized by taxonomic category.
 
 Click on an image to enlarge it.
 
