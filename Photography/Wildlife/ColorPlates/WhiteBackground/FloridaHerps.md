@@ -33,8 +33,8 @@ Click on an image to enlarge it.
 
 #### Kinosternidae (Mud turtles and musk turtles)
 <p align="center">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068808-e3619080-ed75-11ea-94fa-7b41dd726322.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068807-e2c8fa00-ed75-11ea-8aa5-7ba6f064307d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068808-e3619080-ed75-11ea-94fa-7b41dd726322.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068805-e2306380-ed75-11ea-86b4-fbcc927e8859.jpg">
 </p>
 
