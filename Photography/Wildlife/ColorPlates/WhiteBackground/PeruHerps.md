@@ -1,8 +1,12 @@
 # Peruvian Herpetofauna
 
-Below is a collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru. Photos are organized by taxonomic category.
+Below is a collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru (pictured below). 
 
-Click on an image to enlarge it.
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92166028-f15ef200-ee05-11ea-8fa0-e25e9df3864e.JPG">
+</p>
+
+Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 ## Testudinides (Turtles and Tortoises)
 #### Testudinidae (Tortoises)
