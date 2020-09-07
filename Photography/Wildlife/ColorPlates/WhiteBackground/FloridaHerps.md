@@ -3,7 +3,7 @@
 Below is a collection of images of reptiles and amphibians collected from various regions of Florida (pictured below).
 
 <p align="center">
-<img width=100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92187135-f3857880-ee26-11ea-9c8d-61e2ff218387.JPG">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92187135-f3857880-ee26-11ea-9c8d-61e2ff218387.JPG">
 </p>
 
 Photos are organized by taxonomic category. Click on an image to enlarge it.
