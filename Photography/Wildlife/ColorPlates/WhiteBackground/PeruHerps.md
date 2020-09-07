@@ -29,7 +29,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
 </p>
 
-#### Alopoglossidae ()
+#### Alopoglossidae
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049361-3593b900-ed58-11ea-92d0-8e37b7c1dda6.jpg">
 <img width="33%" height="33%" src="">
