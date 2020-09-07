@@ -195,5 +195,5 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ### Urodela
 #### Sirenidae (Sirens)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/92413840-eb2b8700-f11f-11ea-9028-520dd573d879.jpg">
+<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
 </p>
