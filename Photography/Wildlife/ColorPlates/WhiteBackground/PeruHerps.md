@@ -24,6 +24,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="">
 </p>
 
+#### Gymnophthalmidae (Spectacled lizards)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
+</p>
+
 #### Alopoglossidae ()
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049361-3593b900-ed58-11ea-92d0-8e37b7c1dda6.jpg">
@@ -110,7 +115,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92059938-8c9d8c00-ed60-11ea-818e-ecd6bdfa0ebe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
 <img width="33%" height="33%" src="">
 <img width="33%" height="33%" src="">
 <img width="33%" height="33%" src="">
