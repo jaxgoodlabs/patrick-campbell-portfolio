@@ -19,7 +19,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Dactyloidae (Anoles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92053920-e64f8780-ed5b-11ea-95a2-c608ba743282.jpg">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421408-62741180-f146-11ea-84d0-caf392b90c48.jpg">
 <img width="33%" height="33%" src="">
 <img width="33%" height="33%" src="">
 </p>
@@ -43,7 +43,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Teiidae (Whiptails)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049347-2d3b7e00-ed58-11ea-8baf-5479f7c5987c.jpg">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421394-54be8c00-f146-11ea-9f06-893bdf5734ed.jpg">
 <img width="33%" height="33%" src="">
 </p>
 
