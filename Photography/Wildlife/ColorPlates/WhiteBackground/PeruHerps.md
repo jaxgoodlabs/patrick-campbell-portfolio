@@ -80,7 +80,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Typhlopidae (Blind snakes)
 <p align="left">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92422194-55592180-f14a-11ea-85b0-8ba2d8f00f66.jpg">
 </p>
 
 # Amphibia (Frogs, Toads, Salamanders, and Caecelians)
