@@ -11,9 +11,6 @@ A collection of images in the style of [Meet Your Neighbours](https://www.facebo
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/90993291-49823280-e582-11ea-8418-b2e8b31ae2f5.jpg">
 </p>
 
-<details>
-  <summary>Click to expand!</summary>
-
 Use the links below to navigate to each collection.
 
 [Florida Herpetofauna](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/FloridaHerps)
@@ -23,8 +20,3 @@ A collection of images of reptiles and amphibians collected from various regions
 [Peruvian Herpetofauna](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/PeruHerps)
 
 A collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru.
-
-
-[Return to top](#jump-to-section)
-
-</details>
