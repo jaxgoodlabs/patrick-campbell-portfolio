@@ -13,7 +13,7 @@ A collection of images in the style of [Meet Your Neighbours](https://www.facebo
 
 <details>
   <summary>Click to expand!</summary>
-
+<br />
 Use the links below to navigate to each collection.
 
 1. [Florida Herpetofauna](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/FloridaHerps)
