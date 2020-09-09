@@ -78,17 +78,21 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 </p>
 
 ## Anura (Frogs and Toads)
-#### Aromobatidae (Poison dart frogs)
+#### Aromobatidae (Cryptic poison frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049108-763f0280-ed57-11ea-9075-dbc5431c552d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049107-75a66c00-ed57-11ea-9089-cb4039710b28.jpg">
+</p>
+
+#### Dendrobatidae (Poison dart frogs)
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92538531-ebee1700-f20c-11ea-9009-93b41bbd9c21.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92538553-f90b0600-f20c-11ea-978f-26ce13007388.jpg">
 </p>
 
 #### Ceratophryidae (Horned frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92055496-59f19480-ed5c-11ea-9513-35fd2334d54c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
