@@ -7,10 +7,16 @@ Below is a collection of images of reptiles and amphibians collected from the Ma
 </p>
 
 Photos are organized by taxonomic category. Click on an image to enlarge it.
+## Crocodilia (Crocodilians)
+#### Alligatoridae (Alligators and caimans)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542000-95390b00-f215-11ea-8918-bcde49895f95.jpg">
+</p>
 
 ## Testudinides (Turtles and Tortoises)
 #### Testudinidae (Tortoises)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
@@ -22,6 +28,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92499411-d3104200-f1c9-11ea-8a74-324bec363693.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92535827-23a59080-f206-11ea-85f9-183f4fce8ed5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541068-07f4b700-f213-11ea-80de-b50d3b2c4ecb.jpg">
+</p>
+
+#### Tropiduridae (Neotropical ground lizards)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542040-b3067000-f215-11ea-8a4a-1ce764fa2af5.jpg">
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
@@ -50,6 +61,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049968-d33bb800-ed59-11ea-9420-53d9255c8e12.jpg">
 </p>
 
+#### Sphaerodactylidae (South American clawed geckos)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542808-ce727a80-f217-11ea-93ea-440d11b76918.jpg">
+</p>
+
 ### (Snakes)
 #### Viperidae (Vipers)
 <p align="left">
@@ -64,6 +80,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Colubridae (Colubrids)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92050197-71c81900-ed5a-11ea-8740-830eb2b267fe.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541992-8fdbc080-f215-11ea-8479-6cc74d95c178.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
@@ -89,6 +107,13 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92538531-ebee1700-f20c-11ea-9009-93b41bbd9c21.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92538553-f90b0600-f20c-11ea-978f-26ce13007388.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542598-2ceb2900-f217-11ea-991e-626d4d235692.jpg">
+</p>
+
+#### Craugstoridae (Fleshbelly frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
 </p>
 
 #### Ceratophryidae (Horned frogs)
@@ -98,6 +123,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Leptodactylidae (Thin-toed frogs)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542964-33c66b80-f218-11ea-893c-cc7885232d40.jpg">
 </p>
 
 #### Hylidae (Tree frogs)
@@ -115,4 +141,5 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Bufonidae (Toads)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91791232-9a2c0800-ebe0-11ea-925b-d1a36b979a11.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541900-47240780-f215-11ea-80cf-fd970220e258.jpg">
 </p>
