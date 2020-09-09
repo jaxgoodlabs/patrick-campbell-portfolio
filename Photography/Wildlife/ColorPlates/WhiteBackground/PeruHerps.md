@@ -21,6 +21,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421408-62741180-f146-11ea-84d0-caf392b90c48.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92499411-d3104200-f1c9-11ea-8a74-324bec363693.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92535827-23a59080-f206-11ea-85f9-183f4fce8ed5.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541068-07f4b700-f213-11ea-80de-b50d3b2c4ecb.jpg">
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
