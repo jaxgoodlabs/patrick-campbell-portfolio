@@ -23,7 +23,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 </p>
 
 #### Emydidae (Terrapins, pond turtles, and marsh turtle)
-<p align="center">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650289-8f8c3a00-ea4b-11ea-851e-67fa106fcdb2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650292-92872a80-ea4b-11ea-9a7e-d065251bcc9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650301-a894eb00-ea4b-11ea-977e-cd0fb647d38a.jpg">
