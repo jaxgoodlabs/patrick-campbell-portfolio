@@ -1,3 +1,9 @@
+<meta property="og:title" content="Florida Herpetofauna" />
+<meta property="og:description" content="Below is a collection of images of reptiles and amphibians collected from various regions of Florida." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/FloridaHerps" />
+<meta property="og:image" content="https://user-images.githubusercontent.com/32546509/92187135-f3857880-ee26-11ea-9c8d-61e2ff218387.JPG" />
+
 # Florida Herpetofauna
 
 Below is a collection of images of reptiles and amphibians collected from various regions of Florida.
