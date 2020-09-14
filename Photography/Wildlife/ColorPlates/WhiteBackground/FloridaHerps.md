@@ -1,6 +1,6 @@
 # Florida Herpetofauna
 
-Below is a collection of images of reptiles and amphibians collected from various regions of Florida (pictured below).
+Below is a collection of images of reptiles and amphibians collected from various regions of Florida.
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92187135-f3857880-ee26-11ea-9c8d-61e2ff218387.JPG">
@@ -22,7 +22,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068418-d85a3080-ed74-11ea-80c8-3c2104afe2ee.jpg">
 </p>
 
-#### Emydidae (Pond turtles)
+#### Emydidae (Terrapins, pond turtles, and marsh turtle)
 <p align="center">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650289-8f8c3a00-ea4b-11ea-851e-67fa106fcdb2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650292-92872a80-ea4b-11ea-9a7e-d065251bcc9d.jpg">
@@ -33,6 +33,10 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068828-ef4d5280-ed75-11ea-8d3f-cffaf623b0f9.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068830-f07e7f80-ed75-11ea-89f4-bed7396a23de.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068829-efe5e900-ed75-11ea-9456-25674f0c2668.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109036-8a510100-f681-11ea-8b1f-b8b4d3f7814d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93108649-0f87e600-f681-11ea-956d-53338e0d5452.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93107972-43aed700-f680-11ea-8d2d-0963843eb7f6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109501-2549db00-f682-11ea-8bbc-ac809ccae18f.jpg">
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
@@ -140,6 +144,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125581-2f8bef80-edcd-11ea-9216-fb0f7ef57f6e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91764049-9bd7da80-eba4-11ea-9bcc-7de61f6b0918.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91785050-6944d680-ebd2-11ea-9f76-603550914e0b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109397-00556800-f682-11ea-948b-4ccf0433a751.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
@@ -150,10 +155,12 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Anura (Frogs and Toads)
 #### Ranidae (True frogs)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338594-68eb8600-f07f-11ea-8e4a-7cc20951c2d1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93110145-ee27f980-f682-11ea-9c5c-cbea9ca46f67.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
@@ -185,6 +192,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91791232-9a2c0800-ebe0-11ea-925b-d1a36b979a11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650456-d11de480-ea4d-11ea-8eb1-ffc1d666e25a.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109716-62ae6880-f682-11ea-8f34-4ea4ef4ce5ec.jpg">
 </p>
 
 #### Scaphiopodidae (Spadefoot toads)
