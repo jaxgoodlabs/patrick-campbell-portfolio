@@ -43,19 +43,24 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Agamidae (Agamids)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156538-50f6b080-f6d6-11ea-9a63-696f2f7c1e9f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247332-2818fe80-f75c-11ea-97bd-ad77b300e14d.jpg">
 </p>
 
 #### Dactyloidae (Anoles)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247740-bf7e5180-f75c-11ea-849b-37f9f2bd5fbe.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93248323-b04bd380-f75d-11ea-8e09-64ee0ca3245d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93248157-78dd2700-f75d-11ea-8655-ecbd643c007d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247999-37e51280-f75d-11ea-9c4d-fcb3b85d1de4.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93248009-3b789980-f75d-11ea-9f23-b7c554075fc7.jpg">
 </p>
 
 #### Scincidae (Skinks)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93233827-85578480-f749-11ea-94ba-c9a668ecba95.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234102-e41cfe00-f749-11ea-8102-5b4729777407.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93248238-97432280-f75d-11ea-8c43-6e606bd4e64e.jpg">
 <img width="33%" height="33%" src="">
-
+<img width="33%" height="33%" src="">
 </p>
 
 #### Teiidae (Whiptails)
@@ -66,8 +71,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Phrynosomatidae (Spiny lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156520-4dfbc000-f6d6-11ea-81cf-a9201da36639.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156525-4f2ced00-f6d6-11ea-8528-636997347b5e.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234422-437b0e00-f74a-11ea-82f3-40e071b16218.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247345-2d764900-f75c-11ea-929b-43a330f50692.jpg">
 </p>
 
 #### Leiocephalidae (Curly-tail lizards)
@@ -111,6 +115,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234759-acfb1c80-f74a-11ea-8457-377d45e01298.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93233240-d87d0780-f748-11ea-9fd9-b08b219697b4.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247786-d3c24e80-f75c-11ea-8093-433a5047af78.jpg">
 </p>
 
 #### Pythonidae (Pythons)
@@ -137,6 +142,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234470-555cb100-f74a-11ea-8e90-1c6705b4456c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234395-3d852d00-f74a-11ea-9386-070335a5d4b4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235733-f5670a00-f74b-11ea-963a-81660f7c6414.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247153-d96b6480-f75b-11ea-822f-5e0f853e7fde.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
