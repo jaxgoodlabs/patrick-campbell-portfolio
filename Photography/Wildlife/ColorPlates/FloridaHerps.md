@@ -12,7 +12,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 ## Testudinides (Turtles and Tortoises)
 ##### Trionychidae (Softshell turtles)
-<p align="center">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156527-4f2ced00-f6d6-11ea-9b94-478bcc1b2436.jpg">
 </p>
 
@@ -28,7 +28,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
-<p align="center">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156548-5227dd80-f6d6-11ea-818e-88a211858494.jpg">
 </p>
 
