@@ -14,7 +14,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ##### Trionychidae (Softshell turtles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156527-4f2ced00-f6d6-11ea-9b94-478bcc1b2436.jpg">
-<img width="33%" height="33%" src="">
 </p>
 
 #### Chelydridae (Snapping turtles)
@@ -25,7 +24,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Emydidae (Terrapins, pond turtles, and marsh turtle)
 <p align="left">
 
-</p>
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
