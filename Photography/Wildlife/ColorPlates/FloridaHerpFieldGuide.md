@@ -164,7 +164,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Leptodactylidae (Thin-toed frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156535-505e1a00-f6d6-11ea-843a-1358c765a63b.jpg">
+
 </p>
 
 #### Hylidae (Tree frogs)
@@ -174,12 +174,12 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Eleutherodactylidae (Rain frogs)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156535-505e1a00-f6d6-11ea-843a-1358c765a63b.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93249589-8a273300-f75f-11ea-865b-67c2c1fe8f83.jpg">
 </p>
 
 #### Bufonidae (Toads)
