@@ -7,6 +7,7 @@ Below is a collection of images of reptiles and amphibians collected from the Ma
 </p>
 
 Photos are organized by taxonomic category. Click on an image to enlarge it.
+
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
 <p align="left">
