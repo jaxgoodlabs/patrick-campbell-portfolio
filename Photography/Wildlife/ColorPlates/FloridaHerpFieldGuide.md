@@ -14,6 +14,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ##### Trionychidae (Softshell turtles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156527-4f2ced00-f6d6-11ea-9b94-478bcc1b2436.jpg">
+<img width="33%" height="33%" src="">
 </p>
 
 #### Chelydridae (Snapping turtles)
@@ -34,7 +35,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Testudinidae (Tortoises)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235828-17f92300-f74c-11ea-8fa1-7db760df01c2.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
@@ -90,6 +91,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 </p>
 
+#### Chamelionidae (Chamelions)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235888-29dac600-f74c-11ea-83b2-888f595456a0.jpg">
+</p>
+
 #### Anguidae (Glass lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234690-994fb600-f74a-11ea-9b77-f16d46f54720.jpg">
@@ -114,6 +120,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Colubridae (Colubrids)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235324-622dd480-f74b-11ea-8ad8-24d6bf20ed01.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235308-5b06c680-f74b-11ea-8e6d-b00f9e88243d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156531-4fc58380-f6d6-11ea-8f79-cc59f4bf9143.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156544-518f4700-f6d6-11ea-80a3-4e381494be33.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156546-5227dd80-f6d6-11ea-9556-90de966bd5da.jpg">
@@ -128,11 +136,17 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234435-48d85880-f74a-11ea-90cb-554705425aff.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234470-555cb100-f74a-11ea-8e90-1c6705b4456c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234395-3d852d00-f74a-11ea-9386-070335a5d4b4.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235733-f5670a00-f74b-11ea-963a-81660f7c6414.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156550-52c07400-f6d6-11ea-9a0e-95330933138f.jpg">
+</p>
+
+#### Elapidae (Elapids)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235396-8093d000-f74b-11ea-8657-919f67fb83c3.jpg">
 </p>
 
 ## Anura (Frogs and Toads)
