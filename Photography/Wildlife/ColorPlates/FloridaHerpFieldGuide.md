@@ -118,7 +118,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234759-acfb1c80-f74a-11ea-8457-377d45e01298.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93233240-d87d0780-f748-11ea-9fd9-b08b219697b4.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247786-d3c24e80-f75c-11ea-8093-433a5047af78.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93249269-09683700-f75f-11ea-81d9-5269ee408f1a.jpg">
 </p>
 
 #### Pythonidae (Pythons)
@@ -137,8 +137,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156556-53f1a100-f6d6-11ea-899b-b0e91315bcb4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156559-548a3780-f6d6-11ea-93aa-786104a2bb8b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93156557-548a3780-f6d6-11ea-8910-094c402176e0.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93233220-d3b85380-f748-11ea-8a3a-fa90ae9dafa0.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93233251-db77f800-f748-11ea-9d19-0e6efe383bde.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93249282-0cfbbe00-f75f-11ea-8ba3-bd3673abba7f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93249220-f81f2a80-f75e-11ea-92d4-43231fb771fc.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93233305-e894e700-f748-11ea-8e8a-89f48a64cc73.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234205-00209f80-f74a-11ea-9fd8-bf303bbf7180.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234435-48d85880-f74a-11ea-90cb-554705425aff.jpg">
@@ -146,7 +146,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93234395-3d852d00-f74a-11ea-9386-070335a5d4b4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93235733-f5670a00-f74b-11ea-963a-81660f7c6414.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93247153-d96b6480-f75b-11ea-822f-5e0f853e7fde.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93248471-dffadb80-f75d-11ea-93ee-ef9a58698af8.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
