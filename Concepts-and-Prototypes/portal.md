@@ -15,8 +15,9 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 </p>
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
+Antfarm.io is a 
 
 [Return to top](#jump-to-section)
 
@@ -28,7 +29,7 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 </p>
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
 
 [Return to top](#jump-to-section)
@@ -48,8 +49,9 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 ## GoodLabs
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
+GoodLabs is a hub for commons-based peer production1 providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations.
 
 [Return to top](#jump-to-section)
 
@@ -58,7 +60,7 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 ## Pop-up Consulting
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
 
 [Return to top](#jump-to-section)
@@ -68,7 +70,7 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 ## Virtual City
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
 
 <p align="center">
