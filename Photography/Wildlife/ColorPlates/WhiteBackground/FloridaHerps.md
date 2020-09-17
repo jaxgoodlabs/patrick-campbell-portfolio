@@ -67,7 +67,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93509869-5890a200-f8ee-11ea-94b9-80230806aa9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510330-fe441100-f8ee-11ea-8775-1b58f6180071.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125979-a1643900-edcd-11ea-8dc5-0c3efee48a27.jpg">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/91673645-151ef100-eb03-11ea-956c-1b9246aceb81.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/91673645-151ef100-eb03-11ea-956c-1b9246aceb81.jpg">
 </p>
 
 #### Scincidae (Skinks)
@@ -212,5 +212,5 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ### Urodela
 #### Sirenidae (Sirens)
 <p align="left">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
 </p>
