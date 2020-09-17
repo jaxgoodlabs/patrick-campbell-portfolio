@@ -72,9 +72,9 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Scincidae (Skinks)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510132-c210b080-f8ee-11ea-9587-38615e11b634.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666859-5fd24600-eace-11ea-8edf-f96cc2fb6b2f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91674270-0980f980-eb06-11ea-837b-d62cbc5f707d.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510132-c210b080-f8ee-11ea-9587-38615e11b634.jpg">
 </p>
 
 #### Teiidae (Whiptails)
