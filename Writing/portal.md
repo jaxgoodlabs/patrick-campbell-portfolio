@@ -4,6 +4,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 #### Jump to Section
 - [Public Policy](#pulic-policy)
   - [Evidence for a Gender Wage Gap in the 1979 National Longitudinal Survey of Youth](#evidence-for-a-gender-wage-gap-in-the-1979-national-longitudinal-survey-of-youth)
+  - [Assessment of the COMPAS Recidivism Algorithm](#assessment-of-the-compas-recidivism-algorithm)
   - [Does Intellectual Propery Lead to Economic Growth?](#does-intellectual-propery-lead-to-economic-growth)
   - [An Assessment of Community-Based Models for the Conservation of Biodiversity](#an-assessment-of-community-based-models-for-the-conservation-of-biodiversity)
   - [Sustainable Campus Project Final Report](#sustainable-campus-project-final-report)
@@ -33,6 +34,10 @@ Below you'll find examples of my academic and professional writing. To view a pr
 #### Evidence for a Gender Wage Gap in the 1979 National Longitudinal Survey of Youth
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Evidence-for-a-Gender-wage-Gap-in-the-1979-National-Longitudinal-Survey-of-Youth.html)
+
+#### Assessment of the COMPAS Recidivism Algorithm (Incomplete)
+
+[Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Assessment-of-the-COMPAS-Recidivism-Algorithm.html)
 
 #### Does Intellectual Propery Lead to Economic Growth?
 
