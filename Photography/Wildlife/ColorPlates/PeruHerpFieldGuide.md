@@ -17,13 +17,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Testudinides (Turtles and Tortoises)
 #### Testudinidae (Tortoises)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544749-c2c83780-f92c-11ea-9da8-402e0ca42d3e.jpg">
-
+  
 </p>
 
 #### Chelidae (Side-necked turtles)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544715-be038380-f92c-11ea-883f-0d8ec7bfcf16.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544716-be9c1a00-f92c-11ea-886a-71f053b34bbd.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544717-be9c1a00-f92c-11ea-9f5b-1592a90961cc.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544719-be9c1a00-f92c-11ea-8748-add352e45094.jpg">
@@ -37,8 +35,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Dactyloidae (Anoles)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544699-b512b200-f92c-11ea-9c78-b9bb6978ab2c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544752-c360ce00-f92c-11ea-9e7a-da1b83f34a2d.jpg">
 </p>
 
 #### Tropiduridae (Neotropical ground lizards)
