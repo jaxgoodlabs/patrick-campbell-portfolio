@@ -35,7 +35,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Evidence-for-a-Gender-wage-Gap-in-the-1979-National-Longitudinal-Survey-of-Youth.html)
 
-#### Assessment of the COMPAS Recidivism Algorithm (Incomplete)
+#### Assessment of the COMPAS Recidivism Algorithm
 
 [Open Project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Assessment-of-the-COMPAS-Recidivism-Algorithm.html)
 
