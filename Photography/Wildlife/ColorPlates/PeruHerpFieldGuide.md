@@ -11,8 +11,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544743-c22fa100-f92c-11ea-8182-19e2f2e2b08d.jpg">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609930-68fe5680-f99a-11ea-8166-a3a93854b288.jpg">
 </p>
 
 ## Testudinides (Turtles and Tortoises)
@@ -32,6 +31,10 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609922-67cd2980-f99a-11ea-8798-9acbf1552691.jpg">
+</p>
+
 #### Dactyloidae (Anoles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544699-b512b200-f92c-11ea-9c78-b9bb6978ab2c.jpg">
@@ -41,7 +44,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Tropiduridae (Neotropical ground lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544759-c3f96480-f92c-11ea-9acb-79ffe43c3807.jpg">
-
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
@@ -51,7 +53,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Alopoglossidae
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609937-6996ed00-f99a-11ea-8919-7283ec7e4225.jpg">
 </p>
 
 #### Scincidae (Skinks)
@@ -76,7 +78,10 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ### (Snakes)
 #### Viperidae (Vipers)
 <p align="left">
-  
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609942-6a2f8380-f99a-11ea-8981-e3c2eb67cafb.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609939-6a2f8380-f99a-11ea-8684-220b364214da.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609941-6a2f8380-f99a-11ea-92ae-a585e0d28b2c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609938-6996ed00-f99a-11ea-98f5-811e6386f5a6.jpg">
 </p>
 
 #### Boidae (Boas)
@@ -95,11 +100,18 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544728-bfcd4700-f92c-11ea-8486-c0d6cc489257.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544730-c065dd80-f92c-11ea-9f41-a2f4f4933c94.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544732-c065dd80-f92c-11ea-89cb-f2fe4edc3f11.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609950-6b60b080-f99a-11ea-94ef-38948cb46a78.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609947-6ac81a00-f99a-11ea-9e77-a6b66eabf0c7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609952-6bf94700-f99a-11ea-9693-09b274f07255.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609903-64d23900-f99a-11ea-8a3b-56301ce33b7f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609951-6b60b080-f99a-11ea-967c-351071be166c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609935-6996ed00-f99a-11ea-8cf8-b74c5bfe0b0b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609905-656acf80-f99a-11ea-80be-7d78785fd4d4.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609918-67cd2980-f99a-11ea-9465-afbd138f7283.jpg">
 </p>
 
 # Amphibia (Frogs, Toads, Salamanders, and Caecelians)
@@ -112,18 +124,25 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Anura (Frogs and Toads)
 #### Aromobatidae (Cryptic poison frogs)
 <p align="left">
-
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
 <p align="left">
-  
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613359-c4cade80-f99e-11ea-846b-4a9cd3479ca5.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613365-c72d3880-f99e-11ea-96aa-4f7c0e7a0f99.jpg">
+</p>
+
+#### (Glass frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609926-6865c000-f99a-11ea-91e2-2ebf52ec78b5.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609924-6865c000-f99a-11ea-9d88-2f6b79a9276c.jpg">
 </p>
 
 #### Craugstoridae (Fleshbelly frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544735-c0fe7400-f92c-11ea-883f-9189dbef68d0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544736-c0fe7400-f92c-11ea-984e-d6d0d01bcbe7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609909-66036600-f99a-11ea-9ead-9c93dd7ea85a.jpg">
 </p>
 
 #### Ceratophryidae (Horned frogs)
@@ -145,6 +164,16 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544726-bfcd4700-f92c-11ea-81bd-1e20e6788cb5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544738-c1970a80-f92c-11ea-9031-1cd007af1494.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544748-c2c83780-f92c-11ea-9fae-0f3d3b0c24e6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609945-6ac81a00-f99a-11ea-9384-c409150d793b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609944-6ac81a00-f99a-11ea-9d7e-67330b5f45d4.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609932-68fe5680-f99a-11ea-925f-589dde518f72.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609917-67349300-f99a-11ea-8b7c-909a68b52559.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609928-6865c000-f99a-11ea-99cf-15d6c6bab226.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609916-67349300-f99a-11ea-8aa9-1f60d144192d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609908-656acf80-f99a-11ea-8123-ff669076abd3.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613423-d8764500-f99e-11ea-93df-d5490c969c16.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
@@ -156,4 +185,5 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544740-c1970a80-f92c-11ea-92f4-49f94b0af95d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544741-c1970a80-f92c-11ea-8dad-34751fcb9603.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544742-c22fa100-f92c-11ea-9823-3f7f231d031a.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609919-67cd2980-f99a-11ea-8b7f-b1f4a373f147.jpg">
 </p>
