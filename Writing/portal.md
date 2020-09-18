@@ -3,7 +3,7 @@ Below you'll find examples of my academic and professional writing. To view a pr
 
 #### Jump to Section
 - [Public Policy](#pulic-policy)
-  - [Evidence for a Gender Wage Gap in the 1979 National Longitudinal Survey of Youth](evidence-for-a-gender-wage-gap-in-the-1979-national-longitudinal-survey-of-youth)
+  - [Evidence for a Gender Wage Gap in the 1979 National Longitudinal Survey of Youth](#evidence-for-a-gender-wage-gap-in-the-1979-national-longitudinal-survey-of-youth)
   - [Does Intellectual Propery Lead to Economic Growth?](#does-intellectual-propery-lead-to-economic-growth)
   - [An Assessment of Community-Based Models for the Conservation of Biodiversity](#an-assessment-of-community-based-models-for-the-conservation-of-biodiversity)
   - [Sustainable Campus Project Final Report](#sustainable-campus-project-final-report)
