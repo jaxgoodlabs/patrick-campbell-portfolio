@@ -125,6 +125,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93672110-56594f80-fa76-11ea-90a1-0b9bb5e206b3.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669817-b515cd80-fa64-11ea-952c-c47da650289c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614218-d6f94c80-f99f-11ea-9e92-76802de60699.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669864-be069f00-fa64-11ea-8783-e82c41d7be10.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614223-d791e300-f99f-11ea-88df-6e2ba594bc12.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656550-4cddd200-f9f9-11ea-9a89-90741a42280e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656698-3126fb80-f9fa-11ea-9db9-e11f4605e448.jpg">
@@ -139,7 +140,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669847-ba731800-fa64-11ea-8bf3-3759f84c8ffb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669830-b7782780-fa64-11ea-8275-bbdb17b91113.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669867-be9f3580-fa64-11ea-9025-bfa433757ee7.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669864-be069f00-fa64-11ea-8783-e82c41d7be10.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669853-bc3cdb80-fa64-11ea-9d64-137496e37f30.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669872-bfd06280-fa64-11ea-83d2-03ee37e7586f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669861-bd6e0880-fa64-11ea-9d02-d15f1e653381.jpg">
