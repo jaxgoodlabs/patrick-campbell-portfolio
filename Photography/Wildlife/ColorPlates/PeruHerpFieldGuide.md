@@ -20,7 +20,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Chelidae (Side-necked turtles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544716-be9c1a00-f92c-11ea-886a-71f053b34bbd.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544717-be9c1a00-f92c-11ea-9f5b-1592a90961cc.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544719-be9c1a00-f92c-11ea-8748-add352e45094.jpg">
 </p>
 
