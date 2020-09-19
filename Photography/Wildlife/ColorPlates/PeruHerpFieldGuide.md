@@ -26,7 +26,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Testudinidae (Tortoises)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656154-384c0a80-f9f6-11ea-8418-e78c97ae98d2.jp">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656154-384c0a80-f9f6-11ea-8418-e78c97ae98d2.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
