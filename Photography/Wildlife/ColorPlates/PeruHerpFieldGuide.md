@@ -20,7 +20,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Chelidae (Side-necked turtles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544716-be9c1a00-f92c-11ea-886a-71f053b34bbd.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544719-be9c1a00-f92c-11ea-8748-add352e45094.jpg">
 </p>
 
 #### Testudinidae (Tortoises)
@@ -38,6 +37,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Dactyloidae (Anoles)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656440-7b0ee200-f9f8-11ea-8ccb-c96634da18bb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614246-d9f43d00-f99f-11ea-9ec7-27d8a4c7bac5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614196-d3fe5c00-f99f-11ea-8cbb-74fb156c549d.jpg">
 </p>
@@ -86,6 +86,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544732-c065dd80-f92c-11ea-89cb-f2fe4edc3f11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609947-6ac81a00-f99a-11ea-9e77-a6b66eabf0c7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656591-52d3b300-f9f9-11ea-882a-2b9809d8e5cf.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609952-6bf94700-f99a-11ea-9693-09b274f07255.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609903-64d23900-f99a-11ea-8a3b-56301ce33b7f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609951-6b60b080-f99a-11ea-967c-351071be166c.jpg">
@@ -96,6 +97,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614217-d660b600-f99f-11ea-90d2-22d31c09e621.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614218-d6f94c80-f99f-11ea-9e92-76802de60699.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614223-d791e300-f99f-11ea-88df-6e2ba594bc12.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656550-4cddd200-f9f9-11ea-9a89-90741a42280e.jpg">
 </p>
 
 #### Elapidae (Elapids)
