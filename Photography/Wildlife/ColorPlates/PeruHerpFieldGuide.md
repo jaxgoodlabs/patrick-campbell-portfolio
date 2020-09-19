@@ -130,7 +130,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667912-56962280-fa57-11ea-8211-830bd9b767bf.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667913-572eb900-fa57-11ea-9103-24c62229fdb5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656774-d9d55b00-f9fa-11ea-8874-1f0c0b6a857b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667915-572eb900-fa57-11ea-9313-da596bf0310b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685800-d801ab00-fa7f-11ea-938d-4fa555c960b3.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667917-57c74f80-fa57-11ea-946a-6b0f99ccef8c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667933-5ac24000-fa57-11ea-8a34-c95bdc9262a1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669862-bd6e0880-fa64-11ea-8a12-e41d6403f805.jpg">
@@ -144,7 +144,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669858-bcd57200-fa64-11ea-95a3-70639b1500e4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669815-b515cd80-fa64-11ea-8f23-04c6bbe7e663.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685803-d89a4180-fa7f-11ea-987c-4455eb9d4228.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685800-d801ab00-fa7f-11ea-938d-4fa555c960b3.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667915-572eb900-fa57-11ea-9313-da596bf0310b.jpg">
 </p>
 
 #### Elapidae (Elapids)
