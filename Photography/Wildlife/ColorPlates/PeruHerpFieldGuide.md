@@ -50,7 +50,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Gekkonidae (Geckos)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667909-55fd8c00-fa57-11ea-86ff-a9688bc7f864.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667922-58f87c80-fa57-11ea-9e4e-712331827e0e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667921-585fe600-fa57-11ea-887f-1d09a0cb6708.jpg">
 </p>
@@ -70,7 +69,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Sphaerodactylidae (South American clawed geckos)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667909-55fd8c00-fa57-11ea-86ff-a9688bc7f864.jpg">
 </p>
 
 #### Teiidae (Whiptails)
