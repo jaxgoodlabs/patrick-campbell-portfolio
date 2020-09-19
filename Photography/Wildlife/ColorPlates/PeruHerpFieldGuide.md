@@ -222,21 +222,20 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669870-bf37cc00-fa64-11ea-9118-51741b8b2227.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614208-d52f8900-f99f-11ea-9462-d58c115ec4ad.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614206-d52f8900-f99f-11ea-800c-dfba395e0938.jpg">
-
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614249-da8cd380-f99f-11ea-814a-a6663ed0eee8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614205-d496f280-f99f-11ea-8b16-410ffcc63546.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614242-d9f43d00-f99f-11ea-940e-13a0007e0cb2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614229-d8c31000-f99f-11ea-8d00-e3cbb5f96383.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614232-d8c31000-f99f-11ea-801d-d9237f695a23.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686829-02a33200-fa87-11ea-96b1-70370e0f24c2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614248-da8cd380-f99f-11ea-9620-225a226bc3b9.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667925-58f87c80-fa57-11ea-99a8-dd83725fb73f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614242-d9f43d00-f99f-11ea-940e-13a0007e0cb2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667929-5a29a980-fa57-11ea-988f-3e2991e2cf68.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667920-585fe600-fa57-11ea-87e1-0168b6d13b54.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669845-ba731800-fa64-11ea-845a-60c36e00d7a4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669823-b646fa80-fa64-11ea-9ad9-44c8c700c5b1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669822-b646fa80-fa64-11ea-895c-43d0e0ee4291.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614229-d8c31000-f99f-11ea-8d00-e3cbb5f96383.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686829-02a33200-fa87-11ea-96b1-70370e0f24c2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669834-b810be00-fa64-11ea-886f-dc57c7fdd846.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669837-b8a95480-fa64-11ea-83b7-1db085cfe04c.jpg">
