@@ -250,8 +250,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544723-bf34b080-f92c-11ea-8fc4-d3f7557959ab.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614213-d5c81f80-f99f-11ea-9e46-18aad6d62ce1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614215-d660b600-f99f-11ea-8dda-9a4ae9009c26.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614222-d791e300-f99f-11ea-9449-8f4c413d86ef.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669814-b47d3700-fa64-11ea-8536-63173329c005.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614222-d791e300-f99f-11ea-9449-8f4c413d86ef.jpg">">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669826-b7782780-fa64-11ea-8013-c2a2431e19e5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669825-b6df9100-fa64-11ea-8c0e-c62e68ed84af.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669824-b6df9100-fa64-11ea-8dd6-521c30bd134c.jpg">
