@@ -169,9 +169,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Anura (Frogs and Toads)
 #### Aromobatidae (Cryptic poison frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669851-bba44500-fa64-11ea-96c8-09a57b991b46.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667936-5b5ad680-fa57-11ea-9562-88b348d5e0c5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685753-98d35a00-fa7f-11ea-8971-cc998f77018e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667936-5b5ad680-fa57-11ea-9562-88b348d5e0c5.jpg">
 </p>
 
 #### Bufonidae (Toads)
