@@ -224,9 +224,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614206-d52f8900-f99f-11ea-800c-dfba395e0938.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614249-da8cd380-f99f-11ea-814a-a6663ed0eee8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614199-d3fe5c00-f99f-11ea-92c1-d68e92f6e615.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614203-d496f280-f99f-11ea-8e4a-b4fc5129e6e8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614205-d496f280-f99f-11ea-8b16-410ffcc63546.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614232-d8c31000-f99f-11ea-801d-d9237f695a23.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614248-da8cd380-f99f-11ea-9620-225a226bc3b9.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667925-58f87c80-fa57-11ea-99a8-dd83725fb73f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614242-d9f43d00-f99f-11ea-940e-13a0007e0cb2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667929-5a29a980-fa57-11ea-988f-3e2991e2cf68.jpg">
@@ -240,9 +242,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669837-b8a95480-fa64-11ea-83b7-1db085cfe04c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685804-d89a4180-fa7f-11ea-8369-ddf774eb7562.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614199-d3fe5c00-f99f-11ea-92c1-d68e92f6e615.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614203-d496f280-f99f-11ea-8e4a-b4fc5129e6e8.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614248-da8cd380-f99f-11ea-9620-225a226bc3b9.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
