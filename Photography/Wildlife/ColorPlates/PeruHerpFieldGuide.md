@@ -58,7 +58,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667922-58f87c80-fa57-11ea-9e4e-712331827e0e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667921-585fe600-fa57-11ea-887f-1d09a0cb6708.jpg">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93672287-c87e6400-fa77-11ea-8503-e25aed69f486.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669852-bba44500-fa64-11ea-9d71-b424c702faad.jpg">
 </p>
 
