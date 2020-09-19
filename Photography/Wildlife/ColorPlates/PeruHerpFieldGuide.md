@@ -12,7 +12,9 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Alligatoridae (Alligators and caimans)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609930-68fe5680-f99a-11ea-8166-a3a93854b288.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669836-b8a95480-fa64-11ea-82ea-816ad5e4d4af.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614220-d6f94c80-f99f-11ea-9c4a-215173c3a81f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669856-bcd57200-fa64-11ea-88a7-81ce568623eb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614243-d9f43d00-f99f-11ea-887c-4925902b6c27.jpg">
 </p>
 
@@ -20,6 +22,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Chelidae (Side-necked turtles)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656651-da212680-f9f9-11ea-9549-e67223f2daa2.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669869-bf37cc00-fa64-11ea-82dc-5db367b3105f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667937-5b5ad680-fa57-11ea-9335-0aab0559fb32.jpg">
 </p>
 
@@ -46,17 +49,23 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656440-7b0ee200-f9f8-11ea-8ccb-c96634da18bb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614246-d9f43d00-f99f-11ea-9ec7-27d8a4c7bac5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614196-d3fe5c00-f99f-11ea-8cbb-74fb156c549d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669859-bcd57200-fa64-11ea-9eae-eb5eca622f13.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669860-bd6e0880-fa64-11ea-956a-cc0bd9d041da.jpg">
+
 </p>
 
 #### Gekkonidae (Geckos)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667922-58f87c80-fa57-11ea-9e4e-712331827e0e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667921-585fe600-fa57-11ea-887f-1d09a0cb6708.jpg">
+<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669852-bba44500-fa64-11ea-9d71-b424c702faad.jpg">
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614211-d5c81f80-f99f-11ea-8b5d-7a4d7b3d6f80.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669871-bf37cc00-fa64-11ea-891e-84b54db7ca12.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609922-67cd2980-f99a-11ea-8798-9acbf1552691.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656374-dee4db00-f9f7-11ea-9a0e-7f46a3124e7d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667927-59911300-fa57-11ea-8837-1b3f999764a2.jpg">
@@ -75,6 +84,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Teiidae (Whiptails)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614219-d6f94c80-f99f-11ea-914c-0002c2278b53.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669865-be069f00-fa64-11ea-9283-d166bfb525c6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669819-b5ae6400-fa64-11ea-92ad-44a5c6cfeeb4.jpg">
 </p>
 
 #### Tropiduridae (Neotropical ground lizards)
@@ -86,12 +97,19 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 </p>
 
 ### Serpentes (Snakes)
+#### Aniliidae (Pipesnakes)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669843-b9da8180-fa64-11ea-9fe3-5a34fb83ce4c.jpg">
+</p>
+
 #### Boidae (Boas)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669820-b5ae6400-fa64-11ea-83d0-1dde989dcc39.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544721-bf34b080-f92c-11ea-8d8f-b72524c51690.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544722-bf34b080-f92c-11ea-9a6d-bd5c7c3d19de.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667910-56962280-fa57-11ea-99fd-e46006bd2c22.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667911-56962280-fa57-11ea-94c0-168113ee038e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669842-b9da8180-fa64-11ea-96d0-9c009a49b5c3.jpg">
 </p>
 
 #### Colubridae (Colubrids)
@@ -115,11 +133,25 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667915-572eb900-fa57-11ea-9313-da596bf0310b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667917-57c74f80-fa57-11ea-946a-6b0f99ccef8c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667933-5ac24000-fa57-11ea-8a34-c95bdc9262a1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669862-bd6e0880-fa64-11ea-8a12-e41d6403f805.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669847-ba731800-fa64-11ea-8bf3-3759f84c8ffb.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669830-b7782780-fa64-11ea-8275-bbdb17b91113.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669867-be9f3580-fa64-11ea-9025-bfa433757ee7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669864-be069f00-fa64-11ea-8783-e82c41d7be10.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669817-b515cd80-fa64-11ea-952c-c47da650289c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669853-bc3cdb80-fa64-11ea-9d64-137496e37f30.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669872-bfd06280-fa64-11ea-83d2-03ee37e7586f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669861-bd6e0880-fa64-11ea-9d02-d15f1e653381.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669816-b515cd80-fa64-11ea-8f00-15c65153bf68.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669858-bcd57200-fa64-11ea-95a3-70639b1500e4.jpg">
 </p>
 
 #### Elapidae (Elapids)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669815-b515cd80-fa64-11ea-8f23-04c6bbe7e663.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669848-ba731800-fa64-11ea-833f-ea958369f279.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669849-bb0bae80-fa64-11ea-9937-8b5f9d0b7bc6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669850-bb0bae80-fa64-11ea-99a4-2090803c5928.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
@@ -131,18 +163,23 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609941-6a2f8380-f99a-11ea-92ae-a585e0d28b2c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609938-6996ed00-f99a-11ea-98f5-811e6386f5a6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669712-0ffaf500-fa64-11ea-9a90-d5ca44650a04.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669868-be9f3580-fa64-11ea-8341-ce248e010233.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669855-bc3cdb80-fa64-11ea-92e2-c90357c65a39.jpg">
 </p>
 
 # Amphibia (Frogs, Toads, Salamanders, and Caecelians)
 ## Anura (Frogs and Toads)
 #### Aromobatidae (Cryptic poison frogs)
 <p align="left">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669851-bba44500-fa64-11ea-96c8-09a57b991b46.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667936-5b5ad680-fa57-11ea-9562-88b348d5e0c5.jpg">
 </p>
 
 #### Bufonidae (Toads)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669832-b810be00-fa64-11ea-82aa-a54cb5e32dca.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669833-b810be00-fa64-11ea-82b5-a41b6f3e8055.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544741-c1970a80-f92c-11ea-8dad-34751fcb9603.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609919-67cd2980-f99a-11ea-8b7f-b1f4a373f147.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667931-5a29a980-fa57-11ea-8f03-48a8d900021a.jpg">
@@ -178,6 +215,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614225-d82a7980-f99f-11ea-86dd-d85067646095.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667914-572eb900-fa57-11ea-96a2-c1832751838b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667928-59911300-fa57-11ea-9d02-b32b1f8a1881.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669840-b941eb00-fa64-11ea-8e5a-0c3860bac5de.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669839-b941eb00-fa64-11ea-8135-be73e9056c6c.jpg">
 </p>
 
 #### Hylidae (Tree frogs)
@@ -203,6 +242,13 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667926-59911300-fa57-11ea-85fe-1042a7ec8fad.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667929-5a29a980-fa57-11ea-988f-3e2991e2cf68.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667920-585fe600-fa57-11ea-87e1-0168b6d13b54.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669823-b646fa80-fa64-11ea-9ad9-44c8c700c5b1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669822-b646fa80-fa64-11ea-895c-43d0e0ee4291.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669834-b810be00-fa64-11ea-886f-dc57c7fdd846.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669870-bf37cc00-fa64-11ea-9118-51741b8b2227.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669837-b8a95480-fa64-11ea-83b7-1db085cfe04c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669838-b941eb00-fa64-11ea-8979-7c753f488615.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669845-ba731800-fa64-11ea-845a-60c36e00d7a4.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
@@ -211,11 +257,18 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614213-d5c81f80-f99f-11ea-9e46-18aad6d62ce1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614215-d660b600-f99f-11ea-8dda-9a4ae9009c26.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614222-d791e300-f99f-11ea-9449-8f4c413d86ef.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669814-b47d3700-fa64-11ea-8536-63173329c005.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669826-b7782780-fa64-11ea-8013-c2a2431e19e5.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669825-b6df9100-fa64-11ea-8c0e-c62e68ed84af.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669824-b6df9100-fa64-11ea-8dd6-521c30bd134c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669828-b7782780-fa64-11ea-88c0-8686ab978825.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669835-b8a95480-fa64-11ea-8718-6ea09f99c1d2.jpg">
 </p>
+
 
 #### Microhylidae (Microhylid frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667916-57c74f80-fa57-11ea-96a5-062ea62f9694.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669821-b646fa80-fa64-11ea-9cb5-a0835f6e3d68.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667919-585fe600-fa57-11ea-8b50-65f6ba255fea.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667938-5bf36d00-fa57-11ea-801c-08bfba2a365f.jpg">
 </p>
