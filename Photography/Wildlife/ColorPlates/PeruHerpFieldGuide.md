@@ -215,14 +215,12 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Hylidae (Tree frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544726-bfcd4700-f92c-11ea-81bd-1e20e6788cb5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609945-6ac81a00-f99a-11ea-9384-c409150d793b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609908-656acf80-f99a-11ea-8123-ff669076abd3.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686721-274ada00-fa86-11ea-93ef-b9baed98a8c1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686719-244fe980-fa86-11ea-9cff-63729c68b275.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614199-d3fe5c00-f99f-11ea-92c1-d68e92f6e615.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614203-d496f280-f99f-11ea-8e4a-b4fc5129e6e8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614205-d496f280-f99f-11ea-8b16-410ffcc63546.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614208-d52f8900-f99f-11ea-9462-d58c115ec4ad.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614206-d52f8900-f99f-11ea-800c-dfba395e0938.jpg">
@@ -233,18 +231,19 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614226-d82a7980-f99f-11ea-9b21-0733c7913c6a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614248-da8cd380-f99f-11ea-9620-225a226bc3b9.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667925-58f87c80-fa57-11ea-99a8-dd83725fb73f.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667926-59911300-fa57-11ea-85fe-1042a7ec8fad.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686699-fec2e000-fa85-11ea-86da-26a60a11160d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667929-5a29a980-fa57-11ea-988f-3e2991e2cf68.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667920-585fe600-fa57-11ea-87e1-0168b6d13b54.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669823-b646fa80-fa64-11ea-9ad9-44c8c700c5b1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669822-b646fa80-fa64-11ea-895c-43d0e0ee4291.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669834-b810be00-fa64-11ea-886f-dc57c7fdd846.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669870-bf37cc00-fa64-11ea-9118-51741b8b2227.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686306-5d3a8f00-fa83-11ea-9b52-a4a08ebde319.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669837-b8a95480-fa64-11ea-83b7-1db085cfe04c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669838-b941eb00-fa64-11ea-8979-7c753f488615.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669845-ba731800-fa64-11ea-845a-60c36e00d7a4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685804-d89a4180-fa7f-11ea-8369-ddf774eb7562.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614199-d3fe5c00-f99f-11ea-92c1-d68e92f6e615.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614203-d496f280-f99f-11ea-8e4a-b4fc5129e6e8.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
