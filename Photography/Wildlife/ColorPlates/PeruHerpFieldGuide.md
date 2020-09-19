@@ -224,6 +224,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614206-d52f8900-f99f-11ea-800c-dfba395e0938.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614249-da8cd380-f99f-11ea-814a-a6663ed0eee8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669834-b810be00-fa64-11ea-886f-dc57c7fdd846.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685804-d89a4180-fa7f-11ea-8369-ddf774eb7562.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614199-d3fe5c00-f99f-11ea-92c1-d68e92f6e615.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614203-d496f280-f99f-11ea-8e4a-b4fc5129e6e8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614205-d496f280-f99f-11ea-8b16-410ffcc63546.jpg">
@@ -237,8 +239,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669822-b646fa80-fa64-11ea-895c-43d0e0ee4291.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614229-d8c31000-f99f-11ea-8d00-e3cbb5f96383.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686829-02a33200-fa87-11ea-96b1-70370e0f24c2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669834-b810be00-fa64-11ea-886f-dc57c7fdd846.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685804-d89a4180-fa7f-11ea-8369-ddf774eb7562.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669837-b8a95480-fa64-11ea-83b7-1db085cfe04c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
