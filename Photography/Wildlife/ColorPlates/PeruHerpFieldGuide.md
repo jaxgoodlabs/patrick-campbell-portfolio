@@ -84,10 +84,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Colubridae (Colubrids)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544754-c360ce00-f92c-11ea-9626-9910aba8aaa8.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544713-be038380-f92c-11ea-8330-d055664f54df.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544732-c065dd80-f92c-11ea-89cb-f2fe4edc3f11.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609950-6b60b080-f99a-11ea-94ef-38948cb46a78.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609947-6ac81a00-f99a-11ea-9e77-a6b66eabf0c7.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609952-6bf94700-f99a-11ea-9693-09b274f07255.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609903-64d23900-f99a-11ea-8a3b-56301ce33b7f.jpg">
