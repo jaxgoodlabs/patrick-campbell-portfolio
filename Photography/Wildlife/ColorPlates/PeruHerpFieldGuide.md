@@ -52,6 +52,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614211-d5c81f80-f99f-11ea-8b5d-7a4d7b3d6f80.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609922-67cd2980-f99a-11ea-8798-9acbf1552691.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656374-dee4db00-f9f7-11ea-9a0e-7f46a3124e7d.jpg">
 </p>
 
 #### Scincidae (Skinks)
