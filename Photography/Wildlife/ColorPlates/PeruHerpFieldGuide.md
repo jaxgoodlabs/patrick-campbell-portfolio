@@ -216,14 +216,14 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Hylidae (Tree frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609945-6ac81a00-f99a-11ea-9384-c409150d793b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686721-274ada00-fa86-11ea-93ef-b9baed98a8c1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93686719-244fe980-fa86-11ea-9cff-63729c68b275.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614205-d496f280-f99f-11ea-8b16-410ffcc63546.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614208-d52f8900-f99f-11ea-9462-d58c115ec4ad.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614206-d52f8900-f99f-11ea-800c-dfba395e0938.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614205-d496f280-f99f-11ea-8b16-410ffcc63546.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614249-da8cd380-f99f-11ea-814a-a6663ed0eee8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614242-d9f43d00-f99f-11ea-940e-13a0007e0cb2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614229-d8c31000-f99f-11ea-8d00-e3cbb5f96383.jpg">
