@@ -185,8 +185,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Dendrobatidae (Poison dart frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613359-c4cade80-f99e-11ea-846b-4a9cd3479ca5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667932-5a29a980-fa57-11ea-9f90-751970c9fc90.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613359-c4cade80-f99e-11ea-846b-4a9cd3479ca5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667935-5b5ad680-fa57-11ea-9814-6a6b91e55936.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613365-c72d3880-f99e-11ea-96aa-4f7c0e7a0f99.jpg">
 </p>
