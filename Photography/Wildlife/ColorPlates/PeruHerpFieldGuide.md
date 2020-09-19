@@ -31,8 +31,10 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
+#### Alopoglossidae
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609922-67cd2980-f99a-11ea-8798-9acbf1552691.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609937-6996ed00-f99a-11ea-8919-7283ec7e4225.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614234-d95ba680-f99f-11ea-9a38-72886e46a394.jpg">
 </p>
 
 #### Dactyloidae (Anoles)
@@ -41,35 +43,19 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614196-d3fe5c00-f99f-11ea-8cbb-74fb156c549d.jpg">
 </p>
 
-#### Tropiduridae (Neotropical ground lizards)
+#### Gekkonidae (Geckos)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544759-c3f96480-f92c-11ea-9acb-79ffe43c3807.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614231-d8c31000-f99f-11ea-9da4-6ceb9e3404ec.jpg">
+
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614211-d5c81f80-f99f-11ea-8b5d-7a4d7b3d6f80.jpg">
-</p>
-
-#### Alopoglossidae
-<p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609937-6996ed00-f99a-11ea-8919-7283ec7e4225.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614234-d95ba680-f99f-11ea-9a38-72886e46a394.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609922-67cd2980-f99a-11ea-8798-9acbf1552691.jpg">
 </p>
 
 #### Scincidae (Skinks)
 <p align="left">
-</p>
-
-#### Teiidae (Whiptails)
-<p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614219-d6f94c80-f99f-11ea-914c-0002c2278b53.jpg">
-</p>
-
-#### Gekkonidae (Geckos)
-<p align="left">
-
 </p>
 
 #### Sphaerodactylidae (South American clawed geckos)
@@ -77,15 +63,18 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 </p>
 
-### (Snakes)
-#### Viperidae (Vipers)
+#### Teiidae (Whiptails)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609942-6a2f8380-f99a-11ea-8981-e3c2eb67cafb.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609939-6a2f8380-f99a-11ea-8684-220b364214da.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609941-6a2f8380-f99a-11ea-92ae-a585e0d28b2c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609938-6996ed00-f99a-11ea-98f5-811e6386f5a6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614219-d6f94c80-f99f-11ea-914c-0002c2278b53.jpg">
 </p>
 
+#### Tropiduridae (Neotropical ground lizards)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544759-c3f96480-f92c-11ea-9acb-79ffe43c3807.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614231-d8c31000-f99f-11ea-9da4-6ceb9e3404ec.jpg">
+</p>
+
+### Serpentes (Snakes)
 #### Boidae (Boas)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544721-bf34b080-f92c-11ea-8d8f-b72524c51690.jpg">
@@ -116,21 +105,36 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614223-d791e300-f99f-11ea-88df-6e2ba594bc12.jpg">
 </p>
 
+#### Elapidae (Elapids)
+<p align="left">
+
+</p>
+
 #### Typhlopidae (Blind snakes)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609918-67cd2980-f99a-11ea-9465-afbd138f7283.jpg">
 </p>
 
-# Amphibia (Frogs, Toads, Salamanders, and Caecelians)
-## Urodela (Salamanders)
-#### Plethodontidae (Lungless salamanders)
+#### Viperidae (Vipers)
 <p align="left">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609942-6a2f8380-f99a-11ea-8981-e3c2eb67cafb.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609939-6a2f8380-f99a-11ea-8684-220b364214da.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609941-6a2f8380-f99a-11ea-92ae-a585e0d28b2c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609938-6996ed00-f99a-11ea-98f5-811e6386f5a6.jpg">
 </p>
 
+# Amphibia (Frogs, Toads, Salamanders, and Caecelians)
 ## Anura (Frogs and Toads)
 #### Aromobatidae (Cryptic poison frogs)
 <p align="left">
+</p>
+
+#### Bufonidae (Toads)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544740-c1970a80-f92c-11ea-92f4-49f94b0af95d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544741-c1970a80-f92c-11ea-8dad-34751fcb9603.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544742-c22fa100-f92c-11ea-9823-3f7f231d031a.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609919-67cd2980-f99a-11ea-8b7f-b1f4a373f147.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
@@ -139,10 +143,15 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613365-c72d3880-f99e-11ea-96aa-4f7c0e7a0f99.jpg">
 </p>
 
-#### (Glass frogs)
+#### Centrolenidae (Glass frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614241-d95ba680-f99f-11ea-996c-843f3fecb418.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614238-d95ba680-f99f-11ea-9d76-13aad44f1714.jpg">
+</p>
+
+#### Ceratophryidae (Horned frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544745-c2c83780-f92c-11ea-874b-894706ed1ca5.jpg">
 </p>
 
 #### Craugstoridae (Fleshbelly frogs)
@@ -151,20 +160,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544736-c0fe7400-f92c-11ea-984e-d6d0d01bcbe7.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609909-66036600-f99a-11ea-9ead-9c93dd7ea85a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614225-d82a7980-f99f-11ea-86dd-d85067646095.jpg">
-</p>
-
-#### Ceratophryidae (Horned frogs)
-<p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544745-c2c83780-f92c-11ea-874b-894706ed1ca5.jpg">
-</p>
-
-#### Leptodactylidae (Thin-toed frogs)
-<p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544723-bf34b080-f92c-11ea-8fc4-d3f7557959ab.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544734-c0fe7400-f92c-11ea-8803-e769ad8529c3.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614213-d5c81f80-f99f-11ea-9e46-18aad6d62ce1.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614215-d660b600-f99f-11ea-8dda-9a4ae9009c26.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614222-d791e300-f99f-11ea-9449-8f4c413d86ef.jpg">
 </p>
 
 #### Hylidae (Tree frogs)
@@ -199,14 +194,21 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614248-da8cd380-f99f-11ea-9620-225a226bc3b9.jpg">
 </p>
 
+#### Leptodactylidae (Thin-toed frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544723-bf34b080-f92c-11ea-8fc4-d3f7557959ab.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544734-c0fe7400-f92c-11ea-8803-e769ad8529c3.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614213-d5c81f80-f99f-11ea-9e46-18aad6d62ce1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614215-d660b600-f99f-11ea-8dda-9a4ae9009c26.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614222-d791e300-f99f-11ea-9449-8f4c413d86ef.jpg">
+</p>
+
 #### Microhylidae (Microhylid frogs)
 <p align="left">
 </p>
 
-#### Bufonidae (Toads)
+## Urodela (Salamanders)
+#### Plethodontidae (Lungless salamanders)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544740-c1970a80-f92c-11ea-92f4-49f94b0af95d.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544741-c1970a80-f92c-11ea-8dad-34751fcb9603.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544742-c22fa100-f92c-11ea-9823-3f7f231d031a.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609919-67cd2980-f99a-11ea-8b7f-b1f4a373f147.jpg">
+
 </p>
