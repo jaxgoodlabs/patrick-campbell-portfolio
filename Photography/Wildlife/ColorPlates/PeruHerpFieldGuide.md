@@ -46,7 +46,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Dactyloidae (Anoles)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656440-7b0ee200-f9f8-11ea-8ccb-c96634da18bb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614246-d9f43d00-f99f-11ea-9ec7-27d8a4c7bac5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614196-d3fe5c00-f99f-11ea-8cbb-74fb156c549d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669859-bcd57200-fa64-11ea-9eae-eb5eca622f13.jpg">
@@ -55,9 +54,9 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Gekkonidae (Geckos)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667922-58f87c80-fa57-11ea-9e4e-712331827e0e.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667921-585fe600-fa57-11ea-887f-1d09a0cb6708.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93672287-c87e6400-fa77-11ea-8503-e25aed69f486.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667921-585fe600-fa57-11ea-887f-1d09a0cb6708.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667922-58f87c80-fa57-11ea-9e4e-712331827e0e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669852-bba44500-fa64-11ea-9d71-b424c702faad.jpg">
 </p>
 
