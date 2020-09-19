@@ -199,16 +199,13 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Ceratophryidae (Horned frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544745-c2c83780-f92c-11ea-874b-894706ed1ca5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685797-d6d07e00-fa7f-11ea-8732-2c5b049ff954.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667934-5ac24000-fa57-11ea-802f-34e7c53a2efc.jpg">
 </p>
 
 #### Craugstoridae (Fleshbelly frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544735-c0fe7400-f92c-11ea-883f-9189dbef68d0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544736-c0fe7400-f92c-11ea-984e-d6d0d01bcbe7.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609909-66036600-f99a-11ea-9ead-9c93dd7ea85a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614225-d82a7980-f99f-11ea-86dd-d85067646095.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667914-572eb900-fa57-11ea-96a2-c1832751838b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667928-59911300-fa57-11ea-9d02-b32b1f8a1881.jpg">
