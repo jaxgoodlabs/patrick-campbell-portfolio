@@ -80,7 +80,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544721-bf34b080-f92c-11ea-8d8f-b72524c51690.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544722-bf34b080-f92c-11ea-9a6d-bd5c7c3d19de.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544753-c360ce00-f92c-11ea-8a86-0b73ec23cb76.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93656442-7ea26900-f9f8-11ea-8250-51bbf529bdec.jpg">
 </p>
 
 #### Colubridae (Colubrids)
