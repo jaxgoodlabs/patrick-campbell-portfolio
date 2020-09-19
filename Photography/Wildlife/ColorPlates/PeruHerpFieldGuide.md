@@ -206,12 +206,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Craugstoridae (Fleshbelly frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544736-c0fe7400-f92c-11ea-984e-d6d0d01bcbe7.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614225-d82a7980-f99f-11ea-86dd-d85067646095.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667914-572eb900-fa57-11ea-96a2-c1832751838b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667928-59911300-fa57-11ea-9d02-b32b1f8a1881.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669840-b941eb00-fa64-11ea-8e5a-0c3860bac5de.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93669839-b941eb00-fa64-11ea-8135-be73e9056c6c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93685795-d637e780-fa7f-11ea-983b-ac06f879fb0f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614225-d82a7980-f99f-11ea-86dd-d85067646095.jpg">
 </p>
 
 #### Hylidae (Tree frogs)
