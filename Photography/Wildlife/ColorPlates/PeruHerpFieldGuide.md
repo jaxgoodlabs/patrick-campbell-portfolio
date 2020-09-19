@@ -111,7 +111,6 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Viperidae (Vipers)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609942-6a2f8380-f99a-11ea-8981-e3c2eb67cafb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609939-6a2f8380-f99a-11ea-8684-220b364214da.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609941-6a2f8380-f99a-11ea-92ae-a585e0d28b2c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609938-6996ed00-f99a-11ea-98f5-811e6386f5a6.jpg">
@@ -125,9 +124,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Bufonidae (Toads)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544740-c1970a80-f92c-11ea-92f4-49f94b0af95d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544741-c1970a80-f92c-11ea-8dad-34751fcb9603.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544742-c22fa100-f92c-11ea-9823-3f7f231d031a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609919-67cd2980-f99a-11ea-8b7f-b1f4a373f147.jpg">
 </p>
 
