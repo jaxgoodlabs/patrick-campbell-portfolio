@@ -154,13 +154,11 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Hylidae (Tree frogs)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544727-bfcd4700-f92c-11ea-8242-76b0c82f5136.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93544726-bfcd4700-f92c-11ea-81bd-1e20e6788cb5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609945-6ac81a00-f99a-11ea-9384-c409150d793b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609910-66036600-f99a-11ea-8cec-1f6fb23afd9c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609915-67349300-f99a-11ea-929b-2b436718cabe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93609908-656acf80-f99a-11ea-8123-ff669076abd3.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93613423-d8764500-f99e-11ea-93df-d5490c969c16.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614201-d3fe5c00-f99f-11ea-9d81-85656d7a3992.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614199-d3fe5c00-f99f-11ea-92c1-d68e92f6e615.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93614203-d496f280-f99f-11ea-8e4a-b4fc5129e6e8.jpg">
