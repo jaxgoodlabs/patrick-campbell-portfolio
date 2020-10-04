@@ -16,9 +16,9 @@ Editing: Patrick Campbell
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023259-15526500-064a-11eb-9d14-6291e8024f3b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95026253-11304280-065e-11eb-812a-c689c73cbb00.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023304-5a769700-064a-11eb-9644-888fe82626aa.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022761-36fe1d00-0647-11eb-97aa-a9a7c6934352.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022631-76783980-0646-11eb-8dde-ccdb888da30d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023248-02d82b80-064a-11eb-88dd-fbc74ca9c4a8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022761-36fe1d00-0647-11eb-97aa-a9a7c6934352.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022630-737d4900-0646-11eb-817e-5d4c3ae4b63d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023249-05d31c00-064a-11eb-8c1c-8ffae1e671d1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95026249-0d042500-065e-11eb-9a8f-ea2975afafc4.jpg">
