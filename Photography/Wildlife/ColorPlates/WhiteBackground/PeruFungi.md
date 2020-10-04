@@ -1,13 +1,12 @@
 # Fungi of Peru
 
-Below is a collection of images of fungi collected from the Madre de Dios region of Peru (pictured below). 
+Below is a collection of images of fungi collected from the Madre de Dios region of Peru. 
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92166028-f15ef200-ee05-11ea-8fa0-e25e9df3864e.JPG">
 </p>
 
-Photo credits: Doug Schwartz
-
+Photo credits: Doug Schwartz</b>
 Editing: Patrick Campbell
 
 <p align="left">
