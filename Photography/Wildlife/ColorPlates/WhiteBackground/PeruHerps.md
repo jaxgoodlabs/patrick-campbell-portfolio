@@ -11,7 +11,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542000-95390b00-f215-11ea-8918-bcde49895f95.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/92542000-95390b00-f215-11ea-8918-bcde49895f95.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/95004587-15efea80-05bb-11eb-9d75-d730a8ceda80.jpg">
 </p>
 
 ## Testudinides (Turtles and Tortoises)
