@@ -17,7 +17,17 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Testudinides (Turtles and Tortoises)
 #### Testudinidae (Tortoises)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
+</p>
+
+#### Chelidae (Side-necked turtles)
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
+</p>
+
+#### Podocnemididae (South American river turtles)
+<p align="left">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
@@ -133,6 +143,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
