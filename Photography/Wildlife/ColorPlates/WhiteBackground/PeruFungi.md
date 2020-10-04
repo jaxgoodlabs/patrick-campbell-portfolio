@@ -6,7 +6,7 @@ Below is a collection of images of fungi collected from the Madre de Dios region
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92166028-f15ef200-ee05-11ea-8fa0-e25e9df3864e.JPG">
 </p>
 
-Photo credits: 
+Photo credits: Doug Schwartz
 Editing: Patrick Campbell
 
 <p align="left">
