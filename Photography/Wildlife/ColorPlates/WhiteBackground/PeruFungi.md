@@ -27,7 +27,7 @@ Editing: Patrick Campbell
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022759-34032c80-0647-11eb-807a-81006eda6219.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022755-2fd70f00-0647-11eb-808e-5c9710a59c84.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022797-59903600-0647-11eb-8f9e-b19f8a3e431d.jpg">
-
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022815-6ca30600-0647-11eb-8c14-cabbb34705ff.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022765-3b2a3a80-0647-11eb-9800-42574a5d4846.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022766-3e252b00-0647-11eb-8630-95a954b76226.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022774-467d6600-0647-11eb-873e-08e982c89654.jpg">
@@ -36,11 +36,9 @@ Editing: Patrick Campbell
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022787-4ed5a100-0647-11eb-9218-54a6de84234e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022795-572ddc00-0647-11eb-80b7-c535aa9b0502.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022801-5c8b2680-0647-11eb-9d25-67ba74456ee8.jpg">
-
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022804-5eed8080-0647-11eb-87aa-c9cafe5687b1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022808-64e36180-0647-11eb-9457-fdb80ed55514.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022812-69a81580-0647-11eb-9f68-ab7b0174c000.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022815-6ca30600-0647-11eb-8c14-cabbb34705ff.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022819-6f9df680-0647-11eb-939d-ff15d3227236.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022823-7298e700-0647-11eb-9919-419b7f5107c3.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022828-7c224f00-0647-11eb-81ea-7c2560a2b4a8.jpg">
