@@ -33,12 +33,6 @@ Editing: Patrick Campbell
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022843-8e03f200-0647-11eb-83b3-07d42ce11d45.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022868-a7a53980-0647-11eb-9419-1a31441f5e0d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022851-95c39680-0647-11eb-9a2a-9e62cf68e753.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022932-12567500-0648-11eb-89d9-e393d35e39af.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022922-02d72c00-0648-11eb-942c-a53f32914814.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023041-c8ba5a00-0648-11eb-981a-a8ad6991ece9.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023032-bc360180-0648-11eb-8fcf-0d0091328219.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023059-e5569200-0648-11eb-9b1a-bc6eb65ae85d.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023052-da9bfd00-0648-11eb-91a0-a6c2f2043b8a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023076-f6070800-0648-11eb-87ff-40288d5acd4b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023066-ebe50980-0648-11eb-9ae9-90786ecc56ad.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023101-1d5dd500-0649-11eb-8977-3b836c9f9f30.jpg">
@@ -75,4 +69,10 @@ Editing: Patrick Campbell
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022787-4ed5a100-0647-11eb-9218-54a6de84234e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022795-572ddc00-0647-11eb-80b7-c535aa9b0502.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022801-5c8b2680-0647-11eb-9d25-67ba74456ee8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022932-12567500-0648-11eb-89d9-e393d35e39af.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95022922-02d72c00-0648-11eb-942c-a53f32914814.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023041-c8ba5a00-0648-11eb-981a-a8ad6991ece9.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023032-bc360180-0648-11eb-8fcf-0d0091328219.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023059-e5569200-0648-11eb-9b1a-bc6eb65ae85d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95023052-da9bfd00-0648-11eb-91a0-a6c2f2043b8a.jpg">
 </p>
