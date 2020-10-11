@@ -1,6 +1,6 @@
 # Peruvian Herpetofauna
 
-Below is a collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru (pictured below). 
+Below is a collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru. 
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92166028-f15ef200-ee05-11ea-8fa0-e25e9df3864e.JPG">
@@ -95,6 +95,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92050197-71c81900-ed5a-11ea-8740-830eb2b267fe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541992-8fdbc080-f215-11ea-8479-6cc74d95c178.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95668058-b191d580-0b3c-11eb-96ab-6da285360e21.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
