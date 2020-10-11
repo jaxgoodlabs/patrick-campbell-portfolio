@@ -60,7 +60,7 @@ Photos are organized by taxonomic category.
 
 #### Scincidae (Skinks)
 <p align="left">
-<img width="33%" height="33%" src="">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95668796-88764280-0b46-11eb-9c35-123d72df09f9.jpg">
 </p>
 
 #### Sphaerodactylidae (South American clawed geckos)
