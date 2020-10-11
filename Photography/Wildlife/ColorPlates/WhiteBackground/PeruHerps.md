@@ -88,6 +88,7 @@ Photos are organized by taxonomic category.
 #### Boidae (Boas)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92063617-8e1f8200-ed69-11ea-9459-23652a5728cf.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687864-4a276480-0bd4-11eb-8164-dd54b19db94b.jpg">
 </p>
 
 #### Colubridae (Colubrids)
@@ -156,6 +157,9 @@ Photos are organized by taxonomic category.
 
 #### Microhylidae (Microhylid frogs)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687900-6cb97d80-0bd4-11eb-8ffe-1280c3bf1ad0.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687936-a7bbb100-0bd4-11eb-8898-ece91aa818fd.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95688375-c5d6e080-0bd7-11eb-8bdb-06d660a99a5f.jpg">
 </p>
 
 ## Urodela (Salamanders)
