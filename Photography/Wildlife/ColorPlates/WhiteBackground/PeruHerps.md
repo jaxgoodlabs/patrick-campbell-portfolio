@@ -152,6 +152,7 @@ Photos are organized by taxonomic category.
 
 #### Leptodactylidae (Thin-toed frogs)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95694600-f1ba8c00-0c00-11eb-8161-b123d4bbeb30.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542964-33c66b80-f218-11ea-893c-cc7885232d40.jpg">
 </p>
 
