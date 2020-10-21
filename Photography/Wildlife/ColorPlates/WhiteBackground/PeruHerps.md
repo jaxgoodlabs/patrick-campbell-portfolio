@@ -125,6 +125,7 @@ Photos are organized by taxonomic category.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91791232-9a2c0800-ebe0-11ea-925b-d1a36b979a11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541900-47240780-f215-11ea-80cf-fd970220e258.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664073-0513d880-1320-11eb-9f33-2f8cccfe77b1.jpg">
 </p>
 
 #### Ceratophryidae (Horned frogs)
@@ -156,6 +157,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
