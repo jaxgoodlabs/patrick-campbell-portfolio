@@ -16,7 +16,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 ## Testudinides (Turtles and Tortoises)
 ##### Trionychidae (Softshell turtles)
-<p align="center">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650286-8c914980-ea4b-11ea-8718-f7f601bcd3d6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650294-99ae3880-ea4b-11ea-8a57-1974058899c2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650296-9d41bf80-ea4b-11ea-8cbc-af01d0848e50.jpg">
@@ -46,7 +46,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
-<p align="center">
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068807-e2c8fa00-ed75-11ea-8aa5-7ba6f064307d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068808-e3619080-ed75-11ea-94fa-7b41dd726322.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068805-e2306380-ed75-11ea-86b4-fbcc927e8859.jpg">
@@ -67,7 +67,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93509869-5890a200-f8ee-11ea-94b9-80230806aa9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510330-fe441100-f8ee-11ea-8775-1b58f6180071.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125979-a1643900-edcd-11ea-8dc5-0c3efee48a27.jpg">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/91673645-151ef100-eb03-11ea-956c-1b9246aceb81.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91673645-151ef100-eb03-11ea-956c-1b9246aceb81.jpg">
 </p>
 
 #### Scincidae (Skinks)
