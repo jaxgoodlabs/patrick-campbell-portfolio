@@ -56,6 +56,7 @@ Photos are organized by taxonomic category.
 #### Gymnophthalmidae (Spectacled lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454968-27841c00-28f5-11eb-989c-fe0d9730c5bf.jpg">
 </p>
 
 #### Scincidae (Skinks)
@@ -101,6 +102,8 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97117977-bbd7d600-16dd-11eb-8b4c-3c0489e0b873.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95931488-46900b00-0d97-11eb-8e99-85083a68f4be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97092206-f7a46a00-160f-11eb-9610-cc4a676701b0.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99455313-aed18f80-28f5-11eb-9c1f-563f492cdfb0.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454930-19360000-28f5-11eb-8a26-a63553c6ea17.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
@@ -139,6 +142,7 @@ Photos are organized by taxonomic category.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454860-03c0d600-28f5-11eb-9324-c78a0d88f99c.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
