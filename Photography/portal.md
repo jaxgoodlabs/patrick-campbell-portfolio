@@ -33,11 +33,10 @@ Use the links below to navigate to each collection.
 2. [Peruvian Herpetofauna Color Plates](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/PeruHerpFieldGuide) - A collection of images of reptiles and amphibians collected from the Madre de Dios region of Peru.
 
 ## Fungi of Madre de Dios, Peru (White Background)
-A collection of images of fungi collected in Madre de Dios, Peru and photographed in the style of [Meet Your Neighbours](https://www.facebook.com/meetyourneighbours/).
+[Fungi of Madre de Dios, Peru](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/PeruFungi) - A collection of images of fungi collected in Madre de Dios, Peru and photographed in the style of [Meet Your Neighbours](https://www.facebook.com/meetyourneighbours/).
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/100005113-7539d200-2d96-11eb-8532-c525c1ae6ce8.JPG">
 </p>
-
-[Link to collection](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Photography/Wildlife/ColorPlates/WhiteBackground/PeruFungi). 
+(Photo credits: Doug Schwartz)
 
