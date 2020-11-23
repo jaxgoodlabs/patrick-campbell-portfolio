@@ -3,7 +3,7 @@ Below you'll find examples of my photography. To view a project, just navigate t
 
 #### Jump to Section
 - [Tropical Herpetofauna Species Libraries (White Background)](#tropical-herpetofauna-species-libraries-white-background)
-- [Tropical Herpetofauna Color Plates](#species-libraries-color-plates)
+- [Tropical Herpetofauna Color Plates](#tropical-herpetofauna-color-plates)
 - [Fungi of Madre de Dios, Peru (White Background)](#fungi-of-madre-de-dios-peru-white-background)
 
 ## Tropical Herpetofauna Species Libraries (White Background)
