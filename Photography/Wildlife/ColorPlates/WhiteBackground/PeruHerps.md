@@ -161,7 +161,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92059938-8c9d8c00-ed60-11ea-818e-ecd6bdfa0ebe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95806521-da010780-0cd5-11eb-94e6-75f056d32e88.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95792481-95fc0b80-0cb1-11eb-882c-040f3c21fc4c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99923374-6a822d00-2d03-11eb-8cd8-ff0a6623814a.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99923520-1297f600-2d04-11eb-9f50-583c6020d57e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95792781-220e3300-0cb2-11eb-8d98-3de74f9ec808.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95804727-82609d00-0cd1-11eb-8160-053f98da707d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
@@ -171,6 +171,8 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99471612-e865c300-2914-11eb-88c5-cc7aafbe0066.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925170-0b281b00-2d0b-11eb-8691-e27b29282188.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925241-53dfd400-2d0b-11eb-8e13-30ced8bf4e80.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
