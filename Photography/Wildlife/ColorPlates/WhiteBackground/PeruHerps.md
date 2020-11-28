@@ -145,10 +145,10 @@ Photos are organized by taxonomic category.
 
 #### Craugstoridae (Fleshbelly frogs)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491929-c1b64200-30f5-11eb-89cc-1148cc26928b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491929-c1b64200-30f5-11eb-89cc-1148cc26928b.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
@@ -181,10 +181,10 @@ Photos are organized by taxonomic category.
 #### Leptodactylidae (Thin-toed frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95694600-f1ba8c00-0c00-11eb-8161-b123d4bbeb30.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542964-33c66b80-f218-11ea-893c-cc7885232d40.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96529876-3921c780-1254-11eb-8f1f-7cb57515ca37.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491763-4acc7980-30f4-11eb-87c1-d2def4eda314.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491699-c37f0600-30f3-11eb-94c2-c1fbadf86074.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542964-33c66b80-f218-11ea-893c-cc7885232d40.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96529876-3921c780-1254-11eb-8f1f-7cb57515ca37.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
