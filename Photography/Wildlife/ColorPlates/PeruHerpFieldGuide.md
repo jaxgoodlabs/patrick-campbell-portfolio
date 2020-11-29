@@ -266,7 +266,13 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93667938-5bf36d00-fa57-11ea-801c-08bfba2a365f.jpg">
 </p>
 
-## Urodela (Salamanders)
+## Gymnophiona (Legless caecelians)
+#### Caeciliidae (Common caecelians)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100532771-905b7600-31ca-11eb-8d14-6ff2283b9719.jpg">
+</p>
+
+## Caudata (Newts and salamanders)
 #### Plethodontidae (Lungless salamanders)
 <p align="left">
 
