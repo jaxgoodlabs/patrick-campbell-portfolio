@@ -138,6 +138,11 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664073-0513d880-1320-11eb-9f33-2f8cccfe77b1.jpg">
 </p>
 
+#### Centrolenidae (Glass frogs)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560461-d9233580-3283-11eb-8b30-c34a9bed30ca.jpg">
+</p>
+
 #### Ceratophryidae (Horned frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
@@ -148,6 +153,8 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491929-c1b64200-30f5-11eb-89cc-1148cc26928b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560509-096ad400-3284-11eb-8b62-de006aeefe8b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
 </p>
 
@@ -176,6 +183,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925170-0b281b00-2d0b-11eb-8691-e27b29282188.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925241-53dfd400-2d0b-11eb-8e13-30ced8bf4e80.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491731-1658bd80-30f4-11eb-9a37-53d970fff424.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
