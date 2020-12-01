@@ -68,12 +68,13 @@ One unanswered question, which may affect my comments above, has to do with whic
 [Return to top](#jump-to-section)
 
 ## Mecklenburg Hazard Evacuation Exercise
+
 An exercise I completed for the 90-753: Advanced GIS course at CMU in which I map evacuation routes around a hypothetical hazard in Mecklenburg County, North Carolina.
 
 **I. Map with Incident and Evacuation Plans**
 
 *Mecklenburg, NC Hazardous Incident Report*
-<br />
+
 > At 6:32 this evening, a tanker truck carrying chlorine gas was heading westbound on Interstate 85 in Mecklenburg County when the driver lost control of the vehicle. The tanker was damaged in the process and chlorine gas is leaking slowly from the damaged tank into the surrounding area. The incident occurred between the two northbound and southbound lanes of Interstate 77 creating unsafe conditions for anyone located within a two-mile radius of the incident. 
 > 
 > Emergency responders are on the scene and have issued an immediate evacuation notice for all households located within the affected area (see the evacuation area on the map below). 
@@ -87,7 +88,7 @@ For real time updates on the status of the situation, stay tuned to your local p
 
 
 **II.	Map of Redirected Traffic Patterns and Drive Times to Nearest Hospitals**
-<br />
+
 Below is a proposed text message that the North Carolina DMV can send out that instructs motorists how to deal with the incident. Below that, I have included a map of evacuation routes and the service areas of the nearest fire stations. 
 
 > An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.
