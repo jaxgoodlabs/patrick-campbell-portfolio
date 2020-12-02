@@ -150,13 +150,13 @@ Photos are organized by taxonomic category.
 
 #### Craugstoridae (Fleshbelly frogs)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560509-096ad400-3284-11eb-8b62-de006aeefe8b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491929-c1b64200-30f5-11eb-89cc-1148cc26928b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819045-60ee7880-3419-11eb-9961-64924f29a506.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560509-096ad400-3284-11eb-8b62-de006aeefe8b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819045-60ee7880-3419-11eb-9961-64924f29a506.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
@@ -177,16 +177,16 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99471612-e865c300-2914-11eb-88c5-cc7aafbe0066.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925170-0b281b00-2d0b-11eb-8691-e27b29282188.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925241-53dfd400-2d0b-11eb-8e13-30ced8bf4e80.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819101-811e3780-3419-11eb-80f2-088a9415ab11.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491731-1658bd80-30f4-11eb-9a37-53d970fff424.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818831-ede50200-3418-11eb-9d32-7f459d7f8b12.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819101-811e3780-3419-11eb-80f2-088a9415ab11.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
