@@ -169,6 +169,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298860-e9945c80-37fd-11eb-9f46-34b3e3f7bdbf.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
@@ -209,6 +210,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491699-c37f0600-30f3-11eb-94c2-c1fbadf86074.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542964-33c66b80-f218-11ea-893c-cc7885232d40.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96529876-3921c780-1254-11eb-8f1f-7cb57515ca37.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298753-78ed4000-37fd-11eb-955b-cab648d90b5c.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
