@@ -200,6 +200,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491731-1658bd80-30f4-11eb-9a37-53d970fff424.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818831-ede50200-3418-11eb-9d32-7f459d7f8b12.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101299755-43e2ec80-3801-11eb-9574-0d3549d332a7.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
