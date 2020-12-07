@@ -167,9 +167,9 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819045-60ee7880-3419-11eb-9961-64924f29a506.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298860-e9945c80-37fd-11eb-9f46-34b3e3f7bdbf.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298860-e9945c80-37fd-11eb-9f46-34b3e3f7bdbf.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
@@ -208,18 +208,18 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491763-4acc7980-30f4-11eb-87c1-d2def4eda314.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95694600-f1ba8c00-0c00-11eb-8161-b123d4bbeb30.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818733-bc6c3680-3418-11eb-97f5-fcf549393544.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298753-78ed4000-37fd-11eb-955b-cab648d90b5c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491699-c37f0600-30f3-11eb-94c2-c1fbadf86074.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542964-33c66b80-f218-11ea-893c-cc7885232d40.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96529876-3921c780-1254-11eb-8f1f-7cb57515ca37.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298753-78ed4000-37fd-11eb-955b-cab648d90b5c.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687900-6cb97d80-0bd4-11eb-8ffe-1280c3bf1ad0.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687936-a7bbb100-0bd4-11eb-8898-ece91aa818fd.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95688375-c5d6e080-0bd7-11eb-8bdb-06d660a99a5f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269184-dfa92580-3739-11eb-9e5b-a275436d2406.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95688375-c5d6e080-0bd7-11eb-8bdb-06d660a99a5f.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687936-a7bbb100-0bd4-11eb-8898-ece91aa818fd.jpg">
 </p>
 
 ## Gymnophiona (Legless caecelians)
