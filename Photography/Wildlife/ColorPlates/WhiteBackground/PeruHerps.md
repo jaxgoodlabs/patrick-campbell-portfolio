@@ -58,6 +58,7 @@ Photos are organized by taxonomic category.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454968-27841c00-28f5-11eb-989c-fe0d9730c5bf.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101423978-2fb5f280-38c8-11eb-8836-7b7c80c42112.jpg">
 </p>
 
 #### Phyllodactylidae (Geckos)
@@ -72,7 +73,7 @@ Photos are organized by taxonomic category.
 
 #### Sphaerodactylidae (South American clawed geckos)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542808-ce727a80-f217-11ea-93ea-440d11b76918.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101423903-0a28e900-38c8-11eb-84dd-c99339f89ab4.jpg">
 </p>
 
 #### Teiidae (Whiptails)
