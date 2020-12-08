@@ -58,7 +58,7 @@ Photos are organized by taxonomic category.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454968-27841c00-28f5-11eb-989c-fe0d9730c5bf.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101423978-2fb5f280-38c8-11eb-8836-7b7c80c42112.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101424278-cda9bd00-38c8-11eb-88b8-c08a341ef55e.jpg">
 </p>
 
 #### Phyllodactylidae (Geckos)
@@ -116,6 +116,7 @@ Photos are organized by taxonomic category.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99469516-e39f1000-2910-11eb-9219-7dafdd8127c8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745093-fa776b00-2aa6-11eb-89f9-faeabb59b53d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269155-9527a900-3739-11eb-9de1-b5d291a1702b.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101424219-ad79fe00-38c8-11eb-8729-538166584a03.jpg">
 </p>
 
 #### Elapidae (Elapids)
