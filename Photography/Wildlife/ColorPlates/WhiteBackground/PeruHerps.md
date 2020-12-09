@@ -74,7 +74,7 @@ Photos are organized by taxonomic category.
 
 #### Sphaerodactylidae (South American clawed geckos)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101423903-0a28e900-38c8-11eb-84dd-c99339f89ab4.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101644677-7f4d0900-3a03-11eb-8364-cf308d514515.jpg">
 </p>
 
 #### Teiidae (Whiptails)
