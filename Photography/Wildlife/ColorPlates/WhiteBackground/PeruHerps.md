@@ -240,6 +240,7 @@ Photos are organized by taxonomic category.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491763-4acc7980-30f4-11eb-87c1-d2def4eda314.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546790-2ece4f00-4086-11eb-8749-aedb023fe29e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102920493-df5a9b00-4458-11eb-8c63-ba9119a2a10a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95694600-f1ba8c00-0c00-11eb-8161-b123d4bbeb30.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818733-bc6c3680-3418-11eb-97f5-fcf549393544.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298753-78ed4000-37fd-11eb-955b-cab648d90b5c.jpg">
