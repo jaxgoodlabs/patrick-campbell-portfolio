@@ -264,11 +264,11 @@ Photos are organized by taxonomic category.
 ## Gymnophiona (Legless caecelians)
 #### Caeciliidae (Common caecelians)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/100491883-4a80ae00-30f5-11eb-90df-44e13b84311f.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/102921190-f64dbd00-4459-11eb-83ba-82e55aa2c921.jpg">
 </p>
 
 ## Caudata (Newts and salamanders)
 #### Plethodontidae (Lungless salamanders)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92060659-595bfc80-ed62-11ea-9191-0f31cbf872e0.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/102921511-7b38d680-445a-11eb-8241-bf74aa9f2b65.jpg">
 </p>
