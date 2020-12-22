@@ -17,7 +17,7 @@ Photos are organized by taxonomic category.
 
 <p>
     <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg" alt>
-    <em>image_caption</em>
+    <em>This is a caiman</em>
 </p>
 
 ## Testudinides (Turtles and Tortoises)
