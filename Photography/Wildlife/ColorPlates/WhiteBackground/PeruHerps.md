@@ -18,8 +18,8 @@ Photos are organized by taxonomic category.
 ## Testudinides (Turtles and Tortoises)
 #### Chelidae (Side-necked turtles)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
 </p>
 
 #### Podocnemididae (South American river turtles)
@@ -28,7 +28,7 @@ Photos are organized by taxonomic category.
 
 #### Testudinidae (Tortoises)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
