@@ -10,10 +10,12 @@ Photos are organized by taxonomic category.
 
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
+*Paleosuchus trigonatus*, juvenile
 <p align="left">
-Smooth-fronted caimain, juvenile (*Paleosuchus trigonatus*)
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg">
-Black caimain, juvenile (*Melanosuchus niger*)
+</p>
+*Melanosuchus niger*, juvenile
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
 </p>
 
