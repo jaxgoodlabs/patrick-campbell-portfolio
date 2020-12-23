@@ -10,22 +10,25 @@ Photos are organized by taxonomic category.
 
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
-*Paleosuchus trigonatus*, juvenile
+*Paleosuchus trigonatus* (juvenile)
 <p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg">
 </p>
 
-*Melanosuchus niger*, juvenile
+*Melanosuchus niger* (juvenile)
 <p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
 </p>
 
 ## Testudinides (Turtles and Tortoises)
 #### Chelidae (Side-necked turtles)
-<p align="left">
 *Platemys platycephala*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
+</p>
+
 *Mesoclemmys gibba*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
 </p>
 
@@ -34,127 +37,257 @@ Photos are organized by taxonomic category.
 </p>
 
 #### Testudinidae (Tortoises)
+"Chelenoides denticulata* (juvenile)
 <p align="left">
-"Chelenoides denticulata*, juvenile
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
 #### Alopoglossidae
+*Alopoglossus angulatus* (juvenile)
 <p align="left">
-*Alopoglossus angulatus*, juvenile
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92049361-3593b900-ed58-11ea-92d0-8e37b7c1dda6.jpg">
-*Alopoglossus angulatus*, adult
+</p>
+
+*Alopoglossus angulatus* (adult)
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/99745164-1e3ab100-2aa7-11eb-9a7e-d07017cea9e5.jpg">
+</p>
+
 *Ptychoglossus brevifrontalis*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101649963-72331880-3a09-11eb-862d-26b619676cd7.jpg">
 </p>
 
 #### Dactyloidae (Anoles)
-<p align="left">
 *Anolis fuscuratus*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92053920-e64f8780-ed5b-11ea-95a2-c608ba743282.jpg">
-*Anolis nitens*, female
+</p>
+
+*Anolis nitens* (female)
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92499411-d3104200-f1c9-11ea-8a74-324bec363693.jpg">
-*Anolis nitens*, male
+</p>
+
+*Anolis nitens* (male)
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92421408-62741180-f146-11ea-84d0-caf392b90c48.jpg">
+</p>
+
 *Anolis punctatus*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92535827-23a59080-f206-11ea-85f9-183f4fce8ed5.jpg">
+</p>
+
 *Anolis ortoni*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92541068-07f4b700-f213-11ea-80de-b50d3b2c4ecb.jpg">
 </p>
 
 #### Gekkonidae (Common geckos)
+*Gonatodes humeralis* (male)
 <p align="left">
-*Gonatodes humeralis*, male
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92049964-d171f480-ed59-11ea-94cc-d4f8b087e8fb.jpg">
-*Gonatodes humeralis*, female
+</p>
+
+*Gonatodes humeralis* (female)
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92049968-d33bb800-ed59-11ea-9420-53d9255c8e12.jpg">
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
-<p align="left">
 *Iphisa elegans*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
+</p>
+
 *Bachia dorbignyi*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/99454968-27841c00-28f5-11eb-989c-fe0d9730c5bf.jpg">
+</p>
+
 *Potamites cf. ecpleopus*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101424278-cda9bd00-38c8-11eb-88b8-c08a341ef55e.jpg">
+</p>
+
 *Cercosaurus oscellata*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101644069-c4bd0680-3a02-11eb-8d0c-b3b858caa461.jpg">
+</p>
+
 *Cercosaurus eigenmanni*
+<p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102722447-2452c600-42cf-11eb-9327-fc2a5a8e607b.jpg">
 </p>
 
 #### Phyllodactylidae (Geckos)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101110359-d20f6680-35a6-11eb-8c51-d288597d3dfa.jpg">
+<img width="100%" height="100%"  src="https://user-images.githubusercontent.com/32546509/101110359-d20f6680-35a6-11eb-8c51-d288597d3dfa.jpg">
 </p>
 
 #### Scincidae (Skinks)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102703974-fb392380-4243-11eb-8190-80d8d8bed7eb.jpg">
+<img width="100%" height="100%"  src="https://user-images.githubusercontent.com/32546509/102703974-fb392380-4243-11eb-8190-80d8d8bed7eb.jpg">
 </p>
 
 #### Sphaerodactylidae (South American clawed geckos)
+*Pseudogonatodes guianensis*
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101644677-7f4d0900-3a03-11eb-8364-cf308d514515.jpg">
+<img width="100%" height="100%"  src="https://user-images.githubusercontent.com/32546509/101644677-7f4d0900-3a03-11eb-8364-cf308d514515.jpg">
 </p>
 
 #### Teiidae (Whiptails)
+*Ameiva ameiva* (male)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049347-2d3b7e00-ed58-11ea-8baf-5479f7c5987c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421394-54be8c00-f146-11ea-9f06-893bdf5734ed.jpg">
+<img width="100%" height="100%"  src="https://user-images.githubusercontent.com/32546509/92049347-2d3b7e00-ed58-11ea-8baf-5479f7c5987c.jpg">
+</p>
+
+*Kentropyx parviceps*
+<p align="left">
+<img width="100%" height="100%"  src="https://user-images.githubusercontent.com/32546509/92421394-54be8c00-f146-11ea-9f06-893bdf5734ed.jpg">
 </p>
 
 #### Tropiduridae (Neotropical ground lizards)
+*Plica plica*
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542040-b3067000-f215-11ea-8a4a-1ce764fa2af5.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102717327-96b3ae00-42af-11eb-94c4-80e52de4a06c.jpg">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92542040-b3067000-f215-11ea-8a4a-1ce764fa2af5.jpg">
+</p>
+
+*Plica umbra*
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102717327-96b3ae00-42af-11eb-94c4-80e52de4a06c.jpg">
 </p>
 
 ### Serpentes (Snakes)
 #### Aniliidae (American pipe snakes)
+*Anilius scytale*
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101290307-547a6f00-37cf-11eb-92df-02f688290c99.jpg">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101290307-547a6f00-37cf-11eb-92df-02f688290c99.jpg">
 </p>
 
 #### Boidae (Boas)
+*Boa constrictor*
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92063617-8e1f8200-ed69-11ea-9459-23652a5728cf.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687864-4a276480-0bd4-11eb-8164-dd54b19db94b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96530792-29a37e00-1256-11eb-818d-174b91fb4832.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101290334-88ee2b00-37cf-11eb-9a95-8f89f493d3f6.jpg">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92063617-8e1f8200-ed69-11ea-9459-23652a5728cf.jpg">
+</p>
+
+*Epicrates cenchoa*
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95687864-4a276480-0bd4-11eb-8164-dd54b19db94b.jpg">
+</p>
+
+*Eunectes murinus*
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/96530792-29a37e00-1256-11eb-818d-174b91fb4832.jpg">
+</p>
+
+*Corallus hortunalus* (juvenile)
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101290334-88ee2b00-37cf-11eb-9a95-8f89f493d3f6.jpg">
 </p>
 
 #### Colubridae (Colubrids)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92050197-71c81900-ed5a-11ea-8740-830eb2b267fe.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541992-8fdbc080-f215-11ea-8479-6cc74d95c178.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102552840-d8fea480-408f-11eb-9de1-1dffe1110fb9.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95668058-b191d580-0b3c-11eb-96ab-6da285360e21.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102799409-80295780-4380-11eb-9b9d-5425e85186ba.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102800491-f4b0c600-4381-11eb-9535-00496fd59e06.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97117977-bbd7d600-16dd-11eb-8b4c-3c0489e0b873.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95931488-46900b00-0d97-11eb-8e99-85083a68f4be.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102726427-c339eb00-42ec-11eb-8bbf-c7a236a124ba.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97092206-f7a46a00-160f-11eb-9610-cc4a676701b0.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99747790-38758e80-2aa9-11eb-8c0e-bd40007529b5.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102635944-01cf7a00-4122-11eb-8de4-5d90acef8f14.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101424219-ad79fe00-38c8-11eb-8729-538166584a03.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102562934-24bc4880-40a6-11eb-95d3-79eb70624892.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102728511-62b1aa80-42fa-11eb-8d5f-cc31ca9e31ed.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102729299-3566fb80-42fe-11eb-84f6-37c56f939cd8.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102729635-7d3a5280-42ff-11eb-8f9d-4f2dd9d88551.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745722-d0727880-2aa7-11eb-8c97-792f68e91757.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99469516-e39f1000-2910-11eb-9219-7dafdd8127c8.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102937546-6e2ae000-4478-11eb-86ff-2aae9a6a7e2a.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102796719-aea53380-437c-11eb-8b5d-00246257c12a.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102636036-24fa2980-4122-11eb-8735-c3b42123bc14.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745093-fa776b00-2aa6-11eb-89f9-faeabb59b53d.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269155-9527a900-3739-11eb-9de1-b5d291a1702b.jpg">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92050197-71c81900-ed5a-11ea-8740-830eb2b267fe.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92541992-8fdbc080-f215-11ea-8479-6cc74d95c178.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102552840-d8fea480-408f-11eb-9de1-1dffe1110fb9.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95668058-b191d580-0b3c-11eb-96ab-6da285360e21.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102799409-80295780-4380-11eb-9b9d-5425e85186ba.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102800491-f4b0c600-4381-11eb-9535-00496fd59e06.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/97117977-bbd7d600-16dd-11eb-8b4c-3c0489e0b873.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95931488-46900b00-0d97-11eb-8e99-85083a68f4be.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102726427-c339eb00-42ec-11eb-8bbf-c7a236a124ba.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/97092206-f7a46a00-160f-11eb-9610-cc4a676701b0.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/99747790-38758e80-2aa9-11eb-8c0e-bd40007529b5.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102635944-01cf7a00-4122-11eb-8de4-5d90acef8f14.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101424219-ad79fe00-38c8-11eb-8729-538166584a03.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102562934-24bc4880-40a6-11eb-95d3-79eb70624892.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102728511-62b1aa80-42fa-11eb-8d5f-cc31ca9e31ed.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102729299-3566fb80-42fe-11eb-84f6-37c56f939cd8.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102729635-7d3a5280-42ff-11eb-8f9d-4f2dd9d88551.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/99745722-d0727880-2aa7-11eb-8c97-792f68e91757.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/99469516-e39f1000-2910-11eb-9219-7dafdd8127c8.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102937546-6e2ae000-4478-11eb-86ff-2aae9a6a7e2a.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102796719-aea53380-437c-11eb-8b5d-00246257c12a.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/102636036-24fa2980-4122-11eb-8735-c3b42123bc14.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/99745093-fa776b00-2aa6-11eb-89f9-faeabb59b53d.jpg">
+</p>
+
+<p align="left">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/101269155-9527a900-3739-11eb-9de1-b5d291a1702b.jpg">
 </p>
 
 #### Elapidae (Elapids)
