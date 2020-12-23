@@ -37,7 +37,7 @@ Photos are organized by taxonomic category.
 </p>
 
 #### Testudinidae (Tortoises)
-"Chelenoides denticulata* (juvenile)
+*Chelenoides denticulata* (juvenile)
 <p align="left">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
 </p>
