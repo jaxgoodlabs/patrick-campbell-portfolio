@@ -89,7 +89,7 @@ Photos are organized by taxonomic category.
 #### Tropiduridae (Neotropical ground lizards)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542040-b3067000-f215-11ea-8a4a-1ce764fa2af5.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102717327-96b3ae00-42af-11eb-94c4-80e52de4a06c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103155190-3b7c3280-476b-11eb-8a01-8a212ff40a43.jpg">
 </p>
 
 ### Serpentes (Snakes)
