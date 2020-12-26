@@ -12,8 +12,10 @@ Photos are organized by taxonomic category.
 #### Alligatoridae (Alligators and caimans)
 <p align="left">
 <img src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg">
+<p>
 |:--:|
 | Smooth-fronted caimain (*Paleosuchus trigonatus*) |
+<p align="left">
 <img src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
 | Black caimain (*Melanosuchus niger*) |
 </p>
