@@ -10,11 +10,11 @@ Photos are organized by taxonomic category.
 
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
-<p align="right">
-<img src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg">
+<p align="left">
 <em>Smooth-fronted caimain (Paleosuchus trigonatus)<em>
-<img src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
+<img src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg">
 <em>Black caimain (Melanosuchus niger)<em>
+<img src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
 </p>
 
 ## Testudinides (Turtles and Tortoises)
