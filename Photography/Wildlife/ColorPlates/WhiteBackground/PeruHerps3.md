@@ -11,9 +11,12 @@ Photos are organized by taxonomic category.
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
 
+# cat example.md
 aa|bb|cc
 --|--|--
-ee|ff|gg
+ee|ff|gg 
+
+# markdown-pdf example.md
 
 | <img src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg"> | 
 |:--:| 
