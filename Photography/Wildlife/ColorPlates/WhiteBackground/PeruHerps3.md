@@ -19,8 +19,10 @@ Photos are organized by taxonomic category.
 
 ## Testudinides (Turtles and Tortoises)
 #### Chelidae (Side-necked turtles)
+<p align="center">
+<em>Twist-necked turtle (Platemys platycephala)                             Toadhead turtle (Mesoclemmys gibba)<em>
+</p>
 <p align="left">
-<em>Twist-necked turtle (Platemys platycephala)   Toadhead turtle (Mesoclemmys gibba)<em>
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
 </p>
