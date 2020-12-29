@@ -85,6 +85,7 @@ Photos are organized by taxonomic category.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049347-2d3b7e00-ed58-11ea-8baf-5479f7c5987c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421394-54be8c00-f146-11ea-9f06-893bdf5734ed.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103301766-0ae90280-49d0-11eb-8c02-0575089fd52f.jpg">
 </p>
 
 #### Tropiduridae (Neotropical ground lizards)
