@@ -69,6 +69,7 @@ Photos are organized by taxonomic category.
 #### Phyllodactylidae (Geckos)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101110359-d20f6680-35a6-11eb-8c51-d288597d3dfa.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103843463-dfb48200-5065-11eb-9994-9b8933441284.jpg">
 </p>
 
 #### Scincidae (Skinks)
