@@ -305,6 +305,8 @@ Click [here](https://github.com/jaxgoodlabs/Pitt_EV_Bike_Ped_Site_Analysis) to v
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80058259-cb8c1d00-84f6-11ea-919a-03ca89bd5605.JPG">
 </p>
 
+For this project, I analyzed three years of South Florida Water Management District python program data using a combination of generalized linear models, optimization, and spatial analysis to identify hotspots and provide recommendations for allocating hunters throughout the project coverage area to maximize the number of pythons caught and expected payout to hunters on a given day. The project was conducted in order to evaluate the feasibility and desirability of transitioning from the current management model, in which hunters are free to choose their own hunting locations and routes, to a dispatch model, in which project managers actively assign hunters to specific zones across the coverage area. 
+
 Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the final report for this project.
 
 [Return to top](#jump-to-section)
