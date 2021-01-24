@@ -5,7 +5,7 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 - [Antfarm.io](#antfarm-io)
 - [Homepage](#Homepage)
 - [Amateurs, Inc](#amateurs-inc)
-- [GoodLabs](#good-labs)
+- [GoodLabs](#goodlabs)
 - [Pop-up Consulting](#pop-up-consulting)
 - [Virtual City](#virtual-city)
 
@@ -17,7 +17,7 @@ Below you'll find examples of my concepts and prototypes. To view a project, jus
 <details>
   <summary>Click to expand</summary>
 
-Antfarm.io is a 
+
 
 [Return to top](#jump-to-section)
 
@@ -51,7 +51,9 @@ Antfarm.io is a
 <details>
   <summary>Click to expand</summary>
 
-GoodLabs is a hub for commons-based peer production1 providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations.
+GoodLabs is a hub for commons-based peer production providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations.
+
+This project is open source. Click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
 
 [Return to top](#jump-to-section)
 
