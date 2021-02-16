@@ -20,7 +20,8 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [China’s Economic and Military Power](#chinas-economic-and-military-power)
   - [Cold War Policies of the Truman Administration Toward the Soviet Union](#cold-war-policies-of-the-truman-administration-toward-the-soviet-union)
 
-- [Philosopy](#philosophy)
+
+- [Philosophy](#philosophy)
   - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
   - [Descartes: Theodicy of Error](#descartes-theodicy-of-error)
   - [Making Room for Volitionism](#making-room-for-volitionism)
