@@ -19,8 +19,6 @@ Below you'll find examples of my academic and professional writing. To view a pr
   - [Peru’s Economic Relations with the US and China](#perus-economic-relations-with-the-us-and-china)
   - [China’s Economic and Military Power](#chinas-economic-and-military-power)
   - [Cold War Policies of the Truman Administration Toward the Soviet Union](#cold-war-policies-of-the-truman-administration-toward-the-soviet-union)
-
-
 - [Philosophy](#philosophy)
   - [A Volitional Analysis of Moral Obligations](#a-volitional-analysis-of-moral-obligations)
   - [Descartes: Theodicy of Error](#descartes-theodicy-of-error)
