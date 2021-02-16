@@ -316,7 +316,9 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83971918-9ae82300-a8ab-11ea-82e8-bf18962a0587.JPG">
 </p>
 
-[View this map on ArcGIS Online](https://arcg.is/05XH5S0) or click [here](https://carnegiemellon.maps.arcgis.com/apps/MapSeries/index.html?appid=9dc0bb2905164cf4a9c71c6e6a972c63) to view the project Story Map. Access the final report [here](jaxgoodlabs.github.io/bumbleebee-conservation/).
+The rusty patched bumble bee (*Bombus affinis*) is an important pollinator of wildflowers, cranberries, and other important crops. It is the first bumble bee to be designated as an endangered species in the United States. Since the 19902, the population of rusty patched bumble bees in the US has plummeted nearly 90 percent. While no single cause has been identified, some of the main drivers of these declines include the use of agricultural pesticides, parasites and disease, loss of important food sources, and climate change. To protect the rusty patched bumble bee from extinction, this project seeks to engage community members in habitat restoration efforts by providing a flower planting guide resource that will enable them to better attract and maintain local honey bee populations. In addition, community members will have access to a the Survey123 application where they can record sightings of the bee to help in scientific conservation efforts. Farmers, consumers of agricultural products, and the general public will benefit from conserving this important pollinator.
+
+[View this map on ArcGIS Online](https://arcg.is/05XH5S0) or click [here](https://carnegiemellon.maps.arcgis.com/apps/MapSeries/index.html?appid=9dc0bb2905164cf4a9c71c6e6a972c63) to view the project Story Map. Access the final report [here](https://jaxgoodlabs.github.io/bumblebee-conservation/).
 
 [Return to top](#jump-to-section)
 
@@ -324,6 +326,10 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83976614-14dad500-a8c9-11ea-829d-abff9be35343.png">
 </p>
+
+The Resilience-Oriented Planning Map is a geodatabase file created in ArcGIS Pro in order to provide quick reference of the 35 Healthy Active Living Centers managed by Pittsburgh’s Department of Parks and Recreation in relation to the various hazards and other feature layers of interests. The map allows the user to assess the risk exposure of each center to these potential hazards and identify the highest value retrofit projects for each one. 
+
+This project feeds directly into the [Cost and Carbon Analysis of the Impact of Inaction project](https://jaxgoodlabs.github.io//patrick-campbell-portfolio/Writing/Cost%20and%20Carbon%20Analysis%20of%20the%20Impact%20of%20Inaction.pdf). This project involved leading a 6-member student team in developing a decision support tool for planning building retrofit projects for city-owned buildings. The tool combines multiple input data sets to quantify a wide range of monetary and non-monetary costs and benefits associated with various retrofit options (air purifiers, green roofs, rain gardens, etc.). The tool was created to better leverage the City’s capital and operating budget investments toward achieving the buildings and energy goals set forth by the [Pittsburgh Climate Action Plan 3.0](https://pittsburghpa.gov/dcp/climate-action-plan).
 
 Click [here](https://jaxgoodlabs.github.io/pittsburgh-hazards-map) to view this project.
 
