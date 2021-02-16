@@ -296,6 +296,8 @@ An in-depth site analysis for EV infrastructure I completed for the City of Pitt
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80050002-79410100-84e2-11ea-9ced-5082f60267e9.JPG">
 </p>
 
+This project used GIS to identify the best sites for the installation of new electric vehicle infrastructure given various pre-defined parameters. This project served to help the City of Pittsburgh plan for a more resilient transportation infrastructure while reducing carbon emissions from the transportation sector.
+
 Click [here](https://github.com/jaxgoodlabs/Pitt_EV_Bike_Ped_Site_Analysis) to view this project on GitHub.
 
 [Return to top](#jump-to-section)
