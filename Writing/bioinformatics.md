@@ -142,10 +142,6 @@ In a coordinated codeathon, teams worked collaboratively with the same dataset t
 
 For demonstration purposes, we identified a dataset that was agreeable for all teams’ efforts and was used solely as an example for showcasing the workflow. This does not represent the kind of patient-level data that would be best suited to this analysis pipeline. The resulting dataset is a lung cancer dataset (Suzuki et al., 2019; ENA accession: PRJDB6952) corresponding to 23 lung cancer cell lines treated with 95 compounds including approved receptor tyrosine kinase inhibitors and epigenetic targeting drugs. High-throughput RNA-seq was conducted with four different drug concentrations at three time points (24,48,72h).
 
-## Tables, figures and so on
-
-Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
-
 Table 1. Three cell lines and four treatments were included for testing (124 total samples). 
 (Suzuki et al., 2019; ENA accession: [PRJDB6952]( https://ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB6952))
 
@@ -211,12 +207,70 @@ Figure 1. SnpReportR Pipeline. 0) The pipeline begins with .fastq file inputs. 1
 
 The report includes searchable and sortable tables to help visualize the data in tabular format and allows the user to quickly find genes of interest using the Javascript backed datatable DT v0.17 R package. The query results from InterMineR include expression values in transcripts per million (TPM) for genes identified with SNVs/indels by the CTAT Mutations pipeline. The expression patterns are displayed as barplots of the expression scores and are made interactive with the use of plotly R v4.9.3. Expression of these genes in normal tissues can help elucidate whether the expressed variant may be targetable, for example, as it may contain neoantigens. Next, the type of the SNVs (coding, intronic, missense, ect) in the genes is summarized in a donut plot to show the relative frequency of each mutation type identified in the patient sample using ggplot2 v3.3.3. Then the position of the SNV/indel is plotted with Gviz v1.34.1 and the bioconductor transcript database (TxDB) object to show the location of the variant within the transcript isoforms and provides an ideogram to define the chromosome location and karyotype band. The genes with variants identified are then examined for expression using the RNAseq normalized counts data using boxplots with ggplotly. Differentially expressed genes are reported in tables to determine if any SNVs are highly expressed compared to a control group and visualized interactively with ggplotly as a volcano plot. 
 
+# Results
+## Pipeline Analysis
+
+The RNAseq variant calling and annotation pipeline creates VCF and HTML formatted outputs that describe the impact and clinical relevance of each expressed variant. These annotations are used to prioritize, filter, and analyze factors of individual variants including their presence within global populations, relevance to cancer, and impact on RNA-editing sites. 
 
 
+Differential expression testing produced a list of significant differentially expressed genes with associated log2 fold change values and p values. These results were used to give an example of the format and types of information that would be expected from differential expression testing so that it can be easily integrated into clinical reports. 
+
+
+The pipeline leads to HTML interactive graphs giving the ancestry and relatedness between the samples. The output will also include a list of the variants likely associated with the disease.
+
+
+While able to be executed as a standalone program, DSVifier can build upon the outputs of the CTAT Mutations pipeline to generate data-rich annotated .vcf files, and it is our intention for these programs to be used together, as parts of a complete analysis pipeline. After using each of the aforementioned programs, the resulting annotated .vcf files then serve as inputs for the final program in the analysis pipeline, SnpReportR, an R package to generate detailed RNA-seq analysis reports from our analysis pipeline for both clinicians and researchers.
+
+## Annotation
+
+SnpReportR utilises multiple databases and links variants to genes and annotates gene impact, allele frequency, and the overlap with clinically-relevant SNVs. All data, including are available for download in a tab-delimited file. Each variant has been extensively annotated and aggregated in a customizable table using OMIM/OMIA Variant, dbSNP - Variant Allele origin and allele frequency known or predicted RNA-editing site, Repeat family from UCSC Genome Browser Repeatmasker Annotations Homopolymer adjacency Entropy around the variant Splice adjacency FATHMM pathogenicity prediction COSM.
+
+
+## Report generation
+
+Finally, a user-friendly customisable report is generated. SnpReportR provides a detailed HTML output that describes variants within an inputted VCF file, shown in Figure 1. SnpReportR  creates two separate reports, the first is aimed at patients and non-specialist clinicians, and the second report provides more in-depth information for genetic researchers. The HTML report is generated using a VCF file for the CTAT Mutations pipeline and includes annotations on the genes identified to be most likely to be disease causing. That is, variant detection from RNAseq provides numerous snvs and small indels, but most are not associated with pathogenic potential. The VCF filtering completed during the report generation identifies only those genes with pathogenic potential and with moderate to high impact on the genes’ protein product (eg. frameshift or early termination).   The most likely pathogenic candidates are then further annotated for the information included in Table 3. 
+
+
+In the gene level summary of the most pathogenic variants identified, each column in the dynamic table can be sorted and searched dynamically, and all data used by the app is available for download in tab-delimited files. By default, allele frequency is reported based on dbVar and gnomAD genomes and exomes. SnpReportR  utilises multiple databases and links variants to genes and annotates gene impact, allele frequency, and the overlap with clinically-relevant variants. In addition, the report includes extensive variant annotation from OpenCRAVAT including known and predicted RNA-editing sites, repeat family from UCSC Genome Browser, homopolymer adjacency, entropy around the variant, splice adjacency, FATHMM pathogenicity prediction, and COSMIC annotation.
+
+
+Table 3: Description of annotations provided by snpReportR output. 
+
+| Annotation | Description of annotation |
+| -------- | -------- |
+| gene-level summary | dynamic table with the annotated variants that impact the gene |
+| Gene variant resources | dynamic table with the annotated variants that impact the gene |
+| Gene variant visualizations | Plots of the genomic location of each variant and the frequency variant types, including missense, synonymous, and non-coding regions |
+
+
+## 1- Patients, non-specialist clinicians
+The report was designed to use a patient friendly language. The R package provides opportunities to customize the header and include a user’s institution or logo.  
+
+<p align="center">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121074615-1bcd4980-c7a2-11eb-8473-eaafb88a5a0e.png">
+</p>
+Figure 2. SNPReportR interactive report, SNVs. SnpReportR  generates detailed, accessible genetic results reports. The report includes information on SNV pathogenicity, impact, and enrichment in genes.
+
+<p align="center">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121074630-1e2fa380-c7a2-11eb-99e9-3b765ed7676f.png">
+</p>
+Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports contain detailed information on tissue expression of genes of interest. The figure is supported by plotly R package, which allows a user to hover over the bar plots and receive additional information about the tissue expression. 
+
+## 2- Genetic researchers
+
+<p align="center">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121075788-9a76b680-c7a3-11eb-85f2-a455c2c0fef6.png">
+</p>
+Figure 4. SnpReportR  interactive report, expressed variants. A) SnpReportR  reports include the location of SNVs in the gene body data for expressed variants, as well as location of the SNV in the gene transcripts and chromosome using Gviz. B) Expression of the gene variants is displayed as a box plot between two conditions in the DE analysis. The DE gene lists are in the second tab “DE genes by condition” and can be searched, filtered, and sorted. 
+
+<p align="center">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121076026-e75a8d00-c7a3-11eb-81c7-b15075817271.png">
+</p>
+Figure 5. SnpReportR  interactive report, publications. SnpReportR  reports include recent publications in which genes of interest are mentioned.
 
 # Discussion and/or Conclusion
 
-We recommend to include some discussion or conclusion about your work. Feel free to modify the section title as it fits better to your manuscript.
+SnpReportR allows researchers to perform integrated analysis of NGS data by identifying significant correlations in the genome that may be genetically-important informers of disease or pharmacological effects (Fernández-Torras et al., 2019).  Specifically, SnpReportR can be used to uncover information regarding the relevance of one or more variants, whether it be in the context of population or disease (Pedersen et al., 2020), and yield statistical summary of the variants likely associated with a disease (Hormozdiari et al., 2014). Importantly, SnpReportR outputs two reports that will help bridge the gap in expertise among the various health care professionals: a comprehensive genetic report aimed for genetic researchers, as well as a report designed for non-specialist clinicians and patients.  A first priority for the next iteration of this project is an API where researchers can search for expressed variants across patients.  
 
 # Future work
 
