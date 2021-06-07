@@ -164,6 +164,33 @@ Table 1. Three cell lines and four treatments were included for testing (124 tot
 |  | Etoposide (Inhibitor_Topo II) | 11 |
 |  | Temsirolimus (Inhibitor_mTOR) | 11 |
 
+### Variant Calling and Annotation
+
+To identify variants, the CTAT Mutations pipeline (Haas et al., 2019) was used with the FASTQ files mentioned above with the GRCh38 human reference. This pipeline integrates ‘GATK Best Practices’ with additional operations to annotate and filter variants and to prioritize variants that may be relevant to cancer biology. The CTAT pipeline then annotates variants with RADAR (Zhang et al., 2020) and RediPortal (Picardi et al., 2017) databases for identifying likely RNA-editing events, COSMIC (Tate et al., 2019) to highlight known cancer mutations, and dbSNP (Sherry et al., 2001) and gnomAD (Karczewski et al., 2020) to annotate common variants. OpenCRAVAT (Pagel et al., 2020) is subsequently used to annotate and prioritize variants according to likely biological impact and relevance to cancer. The cancer-related annotations from OpenCRAVAT included ClinVar (Shihab et al., 2013), CHASMplus (Tokheim and Karchin, 2019), MuPIT (Niknafs et al., 2013), VEST (Carter et al., 2013) and FATHMM (Shihab et al., 2013). We encoded the pipeline using Workflow Description Language (WDL) and deployed the workflow on the DNANexus cloud computing platform as an app. To run the pipeline on DNANexus, create a new workflow and then select the “Trinity CTAT” app from the Tool Library. The tool takes three inputs: left FASTQ, right FASTQ, and the CTAT Genome Library, which can be obtained from the STAR-Fusion GitHub page. (https://github.com/STAR-Fusion/STAR-Fusion/wiki/STAR-Fusion-release-and-CTAT-Genome-Lib-Compatibility-Matrix). 
+
+### Analysis of gene expression 
+
+To incorporate differential expression results in the clinical report, a subset of the Suzuki et al. (2019, ENA accession: PRJDB695) test data (Table 2) were used. The differential expression testing was performed to obtain results and formatting information only and was not evaluated for biological impact. All analyses were performed in Galaxy (usegalaxy.org) for ease of use. Raw RNA-Seq reads were aligned to GRCh38 using HISAT2 (v.2.1.0) (Kim et al., 2019), normalized counts were estimated using featureCounts (v.1.6.4) (Liao et al., 2014), and differential expression testing was performed using edgeR (v.3.24.1) (Robinson et al., 2010).
+
+Table 2. Reduced dataset for differential expression testing. 
+
+| Run | BioProject | Cell Line | Sample Name | Drug | Concentration (μM) |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| DRR131576 | DRR131576 | A549 | RNA-seq_A549_24h_B07_Etoposide (Inhibitor_Topo II)_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
+| DRR131588 | PRJDB6952 | A549 | RNA-seq_A549_24h_C07_Etoposide (Inhibitor_Topo II)_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
+| DRR131599 | PRJDB6952 | A549| RNA-seq_A549_24h_D07_Etoposide (Inhibitor_Topo II)_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
+| DRR132310 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_B07_Etoposide (Inhibitor_Topo II)_1 | Etoposide (Inhibitor_Topo II) | 1.0 |
+| DRR132321 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_C07_Etoposide (Inhibitor_Topo II)_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
+| DRR132333 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_D07_Etoposide (Inhibitor_Topo II)_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
+
+
+
+
+
+
+
+
+
 
 ![BioHackrXiv logo](./biohackrxiv.png)
  
@@ -192,6 +219,7 @@ For citations of references, we prefer the use of parenthesis, last name and yea
 * And remember, software and data need a license for them to be used by others, no license means no clear rules so nobody could legally use a non-licensed research object, whatever that object is
 
 # Acknowledgements
+
 Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
 
 # References
