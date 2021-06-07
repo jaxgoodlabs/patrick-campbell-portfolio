@@ -45,6 +45,9 @@ authors:
     orcid: 0000-0002-4782-9647
     affiliation: Carnegie Mellon University Libraries
     4909 Frew Street, Pittsburgh, PA, 15213
+  - name: Patrick Campbell
+    affiliation: Carnegie Mellon University Libraries
+    4909 Frew Street, Pittsburgh, PA, 15213
   - name: Olaitan I. Awe
     laitanawe@gmail.com 
     orcid: 0000-0002-4257-3611
