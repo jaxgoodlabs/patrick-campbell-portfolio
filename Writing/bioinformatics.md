@@ -243,7 +243,7 @@ Table 3: Description of annotations provided by snpReportR output.
 | Gene variant visualizations | Plots of the genomic location of each variant and the frequency variant types, including missense, synonymous, and non-coding regions |
 
 
-## 1- Patients, non-specialist clinicians
+### 1- Patients, non-specialist clinicians
 The report was designed to use a patient friendly language. The R package provides opportunities to customize the header and include a user’s institution or logo.  
 
 <p align="center">
@@ -251,24 +251,26 @@ The report was designed to use a patient friendly language. The R package provid
 </p>
 Figure 2. SNPReportR interactive report, SNVs. SnpReportR  generates detailed, accessible genetic results reports. The report includes information on SNV pathogenicity, impact, and enrichment in genes.
 
+
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121074630-1e2fa380-c7a2-11eb-99e9-3b765ed7676f.png">
 </p>
 Figure 3. SnpReportR  interactive report, tissue expression. SnpReportR  reports contain detailed information on tissue expression of genes of interest. The figure is supported by plotly R package, which allows a user to hover over the bar plots and receive additional information about the tissue expression. 
 
-## 2- Genetic researchers
+### 2- Genetic researchers
 
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121075788-9a76b680-c7a3-11eb-85f2-a455c2c0fef6.png">
 </p>
 Figure 4. SnpReportR  interactive report, expressed variants. A) SnpReportR  reports include the location of SNVs in the gene body data for expressed variants, as well as location of the SNV in the gene transcripts and chromosome using Gviz. B) Expression of the gene variants is displayed as a box plot between two conditions in the DE analysis. The DE gene lists are in the second tab “DE genes by condition” and can be searched, filtered, and sorted. 
 
+
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/121076026-e75a8d00-c7a3-11eb-81c7-b15075817271.png">
 </p>
 Figure 5. SnpReportR  interactive report, publications. SnpReportR  reports include recent publications in which genes of interest are mentioned.
 
-# Discussion and/or Conclusion
+# Discussion
 
 SnpReportR allows researchers to perform integrated analysis of NGS data by identifying significant correlations in the genome that may be genetically-important informers of disease or pharmacological effects (Fernández-Torras et al., 2019).  Specifically, SnpReportR can be used to uncover information regarding the relevance of one or more variants, whether it be in the context of population or disease (Pedersen et al., 2020), and yield statistical summary of the variants likely associated with a disease (Hormozdiari et al., 2014). Importantly, SnpReportR outputs two reports that will help bridge the gap in expertise among the various health care professionals: a comprehensive genetic report aimed for genetic researchers, as well as a report designed for non-specialist clinicians and patients.  A first priority for the next iteration of this project is an API where researchers can search for expressed variants across patients.  
 
@@ -280,9 +282,26 @@ For citations of references, we prefer the use of parenthesis, last name and yea
 
 # Jupyter notebooks, GitHub repositories and data repositories
 
-* Please add a list here
-* Make sure you let us know which of these correspond to Jupyter notebooks. Although not supported yet, we plan to add features for them
-* And remember, software and data need a license for them to be used by others, no license means no clear rules so nobody could legally use a non-licensed research object, whatever that object is
+1. Expressed Variant Impact - Source code available at [https://github.com/collaborativebioinformatics/expressed-variant-impact]( https://github.com/collaborativebioinformatics/expressed-variant-impact)
+2. SnpReportR - Source code available at  [https://github.com/collaborativebioinformatics/expressed-variant-reporting] (https://github.com/collaborativebioinformatics/expressed-variant-reporting)
+3. DSVifier - Source code available at [https://github.com/collaborativebioinformatics/DSVifier]( https://github.com/collaborativebioinformatics/DSVifier)
+4. Differential Expression and Variant Association - Source code available at [https://github.com/collaborativebioinformatics/Differential_Expression_and_Variant_Association]( https://github.com/collaborativebioinformatics/Differential_Expression_and_Variant_Association)
+
+# Competing interests
+
+Ben Busby is a full time employee of DNAnexus.
+
+# Grant information
+
+Ahmad Al Khleifat is funded by The Motor Neurone Disease Association and NIHR Maudsley Biomedical Research Centre.
+
+Alan M. Cleary and Sam Hokin are funded by USDA-ARS Cooperative Agreement #5030-21000-069-02-S.
+
+Jenny Leopoldina Smith is funded by the Fred Hutchinson Cancer Research Center, Seattle, WA. 
+
+The work of Adelaide Rhodes was supported by the Intramural Research Program of the National Library of Medicine, National Institutes of Health. 
+
+Brandon Michael Blobner is supported by NIH grant 5T32DK063922-18.
 
 # Acknowledgements
 
