@@ -120,6 +120,20 @@ authors:
 date: 7 June 2021
 bibliography: paper.bib
 ---
+
+<!--
+
+The manuscript.md, bibtex and figure file can be found in this repo:
+
+  https://github.com/collaborativebioinformatics/snpReportR
+
+To modify, please clone the repo. You can generate PDF of the paper by
+pasting above link (or yours) in
+
+  http://biohackrxiv.genenetwork.org/
+
+-->
+
 # Abstract
 
 With the increasing availability of next-generation sequencing (NGS), patients and non-specialists health care professionals are obtaining their genomic information without sufficient bioinformatics skills to analyze and interpret the data. In January 2021, four teams of scientists, clinicians, and developers from around the world worked collaboratively in a virtual hackathon to create a framework for the automated analysis and interpretation of RNA sequencing data in the clinic. Here, we present SnpReportR : A Tool for Clinical Reporting of RNAseq Expression and Variants aimed for use by clinicians and others without in-depth knowledge of genetics.
@@ -277,7 +291,7 @@ Figure 5. SnpReportR  interactive report, publications. SnpReportR  reports incl
 
 SnpReportR allows researchers to perform integrated analysis of NGS data by identifying significant correlations in the genome that may be genetically-important informers of disease or pharmacological effects (Fernández-Torras et al., 2019).  Specifically, SnpReportR can be used to uncover information regarding the relevance of one or more variants, whether it be in the context of population or disease (Pedersen et al., 2020), and yield statistical summary of the variants likely associated with a disease (Hormozdiari et al., 2014). Importantly, SnpReportR outputs two reports that will help bridge the gap in expertise among the various health care professionals: a comprehensive genetic report aimed for genetic researchers, as well as a report designed for non-specialist clinicians and patients.  A first priority for the next iteration of this project is an API where researchers can search for expressed variants across patients.  
 
-# Jupyter notebooks, GitHub repositories and data repositories
+# Software availability
 
 1. Expressed Variant Impact - Source code available at [https://github.com/collaborativebioinformatics/expressed-variant-impact]( https://github.com/collaborativebioinformatics/expressed-variant-impact)
 2. SnpReportR - Source code available at  [https://github.com/collaborativebioinformatics/expressed-variant-reporting] (https://github.com/collaborativebioinformatics/expressed-variant-reporting)
