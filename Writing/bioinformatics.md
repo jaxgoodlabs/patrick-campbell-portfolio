@@ -166,11 +166,11 @@ Table 1. Three cell lines and four treatments were included for testing (124 tot
 
 ### Variant Calling and Annotation
 
-To identify variants, the CTAT Mutations pipeline (Haas et al., 2019) was used with the FASTQ files mentioned above with the GRCh38 human reference. This pipeline integrates ‘GATK Best Practices’ with additional operations to annotate and filter variants and to prioritize variants that may be relevant to cancer biology. The CTAT pipeline then annotates variants with RADAR (Zhang et al., 2020) and RediPortal (Picardi et al., 2017) databases for identifying likely RNA-editing events, COSMIC (Tate et al., 2019) to highlight known cancer mutations, and dbSNP (Sherry et al., 2001) and gnomAD (Karczewski et al., 2020) to annotate common variants. OpenCRAVAT (Pagel et al., 2020) is subsequently used to annotate and prioritize variants according to likely biological impact and relevance to cancer. The cancer-related annotations from OpenCRAVAT included ClinVar (Shihab et al., 2013), CHASMplus (Tokheim and Karchin, 2019), MuPIT (Niknafs et al., 2013), VEST (Carter et al., 2013) and FATHMM (Shihab et al., 2013). We encoded the pipeline using Workflow Description Language (WDL) and deployed the workflow on the DNANexus cloud computing platform as an app. To run the pipeline on DNANexus, create a new workflow and then select the “Trinity CTAT” app from the Tool Library. The tool takes three inputs: left FASTQ, right FASTQ, and the CTAT Genome Library, which can be obtained from the STAR-Fusion GitHub page. (https://github.com/STAR-Fusion/STAR-Fusion/wiki/STAR-Fusion-release-and-CTAT-Genome-Lib-Compatibility-Matrix). 
+To identify variants, the CTAT Mutations pipeline (Haas et al., 2019) was used with the FASTQ files mentioned above with the GRCh38 human reference. This pipeline integrates ‘GATK Best Practices’ with additional operations to annotate and filter variants and to prioritize variants that may be relevant to cancer biology. The CTAT pipeline then annotates variants with RADAR (Zhang et al., 2020) and RediPortal (Picardi et al., 2017) databases for identifying likely RNA-editing events, COSMIC (Tate et al., 2019) to highlight known cancer mutations, and dbSNP (Sherry et al., 2001) and gnomAD (Karczewski et al., 2020) to annotate common variants. OpenCRAVAT (Pagel et al., 2020) is subsequently used to annotate and prioritize variants according to likely biological impact and relevance to cancer. The cancer-related annotations from OpenCRAVAT included ClinVar (Shihab et al., 2013), CHASMplus (Tokheim and Karchin, 2019), MuPIT (Niknafs et al., 2013), VEST (Carter et al., 2013) and FATHMM (Shihab et al., 2013). We encoded the pipeline using Workflow Description Language (WDL) and deployed the workflow on the DNANexus cloud computing platform as an app. To run the pipeline on DNANexus, create a new workflow and then select the “Trinity CTAT” app from the Tool Library. The tool takes three inputs: left FASTQ, right FASTQ, and the CTAT Genome Library, which can be obtained from the [STAR-Fusion GitHub page](https://github.com/STAR-Fusion/STAR-Fusion/wiki/STAR-Fusion-release-and-CTAT-Genome-Lib-Compatibility-Matrix).
 
 ### Analysis of gene expression 
 
-To incorporate differential expression results in the clinical report, a subset of the Suzuki et al. (2019, ENA accession: PRJDB695) test data (Table 2) were used. The differential expression testing was performed to obtain results and formatting information only and was not evaluated for biological impact. All analyses were performed in Galaxy (usegalaxy.org) for ease of use. Raw RNA-Seq reads were aligned to GRCh38 using HISAT2 (v.2.1.0) (Kim et al., 2019), normalized counts were estimated using featureCounts (v.1.6.4) (Liao et al., 2014), and differential expression testing was performed using edgeR (v.3.24.1) (Robinson et al., 2010).
+To incorporate differential expression results in the clinical report, a subset of the Suzuki et al. (2019, ENA accession: PRJDB695) test data (Table 2) were used. The differential expression testing was performed to obtain results and formatting information only and was not evaluated for biological impact. All analyses were performed in [Galaxy](usegalaxy.org) for ease of use. Raw RNA-Seq reads were aligned to GRCh38 using HISAT2 (v.2.1.0) (Kim et al., 2019), normalized counts were estimated using featureCounts (v.1.6.4) (Liao et al., 2014), and differential expression testing was performed using edgeR (v.3.24.1) (Robinson et al., 2010).
 
 Table 2. Reduced dataset for differential expression testing. 
 
@@ -183,24 +183,36 @@ Table 2. Reduced dataset for differential expression testing.
 | DRR132321 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_C07_Etoposide (Inhibitor_Topo II)_0.1 | Etoposide (Inhibitor_Topo II) | 0.1 |
 | DRR132333 | PRJDB6952 | H1299 | RNA-seq_H1299_24h_D07_Etoposide (Inhibitor_Topo II)_0.01 | Etoposide (Inhibitor_Topo II) | 0.01 |
 
+#### Gene and loci identification
+
+The DSVifier pipeline is comprised of two tracks that are processed in parallel with the existing bioinformatics tools Somalier (Pedersen et al., 2020) and CAVIAR (Hormozdiari et al., 2014) and is designed to identify the variants correlating with a particular disease. Somalier requires a single merged VCF input file, and produces TSV and HTML file outputsthat describe aspects of the input variants, such as their relatedness and ancestry.  Somalier extracts informative sites, evaluates relatedness, and performs quality-control. CAVIAR requires two additional input tab-delimited input files; specifically, Z-file containing GWAS Z-score summary statistics and an LD-file describing the pairwise correlation between pairs of SNPs in the input VCFs. The LD-file can be generated using [PLINK](http://zzz.bwh.harvard.edu/plink/) (Purcell et al., 2007), and should include dbSNP rsIDs in the first column and their scores in the second column. The LD-file should be a square matrix representing the pairwise comparison of the SNPs in the same order they appear in the Z-file. There are three output files: (1) causal SNPs in the GWAS that provided the Z-scores in the Z-file, (2) the causal posterior probability for each SNP in GWAS, and (3) the colocalization posterior probability (CLPP) for each SNP. 
+
+
+CAVIAR is used to leverage Bayesian statistical methods to predict the SNPs in LD that are likely causal. Indeed, neighboring SNPs have inflated statistical associations to complex traits due to linkage disequilibrium. As a result, it is difficult to discern the true causal SNPs contributing to the trait (in this case, cancer). 
+We can also use eCAVIAR to integrate the expressed variant data with tissue specific eQTL data to predict the tissue specific effect of the SNPs (Hormozdiari et al., 2014). For obtaining expression quantitative trait loci (eQTLs) data, the GTEx (genotype-tissue expression) dataset needs to have sufficient data across the tissues of interest.
+
+#### Identification of disease-correlated variants 
+
+The [FUMA web server](https://fuma.ctglab.nl) was used to identify potential lead SNPs by controlling for LD structure (Watanabe et al., 2017). We can overlap these SNPs with the fine-mapped SNPs outputted by CAVIAR to obtain a set of high confidence causal SNPs. Linkage disequilibrium (LD) score regression (Bulik-Sullivan et al., 2015) was conducted by using PLINK to identify to what extent these cancer-associated SNPs are enriched in promoter and regulatory regions of the genome specific to particular cell types and tissues. This can uncover which cell types can be potentially targeted for therapies.
+
+### Clinical Reporting
+
+In this workflow, users are expected to input a fastq file and either patient or research subject phenotype information into the pipelines above.  Annotated vcfs and expression matrices from the pipelines above then feed into the visualization suite below.  
+
+Variant prioritization and Annotation 
+Input data | fastq | phenotypes
+
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/121072837-b6785900-c79f-11eb-9186-495473dd9a45.png">
+</p>
+Figure 1. SnpReportR Pipeline. 0) The pipeline begins with .fastq file inputs. 1) SnpReportR accepts an annotated .vcf file as an input in R. 2) SnpReportR mines data on genes of interest from HumanMine. 3) Annotated data from input .vcf files and data scraped from HumanMine are used to generate detailed clinical reports.
+
+#### Visualization in an Interactive Report  
+
+The report includes searchable and sortable tables to help visualize the data in tabular format and allows the user to quickly find genes of interest using the Javascript backed datatable DT v0.17 R package. The query results from InterMineR include expression values in transcripts per million (TPM) for genes identified with SNVs/indels by the CTAT Mutations pipeline. The expression patterns are displayed as barplots of the expression scores and are made interactive with the use of plotly R v4.9.3. Expression of these genes in normal tissues can help elucidate whether the expressed variant may be targetable, for example, as it may contain neoantigens. Next, the type of the SNVs (coding, intronic, missense, ect) in the genes is summarized in a donut plot to show the relative frequency of each mutation type identified in the patient sample using ggplot2 v3.3.3. Then the position of the SNV/indel is plotted with Gviz v1.34.1 and the bioconductor transcript database (TxDB) object to show the location of the variant within the transcript isoforms and provides an ideogram to define the chromosome location and karyotype band. The genes with variants identified are then examined for expression using the RNAseq normalized counts data using boxplots with ggplotly. Differentially expressed genes are reported in tables to determine if any SNVs are highly expressed compared to a control group and visualized interactively with ggplotly as a volcano plot. 
 
 
 
-
-
-
-
-
-
-![BioHackrXiv logo](./biohackrxiv.png)
- 
-Figure 1. A figure corresponding to the logo of our BioHackrXiv preprint.
-
-# Other main section on your manuscript level 1
-
-Feel free to use numbered lists or bullet points as you need.
-* Item 1
-* Item 2
 
 # Discussion and/or Conclusion
 
@@ -220,8 +232,6 @@ For citations of references, we prefer the use of parenthesis, last name and yea
 
 # Acknowledgements
 
-Please always remember to acknowledge the BioHackathon, CodeFest, VoCamp, Sprint or similar where this work was (partially) developed.
+We would like to thank the OpenCravatGroup at Johns Hopkins University, Carnegie Mellon University Libraries, and DNAnexus Inc. for helping with organizing and hosting this event. DNAnexus Inc. also sponsored cloud computing resources. Patrick Cambell and Hannah Gunderman of CMU Libraries provided manuscript preparation support.
 
 # References
-
-Leave thise section blank, create a paper.bib with all your references.
