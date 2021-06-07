@@ -277,12 +277,6 @@ Figure 5. SnpReportR  interactive report, publications. SnpReportR  reports incl
 
 SnpReportR allows researchers to perform integrated analysis of NGS data by identifying significant correlations in the genome that may be genetically-important informers of disease or pharmacological effects (Fernández-Torras et al., 2019).  Specifically, SnpReportR can be used to uncover information regarding the relevance of one or more variants, whether it be in the context of population or disease (Pedersen et al., 2020), and yield statistical summary of the variants likely associated with a disease (Hormozdiari et al., 2014). Importantly, SnpReportR outputs two reports that will help bridge the gap in expertise among the various health care professionals: a comprehensive genetic report aimed for genetic researchers, as well as a report designed for non-specialist clinicians and patients.  A first priority for the next iteration of this project is an API where researchers can search for expressed variants across patients.  
 
-# Future work
-
-And maybe you want to add a sentence or two on how you plan to continue. Please keep reading to learn about citations and references.
-
-For citations of references, we prefer the use of parenthesis, last name and year. If you use a citation manager, Elsevier – Harvard or American Psychological Association (APA) will work. If you are referencing web pages, software or so, please do so in the same way. Whenever possible, add authors and year. We have included a couple of citations along this document for you to get the idea. Please remember to always add DOI whenever available, if not possible, please provide alternative URLs. You will end up with an alphabetical order list by authors’ last name.
-
 # Jupyter notebooks, GitHub repositories and data repositories
 
 1. Expressed Variant Impact - Source code available at [https://github.com/collaborativebioinformatics/expressed-variant-impact]( https://github.com/collaborativebioinformatics/expressed-variant-impact)
