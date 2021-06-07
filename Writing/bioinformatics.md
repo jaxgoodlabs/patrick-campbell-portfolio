@@ -12,108 +12,107 @@ tags:
   - Genetic test reports
 
 authors:
-
   - name: Ahmad Al Khleifat 
-	Ahmad.al_khleifat@kcl.ac.uk	
-	orcid: 0000-0002-7406-9831
-affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute
-	5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
+    Ahmad.al_khleifat@kcl.ac.uk	
+    orcid: 0000-0002-7406-9831
+    affiliation: Institute of Psychiatry, Psychology & Neuroscience, King's College London. Maurice Wohl Clinical Neuroscience Institute
+    5 Cutcombe Road, Denmark Hill, London, SE5 9RX 
   - name: Jenny Leopoldina Smith
-	jlsmith3@fredhutch.org
-affiliation: Clinical Research Division, Fred Hutchinson Cancer Research Center
-	1100 Fairview, Ave., Seattle, WA, 98109
-	orcid: 0000-0003-0402-2779
+    jlsmith3@fredhutch.org
+    orcid: 0000-0003-0402-2779
+    affiliation: Clinical Research Division, Fred Hutchinson Cancer Research Center
+    1100 Fairview, Ave., Seattle, WA, 98109
   - name: Brandon M. Blobner
-	bmb83@pitt.edu
-	orcid: 0000-0003-0734-1492
-affiliation: Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, University of Pittsburgh, 4200 Fifth Avenue, Pittsburgh, PA 15260
+    bmb83@pitt.edu
+    orcid: 0000-0003-0734-1492
+    affiliation: Division of Gastroenterology, Hepatology and Nutrition, Department of Medicine, University of Pittsburgh, 4200 Fifth Avenue, Pittsburgh, PA 15260
   - name: Sierra D. Miller
-	sierra.miller@nist.gov
-orcid: 000-0002-3200-428X
-affiliation: National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899-8970
+    sierra.miller@nist.gov
+    orcid: 000-0002-3200-428X
+    affiliation: National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899-8970
   - name: Kymberleigh Pagel
-kpagel1@jhu.edu 
-orcid: 0000-0001-8544-925
-affiliation: Institute for Computational Medicine, Johns Hopkins University
-220 Hackerman Hall. 3400 N. Charles St.
-Baltimore, MD  21218
+    kpagel1@jhu.edu 
+    orcid: 0000-0001-8544-925
+    affiliation: Institute for Computational Medicine, Johns Hopkins University
+    220 Hackerman Hall. 3400 N. Charles St.
+    Baltimore, MD  21218
   - name: Annie Nadkarni
-	anadkarn@andrew.cmu.edu
-	affiliation: Carnegie Mellon University, School of Computer Science
-	5000 Forbes Ave, Pittsburgh, PA 15213
+    anadkarn@andrew.cmu.edu
+    affiliation: Carnegie Mellon University, School of Computer Science
+    5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Melanie Gainey
-	mgainey@andrew.cmu.edu
-	orcid: 0000-0002-4782-9647
-	affiliation: Carnegie Mellon University Libraries
-	4909 Frew Street, Pittsburgh, PA, 15213
+    mgainey@andrew.cmu.edu
+    orcid: 0000-0002-4782-9647
+    affiliation: Carnegie Mellon University Libraries
+    4909 Frew Street, Pittsburgh, PA, 15213
   - name: Olaitan I. Awe
-	laitanawe@gmail.com 
-	orcid: 0000-0002-4257-3611
-	affiliation: University of Ibadan
+    laitanawe@gmail.com 
+    orcid: 0000-0002-4257-3611
+    affiliation: University of Ibadan
   - name: Manuel Belmadani
-	manuel.belmadani@pm.me
-	orcid: 0000-0002-5820-5979
+    manuel.belmadani@pm.me
+    orcid: 0000-0002-5820-5979
   - name: Alan M. Cleary
-	acleary@ncgr.org
-	orcid: 0000-0002-6567-5346
-affiliation: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
+    acleary@ncgr.org
+    orcid: 0000-0002-6567-5346
+    affiliation: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
   - name: Nicholas P. Cooley
-	npc19@pitt.edu
-	orcid: 0000-0002-6029-304X
-affiliation: Department of Biomedical Informatics, University of Pittsburgh
+    npc19@pitt.edu
+    orcid: 0000-0002-6029-304X
+    affiliation: Department of Biomedical Informatics, University of Pittsburgh
   - name: Shamika Dhuri
-	dhurishamika@gmail.com 
-	orcid: 0000-0003-3931-5694
-	affiliation: Carnegie Mellon University, Mellon College of Science 
-	5000 Forbes Ave, Pittsburgh, PA 15213
+    dhurishamika@gmail.com 
+    orcid: 0000-0003-3931-5694
+    affiliation: Carnegie Mellon University, Mellon College of Science 
+    5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Virginie Grosboillot
-	virginie.grosboillot@hest.ethz.ch
-	orcid: 0000-0002-8249-7182
-affiliation: Laboratory of Food Microbiology, Institute for Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland 
+    virginie.grosboillot@hest.ethz.ch
+    orcid: 0000-0002-8249-7182
+    affiliation: Laboratory of Food Microbiology, Institute for Food, Nutrition and Health, ETH Zurich, Zurich, Switzerland 
   - name: Brian Haas
-bhaas@broadinstitute.org
-affiliation: Broad Institute
-415 Main Street, Cambridge, MA 02142 
+    bhaas@broadinstitute.org
+    affiliation: Broad Institute
+    415 Main Street, Cambridge, MA 02142 
   - name: Samuel Hokin
-	shokin@ncgr.org
-	orcid: 0000-0002-9746-2783
-affiliation: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
+    shokin@ncgr.org
+    orcid: 0000-0002-9746-2783
+    affiliation: National Center for Genome Resources, 2935 Rodeo Park Dr E, Santa Fe, NM 87505
   - name: Ekaterina Orlova
-	eko8@pitt.edu	
-	orcid: 0000-0002-7129-5796
-affiliation: Department of Human Genetics, Graduate School of Public Health, University of Pittsburgh, 130 De Soto Street, Pittsburgh, PA, 15261
+    eko8@pitt.edu	
+    orcid: 0000-0002-7129-5796
+    affiliation: Department of Human Genetics, Graduate School of Public Health, University of Pittsburgh, 130 De Soto Street, Pittsburgh, PA, 15261
   - name: Meghana Pagadala
-mpagadal@ucsd.edu
-orcid: 0000-0002-7591-6035
-affiliation: University of California San Diego
-9500 Gilman Dr, La Jolla, CA 92093
+    mpagadal@ucsd.edu
+    orcid: 0000-0002-7591-6035
+    affiliation: University of California San Diego
+    9500 Gilman Dr, La Jolla, CA 92093
   - name: Stephen Price
-	sprice1@andrew.cmu.edu
-	orcid: 0000-0001-9072-7518
-affiliation: Carnegie Mellon University, 5000 Main Street, Pittsburgh, PA 15213
+    sprice1@andrew.cmu.edu
+    orcid: 0000-0001-9072-7518
+    affiliation: Carnegie Mellon University, 5000 Main Street, Pittsburgh, PA 15213
   - name: Adelaide Rhodes
-	adelaide.rhodes@nih.gov
-	orcid: 0000-0002-1714-1972
-	affiliation: National Center for Biotechnology Information
-	National Library of Medicine
-	8600 Rockville Pike
-	Bethesda, MD 20894
+    adelaide.rhodes@nih.gov
+    orcid: 0000-0002-1714-1972
+    affiliation: National Center for Biotechnology Information
+    National Library of Medicine
+    8600 Rockville Pike
+    Bethesda, MD 20894
   - name: Janice Kyla Nascimento Smith
-	janice.k.n.smith@gmail.com 
-	affiliation: Software Engineer
-	Boston, MA, 02109
+    janice.k.n.smith@gmail.com 
+    affiliation: Software Engineer
+    Boston, MA, 02109
   - name: Chaitanya Srinivasan
-	csriniv1@andrew.cmu.edu 
-	orcid: 0000-0002-1487-541X
-affiliation: Computational Biology Department, School of Computer Science, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
+    csriniv1@andrew.cmu.edu 
+    orcid: 0000-0002-1487-541X
+    affiliation: Computational Biology Department, School of Computer Science, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213
   - name: Barry Zorman
-	Barry.Zorman@bcm.edu
-	affiliation: Baylor College of Medicine
-	Houston, TX 77030
+    Barry.Zorman@bcm.edu
+    affiliation: Baylor College of Medicine
+    Houston, TX 77030
   - name: Ben Busby
-orcid: 0000-0001-5267-4988
-affiliation: DNAnexus
-1975 El Camino, Mountain View, CA
+    orcid: 0000-0001-5267-4988
+    affiliation: DNAnexus
+    1975 El Camino, Mountain View, CA
 
 date: 7 June 2021
 bibliography: paper.bib
@@ -148,7 +147,8 @@ For demonstration purposes, we identified a dataset that was agreeable for all t
 Please remember to introduce tables (see Table 1) before they appear on the document. We recommend to center tables, formulas and figure but not the corresponding captions. Feel free to modify the table style as it better suits to your data.
 
 Table 1. Three cell lines and four treatments were included for testing (124 total samples). 
-(Suzuki et al., 2019; ENA accession: [PRJDB6952]( https://ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB6952)) 
+(Suzuki et al., 2019; ENA accession: [PRJDB6952]( https://ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJDB6952))
+
 | Cell Line | Drug | Number of Samples |
 | -------- | -------- | -------- |
 | A549 | (+)-JQ1 (Inhibitor_BET (BRD4)) | 12 |
