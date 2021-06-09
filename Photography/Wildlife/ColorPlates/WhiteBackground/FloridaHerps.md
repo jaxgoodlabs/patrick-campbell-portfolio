@@ -155,7 +155,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91764049-9bd7da80-eba4-11ea-9bcc-7de61f6b0918.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91785050-6944d680-ebd2-11ea-9f76-603550914e0b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109397-00556800-f682-11ea-948b-4ccf0433a751.jpg">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121441165-48769200-c957-11eb-8666-b22350adc9f3.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121441893-9a6be780-c958-11eb-92e8-611884c40c82.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
