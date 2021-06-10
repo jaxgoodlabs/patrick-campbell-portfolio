@@ -125,7 +125,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Pythonidae (Pythons)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/91749413-6d9bd000-eb8f-11ea-9f3c-2f858d5d221d.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444318-4ca5ae00-c95d-11eb-9726-3746e1d33998.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91749418-6f659380-eb8f-11ea-883a-cefd33ee7b76.jpg">
 </p>
 
