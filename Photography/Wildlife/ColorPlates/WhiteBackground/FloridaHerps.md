@@ -22,23 +22,9 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650296-9d41bf80-ea4b-11ea-8cbc-af01d0848e50.jpg">
 </p>
 
-| Image | Image | Image |
 | ------ | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/32546509/91650286-8c914980-ea4b-11ea-8718-f7f601bcd3d6.jpg"> | <img src="https://user-images.githubusercontent.com/32546509/91650294-99ae3880-ea4b-11ea-8a57-1974058899c2.jpg"> | <img src="https://user-images.githubusercontent.com/32546509/91650296-9d41bf80-ea4b-11ea-8cbc-af01d0848e50.jpg"> |
-| Turtle 1 (*turtle*) | Turtle 2 | Turtle 3| 
-
-<table>
-  <tr>
-    <td> <img src="https://user-images.githubusercontent.com/32546509/91650286-8c914980-ea4b-11ea-8718-f7f601bcd3d6.jpg"  alt="1" width = 360px height = 640px ></td>
-
-    <td><img src="https://user-images.githubusercontent.com/32546509/91650294-99ae3880-ea4b-11ea-8a57-1974058899c2.jpg" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="https://user-images.githubusercontent.com/32546509/91650296-9d41bf80-ea4b-11ea-8cbc-af01d0848e50.jpg" alt="3" width = 360px height = 640px></td>
-
-  </td>
-  </tr>
-</table>
+| Florida softshell turtle (*Apalone ferox*) | Florida softshell turtle (*Apalone ferox*) | Florida softshell turtle, hatchling (*Apalone ferox*)| 
 
 #### Chelydridae (Snapping turtles)
 <p align="left">
