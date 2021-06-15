@@ -17,8 +17,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 ## Testudinides (Turtles and Tortoises)
 ##### Trionychidae (Softshell turtles)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122113686-6bd68c80-cdf0-11eb-9556-0b4948277014.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/122113788-8f013c00-cdf0-11eb-9e10-45e9946f0b35.jpg">
+<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/122113686-6bd68c80-cdf0-11eb-9556-0b4948277014.jpg">
+<img width="39%" height="39%" src="https://user-images.githubusercontent.com/32546509/122113788-8f013c00-cdf0-11eb-9e10-45e9946f0b35.jpg">
 </p>
 
 #### Chelydridae (Snapping turtles)
