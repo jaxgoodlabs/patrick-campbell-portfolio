@@ -41,7 +41,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109036-8a510100-f681-11ea-8b1f-b8b4d3f7814d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93108649-0f87e600-f681-11ea-956d-53338e0d5452.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93107972-43aed700-f680-11ea-8d2d-0963843eb7f6.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109501-2549db00-f682-11ea-8bbc-ac809ccae18f.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122114806-b6a4d400-cdf1-11eb-9163-98ae149ed0ac.jpg">
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
@@ -53,7 +53,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Testudinidae (Tortoises)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650300-a29f0a00-ea4b-11ea-90ea-7d67adcf3e89.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122114800-b3a9e380-cdf1-11eb-9180-97d5eb7336fd.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
