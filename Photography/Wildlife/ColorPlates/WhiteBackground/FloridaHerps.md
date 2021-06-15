@@ -24,7 +24,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Chelydridae (Snapping turtles)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068295-94672b80-ed74-11ea-8d55-4134371f4650.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122111147-6297f080-cded-11eb-8371-5f4135ab7a59.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068418-d85a3080-ed74-11ea-80c8-3c2104afe2ee.jpg">
 </p>
 
