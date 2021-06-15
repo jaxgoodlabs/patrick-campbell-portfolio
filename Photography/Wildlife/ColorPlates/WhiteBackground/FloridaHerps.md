@@ -107,7 +107,7 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 #### Corytophanidae (Basilisks)
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/122112119-7c860300-cdee-11eb-8a4d-7e4ae706b76b.jpg">
-<img width="40%" height="40%" src="https://user-images.githubusercontent.com/32546509/122112136-80198a00-cdee-11eb-8a00-6d8c34735b54.jpg">
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/122112136-80198a00-cdee-11eb-8a00-6d8c34735b54.jpg">
 </p>
 
 #### Anguidae (Glass lizards)
