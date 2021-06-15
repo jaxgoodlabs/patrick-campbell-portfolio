@@ -24,8 +24,8 @@ Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 #### Chelydridae (Snapping turtles)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122111147-6297f080-cded-11eb-8371-5f4135ab7a59.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/122112731-2796bc80-cdef-11eb-8267-1c6f900a1776.jpg">
+<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/122111147-6297f080-cded-11eb-8371-5f4135ab7a59.jpg">
+<img width="35%" height="35%" src="https://user-images.githubusercontent.com/32546509/122112731-2796bc80-cdef-11eb-8267-1c6f900a1776.jpg">
 </p>
 
 #### Emydidae (Terrapins, pond turtles, and marsh turtle)
