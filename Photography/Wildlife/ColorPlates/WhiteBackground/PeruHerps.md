@@ -189,7 +189,7 @@ Left: Esmarald racer (*Drymobius rhombifer*), adult; Middle: Esmarald racer (*Dr
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102729635-7d3a5280-42ff-11eb-8f9d-4f2dd9d88551.jpg">
 </p>
   
-Left: False fer-de-lance (*Xenodon rhabdocephalus*); Middle: Giant Amazon false viper( *Xenodon severus*); Right: *Xenopholis scalaris*
+Left: False fer-de-lance (*Xenodon rhabdocephalus*); Middle: Giant Amazon false viper (*Xenodon severus*); Right: *Xenopholis scalaris*
 <p align="left">  
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745722-d0727880-2aa7-11eb-8c97-792f68e91757.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99469516-e39f1000-2910-11eb-9219-7dafdd8127c8.jpg">
@@ -203,7 +203,7 @@ Left: Banded cat-eyed snake (*Leptodeira annulata*); Middle: Yellow-bellied puff
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269155-9527a900-3739-11eb-9de1-b5d291a1702b.jpg">
 </p>
   
-Left: Right: *Drepanoides anomalus* (?); Right: Crowned false boa (*Pseudoboa coronata*)(?).
+Left: Right: *Drepanoides anomalus* (?); Right: Crowned false boa (*Pseudoboa coronata*) (?).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745093-fa776b00-2aa6-11eb-89f9-faeabb59b53d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103045489-b4ed0880-4552-11eb-8a1a-24d28bb13077.jpg">
@@ -216,14 +216,20 @@ South American coral snake (*Micrurus lemniscatus*)
 </p>
 
 #### Typhlopidae (Blind snakes)
+*Amerotyphlops reticulatus*
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92422194-55592180-f14a-11ea-85b0-8ba2d8f00f66.jpg">
 </p>
 
 #### Viperidae (Vipers)
+Bushmaster (Lachesis muta). Left: Adult; Right: Juvenile.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92061911-6cbc9700-ed65-11ea-9009-617a8e6ab914.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491653-6e42f480-30f3-11eb-887e-f158b3ba48d4.jpg">
+</p>
+
+Left: Common lancehead (*Bothrops atrox*), juvenile; Right: Brazil's lancehead (*Bothrops brazilii*).
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95696057-9cce4400-0c07-11eb-8417-d4b31778cde6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95696060-a0fa6180-0c07-11eb-888b-148d3d6e5ad7.jpg">
 </p>
@@ -231,6 +237,7 @@ South American coral snake (*Micrurus lemniscatus*)
 # Amphibia (Frogs, Toads, Salamanders, and Caecelians)
 ## Anura (Frogs and Toads)
 #### Aromobatidae (Cryptic poison frogs)
+Left: ; Middle: *Allobates cf. conspicuus*; Right: Three-striped rocket frog (*Allobates cf. trilineatus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049107-75a66c00-ed57-11ea-9089-cb4039710b28.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049108-763f0280-ed57-11ea-9075-dbc5431c552d.jpg">
@@ -245,7 +252,7 @@ Left: Cane toad (*Rhinella marina*); Middle and right: South American common toa
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541900-47240780-f215-11ea-80cf-fd970220e258.jpg">
 </p>
 
-Left: *Rhaebo guttata*; Middle: *Amazophrynella minuta*, male; Right: *Amazophrynella minuta*, female
+Left: *Rhaebo guttata*; Middle: *Amazophrynella minuta*, male; Right: *Amazophrynella minuta*, female.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664073-0513d880-1320-11eb-9f33-2f8cccfe77b1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101694416-14babe00-3a41-11eb-8701-66a0afaf2ffc.jpg">
@@ -253,52 +260,53 @@ Left: *Rhaebo guttata*; Middle: *Amazophrynella minuta*, male; Right: *Amazophry
 </p>
 
 #### Centrolenidae (Glass frogs)
-Santa Cecilia cochran frog (*Teratohyla midas*)
+Santa Cecilia cochran frog (*Teratohyla midas*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560461-d9233580-3283-11eb-8b30-c34a9bed30ca.jpg">
 </p>
 
 #### Ceratophryidae (Horned frogs)
-Surinam horned frog (*Ceratrophys cornuta*)
+Surinam horned frog (*Ceratrophys cornuta*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
 </p>
 
 #### Craugstoridae (Fleshbelly frogs)
-Left: Rio Mamore robber frog (*Pristimantis cf. fenestratus*); Middle: *Pristimantis cf. reichlei*; Right: Peru robber frog (*Pristimantis cf. buccinator*)
+Left: Rio Mamore robber frog (*Pristimantis cf. fenestratus*); Middle: *Pristimantis cf. reichlei*; Right: Peru robber frog (*Pristimantis cf. buccinator*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560509-096ad400-3284-11eb-8b62-de006aeefe8b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103155568-1d183600-476f-11eb-8b9a-edb3c99cbc56.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102840641-4cc2e900-43d1-11eb-9214-89d84cc68819.jpg">
 </p>
 
-Left: *Pristimantic cf. peruvianus*; Middle: *Pristimantis toftae*; Right: *Pristimantis carvalhoi*
+Left: *Pristimantic cf. peruvianus*; Middle: *Pristimantis toftae*; Right: *Pristimantis carvalhoi*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102903422-520a4d00-443e-11eb-8206-7585557aab7b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491929-c1b64200-30f5-11eb-89cc-1148cc26928b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819045-60ee7880-3419-11eb-9961-64924f29a506.jpg">
 </p>
 
-Left: ; Middle: ; Right: *Pristimantis cf. divnae*
+Left: ; Middle: ; Right: *Pristimantis cf. divnae*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298860-e9945c80-37fd-11eb-9f46-34b3e3f7bdbf.jpg">
 </p>
 
-Left: *Oreobates cf. cruralis!*; Right: *Oreobates quixensis*
+Left: *Oreobates cf. cruralis*; Right: *Oreobates quixensis*.
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102730292-3b5edb80-4302-11eb-9185-f53da8eb032e.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
 </p>
 
-Left: *Pristimantis ventrimaculata*; Right: *Noblella losamigos*
+Left: *Pristimantis ventrimaculata*; Right: *Noblella losamigos*.
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102722566-e904c700-42cf-11eb-92cc-7c0948f3551e.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
+Left: Three-striped poison dart frog (*Ameerega trivittatus*); Middle: Pale-striped poison frog (*Ameerega hahneli*); Right: Bamboo poison dart frog (*Ranitomeya sirensis*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92538531-ebee1700-f20c-11ea-9009-93b41bbd9c21.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92538553-f90b0600-f20c-11ea-978f-26ce13007388.jpg">
@@ -306,43 +314,92 @@ Left: *Pristimantis ventrimaculata*; Right: *Noblella losamigos*
 </p>
 
 #### Hylidae (Tree frogs)
+Left: Clown tree frog (*Dendropsophus leucophallatus*); Middle: *Dendropsophus triangulum*, giraffe morph; Right: Red-skirted tree frog (*Dendropsophus rhodopeplus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92059938-8c9d8c00-ed60-11ea-818e-ecd6bdfa0ebe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95806521-da010780-0cd5-11eb-94e6-75f056d32e88.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159718-ab55e180-479a-11eb-86f2-66f83d0c00f2.jpg">
+</p>
+
+Left: *Dendropsophus timbeba*; Middle: *Dendropsophus acreanus*; Right: *Dendropsophus marmoratus*.
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103601092-ebbe0980-4ed6-11eb-9fcc-55a06185ec6c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95792481-95fc0b80-0cb1-11eb-882c-040f3c21fc4c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99923520-1297f600-2d04-11eb-9f50-583c6020d57e.jpg">
+</p>
+
+Left: *Dendropsophus leali*; Middle: *Dendropsophus cf. leali*; Right: *Dendrophyrniscus minutus*.
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95792781-220e3300-0cb2-11eb-8d98-3de74f9ec808.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103600968-ab5e8b80-4ed6-11eb-9639-3f9f04439b57.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101710947-87876180-3a60-11eb-9e86-fd7dae8a031c.jpg">
+</p>
+
+Left: (**); Middle: (**); Right: Orange-shanked tree frog (*Dendropsophus kamagarini*).
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95804727-82609d00-0cd1-11eb-8160-053f98da707d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103600867-70f4ee80-4ed6-11eb-80cc-100b088e4bcf.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
+</p>
+
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102645199-13b81980-4130-11eb-82e5-ff1f10c80cba.jpg">
+</p>
+
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102645235-26325300-4130-11eb-8ec2-a670ae022606.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102821646-736b2a80-43a5-11eb-8176-4ce329c173a4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99471612-e865c300-2914-11eb-88c5-cc7aafbe0066.jpg">
+</p>
+
+Left: 
+<p align="left">  
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546005-05f98a00-4085-11eb-9bf9-8e392cbae10d.jpg">
+</p>
+  
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925241-53dfd400-2d0b-11eb-8e13-30ced8bf4e80.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102942898-98829a80-4484-11eb-9054-807a3040283b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159639-cb38d580-4799-11eb-948e-165875c65694.jpg">
+</p>
+  
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819101-811e3780-3419-11eb-80f2-088a9415ab11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925170-0b281b00-2d0b-11eb-8691-e27b29282188.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103288165-496fc480-49b2-11eb-925c-2653ee56889e.jpg">
+</p>
+
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491731-1658bd80-30f4-11eb-9a37-53d970fff424.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562288-2181d800-3995-11eb-9545-743f1344c197.jpg">
+</p>
+  
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102837893-da4f0a80-43ca-11eb-8288-9221e54c9762.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102838444-31a1aa80-43cc-11eb-8c39-2c9f0a831427.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
+</p>
+  
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546743-15c59e00-4086-11eb-8969-d4d45dd8cfbe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562144-cd76f380-3994-11eb-8ddf-00a19d2050fd.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818831-ede50200-3418-11eb-9d32-7f459d7f8b12.jpg">
+</p>
+  
+Left: 
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101299755-43e2ec80-3801-11eb-9574-0d3549d332a7.jpg">
 </p>
 
