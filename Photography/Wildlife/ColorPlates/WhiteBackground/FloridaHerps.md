@@ -32,7 +32,7 @@ Common snapping turtle (*Chelydra serpentina*). Left: Adult; Right: Hatchling.
 #### Emydidae (Terrapins, pond turtles, and marsh turtle)
 Florida box turtle (*Terrapene carolina bauri*), adult.
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650289-8f8c3a00-ea4b-11ea-851e-67fa106fcdb2.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91650289-8f8c3a00-ea4b-11ea-851e-67fa106fcdb2.jpg">
 </p>
 
 Pensinsula cooter (*Pseudemys peninsularis*). Left: Hatchling; Right: Hatchling, albino.
@@ -73,7 +73,7 @@ Striped mud turtle (*Kinosternon baurii*), adult. Left to right: Dorsal, ventral
 #### Testudinidae (Tortoises)
 Gopher tortoise (*Gopherus polyphemus*), adult.
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122114800-b3a9e380-cdf1-11eb-9180-97d5eb7336fd.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/122114800-b3a9e380-cdf1-11eb-9180-97d5eb7336fd.jpg">
 </p>
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
@@ -94,14 +94,14 @@ Green anole (*Anolis caroliensis*). Left: Brown coloration; Right: Green colorat
 
 Knight anole (*Anolis equestris*).
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444801-259bac00-c95e-11eb-85ed-a4f037daa8a6.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/121444801-259bac00-c95e-11eb-85ed-a4f037daa8a6.jpg">
 </p>
 
 #### Scincidae (Skinks)
 Left: Broad-headed skink (*Plestiodon laticeps*). Right: Southeastern five-lined skink (*Plestiodon inexpectatus*).
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/93510132-c210b080-f8ee-11ea-9587-38615e11b634.jpg">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91666859-5fd24600-eace-11ea-8edf-f96cc2fb6b2f.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/93510132-c210b080-f8ee-11ea-9587-38615e11b634.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91666859-5fd24600-eace-11ea-8edf-f96cc2fb6b2f.jpg">
 </p>
 
 Little brown skink (*Scincella lateralis*).
@@ -112,33 +112,33 @@ Little brown skink (*Scincella lateralis*).
 #### Teiidae (Whiptails)
 Six-lined racerunner (*Aspidoscelis sexlineata*).
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91663866-76ba6d80-eab9-11ea-98c2-b2835baa382c.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91663866-76ba6d80-eab9-11ea-98c2-b2835baa382c.jpg">
 </p>
 
 #### Phrynosomatidae (Spiny lizards)
 Left: Southern fence lizard (*Sceloporus undulatus undulatus*); Right: Florida Scrub Lizard (*Sceloporus woodi*).
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668447-d8d79a80-eada-11ea-860b-4d9a89b8edd4.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668678-741d3f80-eadc-11ea-8ec0-6cc97ac82aa8.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91668447-d8d79a80-eada-11ea-860b-4d9a89b8edd4.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91668678-741d3f80-eadc-11ea-8ec0-6cc97ac82aa8.jpg">
 </p>
 
 #### Leiocephalidae (Curly-tail lizards)
 Northern curlytail lizard (*Leiocephalus carinatus armouri*), adult.
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668432-aa59bf80-eada-11ea-9efd-6fcdde3b5032.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91668432-aa59bf80-eada-11ea-9efd-6fcdde3b5032.jpg">
 </p>
 
 #### Gekkonidae (Geckos)
 Left: Tropical house gecko (*Hemidactylus mabouia*); Right: Indo-Pacific gecko (*Hemidactylus garnotii*).
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666680-b2aafe00-eacc-11ea-83ed-5fbe2c2b0306.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91666680-b2aafe00-eacc-11ea-83ed-5fbe2c2b0306.jpg">
 </p>
 
 #### Iguanidae (Iguanids)
 Green iguana (*Iguana iguana*), juvenile.
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125685-49c5cd80-edcd-11ea-8577-5a0d1a5a02f6.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92125685-49c5cd80-edcd-11ea-8577-5a0d1a5a02f6.jpg">
 </p>
 
 #### Corytophanidae (Basilisks)
@@ -151,7 +151,7 @@ Brown basilisk (*Basiliscus vittatus*). Left: Adult male; Right: Juvenile.
 #### Anguidae (Glass lizards)
 Island glass lizard (*Ophisaurus compressus*).
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068580-4a327a00-ed75-11ea-96b4-3bc209d9da9c.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92068580-4a327a00-ed75-11ea-96b4-3bc209d9da9c.jpg">
 </p>
 
 ### (Snakes)
