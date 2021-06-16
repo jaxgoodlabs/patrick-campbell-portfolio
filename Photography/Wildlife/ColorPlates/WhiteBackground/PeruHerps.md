@@ -108,7 +108,7 @@ Amazon dwarf gecko (*Psuedogonates guianensis*)
 </p>
 
 #### Teiidae (Whiptails)
-Left: Green ameiva (Ameiva ameiva); Middle: Forest whiptail (*Kentropyx pelviceps*); Right: Cocha whiptail (*Kentropyx altamazonica*)
+Left: Green ameiva (*Ameiva ameiva*); Middle: Forest whiptail (*Kentropyx pelviceps*); Right: Cocha whiptail (*Kentropyx altamazonica*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049347-2d3b7e00-ed58-11ea-8baf-5479f7c5987c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421394-54be8c00-f146-11ea-9f06-893bdf5734ed.jpg">
@@ -238,40 +238,64 @@ South American coral snake (*Micrurus lemniscatus*)
 </p>
 
 #### Bufonidae (Toads)
+Left: Cane toad (*Rhinella marina*); Middle and right: South American common toad (*Rhinella margaritifera*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91791232-9a2c0800-ebe0-11ea-925b-d1a36b979a11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103161549-7bfe9f00-47b1-11eb-95cf-fdc499ecd789.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541900-47240780-f215-11ea-80cf-fd970220e258.jpg">
+</p>
+
+Left: *Rhaebo guttata*; Middle: *Amazophrynella minuta*, male; Right: *Amazophrynella minuta*, female
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664073-0513d880-1320-11eb-9f33-2f8cccfe77b1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101694416-14babe00-3a41-11eb-8701-66a0afaf2ffc.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101694694-8135bd00-3a41-11eb-8790-3ebee99d3dcc.jpg">
 </p>
 
 #### Centrolenidae (Glass frogs)
+Santa Cecilia cochran frog (*Teratohyla midas*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560461-d9233580-3283-11eb-8b30-c34a9bed30ca.jpg">
 </p>
 
 #### Ceratophryidae (Horned frogs)
+Surinam horned frog (*Ceratrophys cornuta*)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
 </p>
 
 #### Craugstoridae (Fleshbelly frogs)
+Left: Rio Mamore robber frog (*Pristimantis cf. fenestratus*); Middle: *Pristimantis cf. reichlei*; Right: Peru robber frog (*Pristimantis cf. buccinator*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560509-096ad400-3284-11eb-8b62-de006aeefe8b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103155568-1d183600-476f-11eb-8b9a-edb3c99cbc56.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102840641-4cc2e900-43d1-11eb-9214-89d84cc68819.jpg">
+</p>
+
+Left: *Pristimantic cf. peruvianus*; Middle: *Pristimantis toftae*; Right: *Pristimantis carvalhoi*
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102903422-520a4d00-443e-11eb-8206-7585557aab7b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491929-c1b64200-30f5-11eb-89cc-1148cc26928b.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819045-60ee7880-3419-11eb-9961-64924f29a506.jpg">
+</p>
+
+Left: ; Middle: ; Right: *Pristimantis cf. divnae*
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542596-2a88cf00-f217-11ea-9371-055fe6262c95.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92542787-be5a9b00-f217-11ea-97c2-ff0a81a047be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298860-e9945c80-37fd-11eb-9f46-34b3e3f7bdbf.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102730292-3b5edb80-4302-11eb-9185-f53da8eb032e.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102722566-e904c700-42cf-11eb-92cc-7c0948f3551e.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
+</p>
+
+Left: *Oreobates cf. cruralis!*; Right: *Oreobates quixensis*
+<p align="left">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102730292-3b5edb80-4302-11eb-9185-f53da8eb032e.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
+</p>
+
+Left: *Pristimantis ventrimaculata*; Right: *Noblella losamigos*
+<p align="left">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102722566-e904c700-42cf-11eb-92cc-7c0948f3551e.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
