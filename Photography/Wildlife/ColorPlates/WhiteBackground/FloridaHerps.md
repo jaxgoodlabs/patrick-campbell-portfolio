@@ -30,7 +30,7 @@ Common snapping turtle (*Chelydra serpentina*). Left: Adult; Right: Hatchling.
 </p>
 
 #### Emydidae (Terrapins, pond turtles, and marsh turtle)
-Florida box turtle (*Terrapene carolina bauri*), adult
+Florida box turtle (*Terrapene carolina bauri*), adult.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650289-8f8c3a00-ea4b-11ea-851e-67fa106fcdb2.jpg">
 </p>
@@ -41,20 +41,20 @@ Pensinsula cooter (*Pseudemys peninsularis*). Left: Hatchling; Right: Hatchling,
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650301-a894eb00-ea4b-11ea-977e-cd0fb647d38a.jpg">
 </p>
 
-Yellow-bellied slider (*Trachemys scripta scripta*), adult. Left to right: Ventral, dorsal, frontal. 
+Yellow-bellied slider (*Trachemys scripta scripta*), adult. Left to right: Dorsal, ventral, frontal. 
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068812-e65c8100-ed75-11ea-8cb4-6f35cc2f2388.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068816-e78dae00-ed75-11ea-9b51-4f9b34e84c05.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068813-e6f51780-ed75-11ea-865c-ff8ccb49aa23.jpg">
 
-Florida reb-bellied cooter (*Pseudemys nelsoni*), adult. Left to right: ventral, dorsal, frontal. 
+Florida reb-bellied cooter (*Pseudemys nelsoni*), adult. Left to right: Dorsal, ventral, frontal.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068828-ef4d5280-ed75-11ea-8d3f-cffaf623b0f9.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068830-f07e7f80-ed75-11ea-89f4-bed7396a23de.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068829-efe5e900-ed75-11ea-9456-25674f0c2668.jpg">
 </p>
 
-Chicken Turtle ("Deirochelys reticularia*), adult. Left to right: Ventral, dorsal, frontal. Bottom: Side view. 
+Chicken Turtle ("Deirochelys reticularia*), adult. Left to right: Dorsal, ventral, frontal. Bottom: Side view. 
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109036-8a510100-f681-11ea-8b1f-b8b4d3f7814d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93108649-0f87e600-f681-11ea-956d-53338e0d5452.jpg">
