@@ -54,7 +54,7 @@ Florida reb-bellied cooter (*Pseudemys nelsoni*), adult. Left to right: Dorsal, 
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068829-efe5e900-ed75-11ea-9456-25674f0c2668.jpg">
 </p>
 
-Chicken Turtle ("Deirochelys reticularia*), adult. Left to right: Dorsal, ventral, frontal. Bottom: Side view. 
+Chicken Turtle (*Deirochelys reticularia*), adult. Left to right: Dorsal, ventral, frontal. Bottom: Side view. 
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109036-8a510100-f681-11ea-8b1f-b8b4d3f7814d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93108649-0f87e600-f681-11ea-956d-53338e0d5452.jpg">
@@ -63,6 +63,7 @@ Chicken Turtle ("Deirochelys reticularia*), adult. Left to right: Dorsal, ventra
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
+Striped mud turtle (*Kinosternon baurii*), adult. Left to right: Dorsal, ventral, frontal. 
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068807-e2c8fa00-ed75-11ea-8aa5-7ba6f064307d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068808-e3619080-ed75-11ea-94fa-7b41dd726322.jpg">
@@ -70,6 +71,7 @@ Chicken Turtle ("Deirochelys reticularia*), adult. Left to right: Dorsal, ventra
 </p>
 
 #### Testudinidae (Tortoises)
+Gopher tortoise (*Gopherus polyphemus*), adult.
 <p align="left">
 <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122114800-b3a9e380-cdf1-11eb-9180-97d5eb7336fd.jpg">
 </p>
@@ -77,13 +79,21 @@ Chicken Turtle ("Deirochelys reticularia*), adult. Left to right: Dorsal, ventra
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
 #### Dactyloidae (Anoles)
+Brown anole (*Anolis sagrei*). Left to right: Male, female, juvenile.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667430-ae81df00-ead2-11ea-82e7-e2a148723247.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667620-053be880-ead4-11ea-9ef9-07d57c74075c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
+</p>
+
+Green anole (*Anolis caroliensis*), adult. Left: Green coloration; Right: Brown coloration.
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93509869-5890a200-f8ee-11ea-94b9-80230806aa9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510330-fe441100-f8ee-11ea-8775-1b58f6180071.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125979-a1643900-edcd-11ea-8dc5-0c3efee48a27.jpg">
+</p>
+
+Knight anole (*Anolis equestris*), adult.
+<p align="left">
 <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444801-259bac00-c95e-11eb-85ed-a4f037daa8a6.jpg">
 </p>
 
