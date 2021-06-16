@@ -228,9 +228,9 @@ Left: Scarlet snake (*Cemophora coccinea*)
 </p>
 
 Left and right: Eastern mud snake (*Farancia abacura*)
-<p align="left"> 
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/97108825-67653400-16a6-11eb-8b0d-8b06103110d7.jpg">
+<p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92125581-2f8bef80-edcd-11ea-9216-fb0f7ef57f6e.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/97108825-67653400-16a6-11eb-8b0d-8b06103110d7.jpg">
 </p>
 
 Left: Striped crayfish snake (*Regina alleni*); Middle: Florida kingsnake (*Lampropeltis getula floridana*).
@@ -248,6 +248,10 @@ Florida Pine Snake (*Pituophis melanoleucus mugitus*)
 <p align="left">
 <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121441893-9a6be780-c958-11eb-92e8-611884c40c82.jpg">
 </p>
+
+#### Elapidae (Elapids)
+Eastern coral snake (*Micrurus fulvius*)
+
 
 #### Typhlopidae (Blind snakes)
 Brahminy blind snake (*Ramphotyphlops braminus*)
