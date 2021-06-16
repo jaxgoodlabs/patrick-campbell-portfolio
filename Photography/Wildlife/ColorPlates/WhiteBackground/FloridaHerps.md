@@ -86,67 +86,70 @@ Brown anole (*Anolis sagrei*). Left to right: Male, female, juvenile.
 <img width="23%" height="23%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
 </p>
 
-Green anole (*Anolis caroliensis*), adult. Left: Brown coloration; Right: Green coloration.
+Green anole (*Anolis caroliensis*). Left: Brown coloration; Right: Green coloration.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93509869-5890a200-f8ee-11ea-94b9-80230806aa9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510330-fe441100-f8ee-11ea-8775-1b58f6180071.jpg">
 </p>
 
-Knight anole (*Anolis equestris*), adult.
+Knight anole (*Anolis equestris*).
 <p align="left">
 <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444801-259bac00-c95e-11eb-85ed-a4f037daa8a6.jpg">
 </p>
 
 #### Scincidae (Skinks)
-Broad-headed skink (*Plestiodon laticeps*), adult.
+Left: Broad-headed skink (*Plestiodon laticeps*). Right: Southeastern five-lined skink (*Plestiodon inexpectatus*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/93510132-c210b080-f8ee-11ea-9587-38615e11b634.jpg">
-</p>
-
-Southeastern five-lined skink (*Plestiodon inexpectatus*), adult.
-<p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91666859-5fd24600-eace-11ea-8edf-f96cc2fb6b2f.jpg">
 </p>
 
-Little brown skink (*Scincella lateralis*), adult.
+Little brown skink (*Scincella lateralis*).
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91674270-0980f980-eb06-11ea-837b-d62cbc5f707d.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91674270-0980f980-eb06-11ea-837b-d62cbc5f707d.jpg">
 </p>
 
 #### Teiidae (Whiptails)
+Six-lined racerunner (*Aspidoscelis sexlineata*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91663866-76ba6d80-eab9-11ea-98c2-b2835baa382c.jpg">
 </p>
 
 #### Phrynosomatidae (Spiny lizards)
+Left: Southern fence lizard (*Sceloporus undulatus undulatus*); Right: Florida Scrub Lizard (*Sceloporus woodi*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668447-d8d79a80-eada-11ea-860b-4d9a89b8edd4.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668678-741d3f80-eadc-11ea-8ec0-6cc97ac82aa8.jpg">
 </p>
 
 #### Leiocephalidae (Curly-tail lizards)
+Northern curlytail lizard (*Leiocephalus carinatus armouri*), adult.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91668432-aa59bf80-eada-11ea-9efd-6fcdde3b5032.jpg">
 </p>
 
 #### Gekkonidae (Geckos)
+Left: Tropical house gecko (*Hemidactylus mabouia*); Right: Indo-Pacific gecko (*Hemidactylus garnotii*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666680-b2aafe00-eacc-11ea-83ed-5fbe2c2b0306.jpg">
 </p>
 
 #### Iguanidae (Iguanids)
+Green iguana (*Iguana iguana*), juvenile.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125685-49c5cd80-edcd-11ea-8577-5a0d1a5a02f6.jpg">
 </p>
 
 #### Corytophanidae (Basilisks)
+Brown basilisk (*Basiliscus vittatus*). Left: Adult male; Right: Juvenile.
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/122112119-7c860300-cdee-11eb-8a4d-7e4ae706b76b.jpg">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/122112136-80198a00-cdee-11eb-8a00-6d8c34735b54.jpg">
 </p>
 
 #### Anguidae (Glass lizards)
+Island glass lizard (*Ophisaurus compressus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068580-4a327a00-ed75-11ea-96b4-3bc209d9da9c.jpg">
 </p>
