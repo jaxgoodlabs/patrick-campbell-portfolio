@@ -227,10 +227,11 @@ Left: Scarlet snake (*Cemophora coccinea*)
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92068542-31c25f80-ed75-11ea-957a-ab16ca45e395.jpg">
 </p>
 
-Left and right: Eastern mud snake (*Farancia abacura*)
+Left, middle, and right: Eastern mud snake (*Farancia abacura*)
 <p align="left">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92125581-2f8bef80-edcd-11ea-9216-fb0f7ef57f6e.jpg">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/97108825-67653400-16a6-11eb-8b0d-8b06103110d7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125581-2f8bef80-edcd-11ea-9216-fb0f7ef57f6e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97108825-67653400-16a6-11eb-8b0d-8b06103110d7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/122221162-054c7f80-ce7f-11eb-9143-699533984952.jpg">
 </p>
 
 Left: Striped crayfish snake (*Regina alleni*); Middle: Florida kingsnake (*Lampropeltis getula floridana*).
@@ -261,41 +262,62 @@ Brahminy blind snake (*Ramphotyphlops braminus*)
 
 ## Anura (Frogs and Toads)
 #### Ranidae (True frogs)
+Pig frog (*Rana grylio*). Left: Adult; Right: Juvenile.
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
+
+American bullfrog (*Lithobates catesbeianus*). Left: Adult; Right: Tadpole
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
+</p>
+
+Left: Southern leopard frog (*Lithobates sphenocephalus*); Right: Gopher frog (*Lithobates capito*).
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338594-68eb8600-f07f-11ea-8e4a-7cc20951c2d1.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93110145-ee27f980-f682-11ea-9c5c-cbea9ca46f67.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
+Southern cricket frog (*Acris gryllus*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
 </p>
 
 #### Hylidae (Tree frogs)
+Left: Squirrel tree frog (*Hyla squirella*); Middle: Green Treefrog (*Hyla cinerea*); Right: Pine woods tree frog (*Hyla femoralis*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790729-7a481480-ebdf-11ea-9348-7f9ac3bbf15c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790762-88963080-ebdf-11ea-930e-eb89cd383aea.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338590-6557ff00-f07f-11ea-849f-b9b3264e9ba9.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338593-6852ef80-f07f-11ea-8068-59a911b449f8.jpg">
 </p>
 
+Little grass frog (Pseudacris ocularis).
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338590-6557ff00-f07f-11ea-849f-b9b3264e9ba9.jpg">
+</p>
+
+Cuban tree frog (*Osteopilus septentrionalis*). Left: Subadult; Right: Metamorph
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
+</p>
+
 #### Eleutherodactylidae (Rain frogs)
+Greenhouse frog (*Eleutherodactylus planirostris*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
+Eastern narrowmouth toad (*Gastrophryne carolinensis*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650452-cb280380-ea4d-11ea-8ead-b48be1f3821c.jpg">
 </p>
 
 #### Bufonidae (Toads)
+Left: Cane toad (*Rhinella marina*); Middle and right: Southern toad (*Anaxyrus terrestris*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91791232-9a2c0800-ebe0-11ea-925b-d1a36b979a11.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650456-d11de480-ea4d-11ea-8eb1-ffc1d666e25a.jpg">
@@ -303,12 +325,14 @@ Brahminy blind snake (*Ramphotyphlops braminus*)
 </p>
 
 #### Scaphiopodidae (Spadefoot toads)
+Eastern spadefoot toad (*Scaphiopus holbrookii*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790444-d2324b80-ebde-11ea-9f5d-c66a0c6e56c1.jpg">
 </p>
 
 ### Urodela
 #### Sirenidae (Sirens)
+Lesser siren (*Siren intermedia*)
 <p align="left">
 <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
 </p>
