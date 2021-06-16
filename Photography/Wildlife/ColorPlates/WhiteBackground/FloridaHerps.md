@@ -81,12 +81,12 @@ Gopher tortoise (*Gopherus polyphemus*), adult.
 #### Dactyloidae (Anoles)
 Brown anole (*Anolis sagrei*). Left to right: Male, female, juvenile.
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667430-ae81df00-ead2-11ea-82e7-e2a148723247.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91667620-053be880-ead4-11ea-9ef9-07d57c74075c.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/91667430-ae81df00-ead2-11ea-82e7-e2a148723247.jpg">
+<img width="35%" height="35%" src="https://user-images.githubusercontent.com/32546509/91667620-053be880-ead4-11ea-9ef9-07d57c74075c.jpg">
+<img width="20%" height="20%" src="https://user-images.githubusercontent.com/32546509/91666952-30700900-eacf-11ea-80e8-afa367b2578c.jpg">
 </p>
 
-Green anole (*Anolis caroliensis*), adult. Left: Green coloration; Right: Brown coloration.
+Green anole (*Anolis caroliensis*), adult. Left: Brown coloration; Right: Green coloration.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93509869-5890a200-f8ee-11ea-94b9-80230806aa9d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93510330-fe441100-f8ee-11ea-8775-1b58f6180071.jpg">
