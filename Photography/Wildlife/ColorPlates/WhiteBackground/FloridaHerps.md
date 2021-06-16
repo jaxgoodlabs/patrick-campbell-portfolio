@@ -212,14 +212,14 @@ Left: Peninsula ribbon snake (*Thamnophis sauritus sackenii*); Middle: Eastern g
 
 Eastern rat snake (*Elaphe obsoleta quadrivittata*). Left: Adult; Right: Juvenile.
 <p align="left">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/91883353-4ce87e80-ec52-11ea-9330-a09598cf3232.jpg">
-<img width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/91873629-3f79c700-ec47-11ea-8683-f3620ab236ff.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91883353-4ce87e80-ec52-11ea-9330-a09598cf3232.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91873629-3f79c700-ec47-11ea-8683-f3620ab236ff.jpg">
 </p>
 
 Left: Red rat snake (*Pantherophis guttatus*). Left: Adult; Right: Juvenile.
 <p align="left">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/91918460-eb93d000-ec90-11ea-8fdb-cfdb616f2906.jpg">
-<img width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/92068571-456dc600-ed75-11ea-8ce7-4c25d478552d.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91918460-eb93d000-ec90-11ea-8fdb-cfdb616f2906.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92068571-456dc600-ed75-11ea-8ce7-4c25d478552d.jpg">
 </p>
 
 Left: Scarlet snake (*Cemophora coccinea*)
@@ -229,8 +229,8 @@ Left: Scarlet snake (*Cemophora coccinea*)
 
 Left and right: Eastern mud snake (*Farancia abacura*)
 <p align="left"> 
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/97108825-67653400-16a6-11eb-8b0d-8b06103110d7.jpg">
-<img width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/92125581-2f8bef80-edcd-11ea-9216-fb0f7ef57f6e.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/97108825-67653400-16a6-11eb-8b0d-8b06103110d7.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92125581-2f8bef80-edcd-11ea-9216-fb0f7ef57f6e.jpg">
 </p>
 
 Left: Striped crayfish snake (*Regina alleni*); Middle: Florida kingsnake (*Lampropeltis getula floridana*).
@@ -241,12 +241,12 @@ Left: Striped crayfish snake (*Regina alleni*); Middle: Florida kingsnake (*Lamp
 
 Eastern indigo snake (*Drymarchon couperi*)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/121444532-b7ef8000-c95d-11eb-8371-7a486ca3af49.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444532-b7ef8000-c95d-11eb-8371-7a486ca3af49.jpg">
 </p>
 
 Florida Pine Snake (*Pituophis melanoleucus mugitus*)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/121441893-9a6be780-c958-11eb-92e8-611884c40c82.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121441893-9a6be780-c958-11eb-92e8-611884c40c82.jpg">
 </p>
 
 #### Typhlopidae (Blind snakes)
