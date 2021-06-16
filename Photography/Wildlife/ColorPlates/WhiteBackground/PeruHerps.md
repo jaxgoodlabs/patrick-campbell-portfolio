@@ -147,37 +147,36 @@ Green anaconda (*Eunectus murinus*)
 </p>
 
 #### Colubridae (Colubrids)
-Left: 
+Left: Yellow-tailed cribo (*Drymarchon corais corais*); Middle: Black-headed calico snake (*Oxyrhopus melanogenys*); Right: *Siphlophis compressus*
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92050197-71c81900-ed5a-11ea-8740-830eb2b267fe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541992-8fdbc080-f215-11ea-8479-6cc74d95c178.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102552840-d8fea480-408f-11eb-9de1-1dffe1110fb9.jpg">
 </p>
 
-Left: 
+Left: Striped sharpnose snake (*Xenoxybelis argentea*); Middle: Chunk-headed tree snake (*Imantodes cenchoa*); Right: Amazon blunt-headed tree snake (*Imantodes lentiferus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95668058-b191d580-0b3c-11eb-96ab-6da285360e21.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102799409-80295780-4380-11eb-9b9d-5425e85186ba.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102800491-f4b0c600-4381-11eb-9535-00496fd59e06.jpg">
 </p>
 
-Left: 
+Left: Ornate snake sucker (*Dipsas catesbyi*); Middle: Neotropical snail eater (*Dipsas indica*); Right: Long-tailed machete savane (*Chironius multiventris*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97117977-bbd7d600-16dd-11eb-8b4c-3c0489e0b873.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95931488-46900b00-0d97-11eb-8e99-85083a68f4be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102726427-c339eb00-42ec-11eb-8bbf-c7a236a124ba.jpg">
 </p>
 
-Left: 
+Left: Peru slender snake (*Tachymenis peruviana*); Middle: *Atractus sp.*; Right: 
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97092206-f7a46a00-160f-11eb-9610-cc4a676701b0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99747790-38758e80-2aa9-11eb-8c0e-bd40007529b5.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102635944-01cf7a00-4122-11eb-8de4-5d90acef8f14.jpg">
-</p>
-
-Left: 
-<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101424219-ad79fe00-38c8-11eb-8729-538166584a03.jpg">
+
+Left: Amazon swamp snake (*Liophis taeniogaster*); Middle: Swamp snake (*Liophis reginae*); Right: Swamp snake (*Liophis reginae*), "pineapple" morph
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102635944-01cf7a00-4122-11eb-8de4-5d90acef8f14.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102562934-24bc4880-40a6-11eb-95d3-79eb70624892.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
 </p>
