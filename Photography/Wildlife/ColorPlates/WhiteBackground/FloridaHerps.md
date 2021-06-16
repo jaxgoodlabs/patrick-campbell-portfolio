@@ -156,13 +156,14 @@ Island glass lizard (*Ophisaurus compressus*).
 
 ### (Snakes)
 #### Viperidae (Vipers)
+Left: Cottonmouth (*Agkistrodon piscivorus*), juvenile. Middle and right: Pygmy rattlesnake (*Sistrurus miliarius*).
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91750302-de8fb780-eb90-11ea-992e-901da1e14b79.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92125051-86dd9000-edcc-11ea-9e24-8a92fd76f244.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338592-66892c00-f07f-11ea-8f77-91bcd6de1078.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91750302-de8fb780-eb90-11ea-992e-901da1e14b79.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92338592-66892c00-f07f-11ea-8f77-91bcd6de1078.jpg">
 </p>
 
 #### Pythonidae (Pythons)
+Burmese python (*Python bivittatus*). Left: Adult; Right: Hatchling.
 <p align="left">
 <img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444318-4ca5ae00-c95d-11eb-9726-3746e1d33998.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91749418-6f659380-eb8f-11ea-883a-cefd33ee7b76.jpg">
@@ -199,8 +200,9 @@ Island glass lizard (*Ophisaurus compressus*).
 </p>
 
 #### Typhlopidae (Blind snakes)
+Brahminy blind snake (*Ramphotyphlops braminus*)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91761316-a98c6080-eba2-11ea-8ef0-051717d11b8b.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91761316-a98c6080-eba2-11ea-8ef0-051717d11b8b.jpg">
 </p>
 
 ## Anura (Frogs and Toads)
