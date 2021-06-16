@@ -15,7 +15,7 @@ Below is a collection of images of reptiles and amphibians collected from variou
 Photos are organized by taxonomic category. Click on an image to enlarge it.
 
 ## Testudinides (Turtles and Tortoises)
-##### Trionychidae (Softshell turtles)
+#### Trionychidae (Softshell turtles)
 Florida softshell turtle (*Apalone ferox*). Left: Adult; Right: Hatchling.
 <p align="left">
 <img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/122113686-6bd68c80-cdf0-11eb-9556-0b4948277014.jpg">
@@ -23,6 +23,7 @@ Florida softshell turtle (*Apalone ferox*). Left: Adult; Right: Hatchling.
 </p>
 
 #### Chelydridae (Snapping turtles)
+Common snapping turtle (*Chelydra serpentina*). Left: Adult; Right: Hatchling.
 <p align="left">
 <img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/122111147-6297f080-cded-11eb-8371-5f4135ab7a59.jpg">
 <img width="39%" height="39%" src="https://user-images.githubusercontent.com/32546509/122112731-2796bc80-cdef-11eb-8267-1c6f900a1776.jpg">
