@@ -10,23 +10,29 @@ Photos are organized by taxonomic category.
 
 ## Crocodilia (Crocodilians)
 #### Alligatoridae (Alligators and caimans)
+Smooth-fronted caiman (*Paleosuchus trigonatus*), juvenile.
 <p align="left">
 <img src="https://user-images.githubusercontent.com/32546509/95004630-e55c8080-05bb-11eb-9503-22e5b116fc9f.jpg">
+</p>
+
+Black caiman (Melanosuchus niger*), baby.
+<p align="left">
 <img src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
 </p>
 
 ## Testudinides (Turtles and Tortoises)
 #### Chelidae (Side-necked turtles)
+Left: Twist-necked turtle (*Platemys platycephala*); Right: Toadhead turtle (*Mesoclemmys gibba*)
 <p align="left">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
 </p>
 
 #### Podocnemididae (South American river turtles)
-<p align="left">
-</p>
+Yellow-spotted Amazon river turtle (*Podonecmis unifilis*)
 
 #### Testudinidae (Tortoises)
+Yellow-footed tortoise (*Chelonoidis denticulata*)
 <p align="left">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
 </p>
@@ -34,6 +40,7 @@ Photos are organized by taxonomic category.
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
 #### Alopoglossidae
+Left and middle: *Alopoglossus angulatus*; Right: *Ptychoglossus brevifrontalis*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049361-3593b900-ed58-11ea-92d0-8e37b7c1dda6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745164-1e3ab100-2aa7-11eb-9a7e-d07017cea9e5.jpg">
@@ -41,15 +48,21 @@ Photos are organized by taxonomic category.
 </p>
 
 #### Dactyloidae (Anoles)
+Left: Common anole (*Anolis fuscoauratus*); Middle: *Anolis nitens*, female; Right: *Anolis nitens*, male
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92053920-e64f8780-ed5b-11ea-95a2-c608ba743282.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92499411-d3104200-f1c9-11ea-8a74-324bec363693.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421408-62741180-f146-11ea-84d0-caf392b90c48.jpg">
+</p>
+
+Left: *Anolis punctatus*; Right: *Anolis ortoni*
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103600548-b664ec00-4ed5-11eb-90cb-99a1786ca6c2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541068-07f4b700-f213-11ea-80de-b50d3b2c4ecb.jpg">
 </p>
 
 #### Gekkonidae (Common geckos)
+Left: Bridled forest gecko (*Gonotades humeralis*), male; Middle: Bridled forest gecko (*Gonotades humeralis*), female; Right: Haseman’s gecko (*Gonotades hasemani*), female.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049964-d171f480-ed59-11ea-94cc-d4f8b087e8fb.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103045630-48bed480-4553-11eb-8fa9-f6ac98b7a507.jpg">
@@ -58,6 +71,7 @@ Photos are organized by taxonomic category.
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
+
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454968-27841c00-28f5-11eb-989c-fe0d9730c5bf.jpg">
