@@ -181,34 +181,36 @@ Left: Amazon swamp snake (*Liophis taeniogaster*); Middle: Swamp snake (*Liophis
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
 </p>
 
-Left: 
+Left: Esmarald racer (*Drymobius rhombifer*), adult; Middle: Esmarald racer (*Drymobius rhombifer*), juvenile; Right: Black-skinned parrot snake (*Leptophis ahaetulla nigromarginatus*)
+
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102728511-62b1aa80-42fa-11eb-8d5f-cc31ca9e31ed.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102729299-3566fb80-42fe-11eb-84f6-37c56f939cd8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102729635-7d3a5280-42ff-11eb-8f9d-4f2dd9d88551.jpg">
 </p>
   
-Left: 
+Left: False fer-de-lance (*Xenodon rhabdocephalus*); Middle: Giant Amazon false viper( *Xenodon severus*); Right: *Xenopholis scalaris*
 <p align="left">  
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745722-d0727880-2aa7-11eb-8c97-792f68e91757.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99469516-e39f1000-2910-11eb-9219-7dafdd8127c8.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102937546-6e2ae000-4478-11eb-86ff-2aae9a6a7e2a.jpg">
 </p>
-  
-Left: 
+
+Left: Banded cat-eyed snake (*Leptodeira annulata*); Middle: Yellow-bellied puffsnake (*Spilotes sulphureus*); Right: Spotted ground snake (*Taeniophallus occipitalis*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102796719-aea53380-437c-11eb-8b5d-00246257c12a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102636036-24fa2980-4122-11eb-8735-c3b42123bc14.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745093-fa776b00-2aa6-11eb-89f9-faeabb59b53d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269155-9527a900-3739-11eb-9de1-b5d291a1702b.jpg">
 </p>
   
-Left: 
+Left: Right: *Drepanoides anomalus* (?); Right: Crowned false boa (*Pseudoboa coronata*)(?).
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99745093-fa776b00-2aa6-11eb-89f9-faeabb59b53d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103045489-b4ed0880-4552-11eb-8a1a-24d28bb13077.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269155-9527a900-3739-11eb-9de1-b5d291a1702b.jpg">
 </p>
 
 #### Elapidae (Elapids)
+South American coral snake (*Micrurus lemniscatus*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95020260-17abc380-0638-11eb-929e-8525b09c7f93.jpg">
 </p>
