@@ -59,7 +59,7 @@ Chicken Turtle (*Deirochelys reticularia*), adult. Left to right: Dorsal, ventra
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109036-8a510100-f681-11ea-8b1f-b8b4d3f7814d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93108649-0f87e600-f681-11ea-956d-53338e0d5452.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93107972-43aed700-f680-11ea-8d2d-0963843eb7f6.jpg">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/122114806-b6a4d400-cdf1-11eb-9163-98ae149ed0ac.jpg">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/122114806-b6a4d400-cdf1-11eb-9163-98ae149ed0ac.jpg">
 </p>
 
 #### Kinosternidae (Mud turtles and musk turtles)
