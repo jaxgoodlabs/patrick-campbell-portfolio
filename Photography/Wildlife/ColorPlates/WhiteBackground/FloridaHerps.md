@@ -264,13 +264,13 @@ Brahminy blind snake (*Ramphotyphlops braminus*)
 #### Ranidae (True frogs)
 Pig frog (*Rana grylio*). Left: Adult; Right: Juvenile.
 <p align="left">
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
+<img width="54%" height="54%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
 
 American bullfrog (*Lithobates catesbeianus*). Left: Adult; Right: Tadpole
 <p align="left">
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
+<img width="54%" height="54%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
 </p>
 
 Left: Southern leopard frog (*Lithobates sphenocephalus*); Right: Gopher frog (*Lithobates capito*).
@@ -300,8 +300,8 @@ Little grass frog (Pseudacris ocularis).
 
 Cuban tree frog (*Osteopilus septentrionalis*). Left: Subadult; Right: Metamorph
 <p align="left">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
-<img width="39%" height="39%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
+<img width="54%" height="54%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
 </p>
 
 #### Eleutherodactylidae (Rain frogs)
