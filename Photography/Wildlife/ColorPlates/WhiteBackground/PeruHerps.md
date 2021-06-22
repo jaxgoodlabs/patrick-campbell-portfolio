@@ -268,7 +268,7 @@ Santa Cecilia cochran frog (*Teratohyla midas*).
 #### Ceratophryidae (Horned frogs)
 Surinam horned frog (*Ceratrophys cornuta*).
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92539238-df6abe00-f20e-11ea-8002-0e45c99039f5.jpg">
 </p>
 
 #### Craugstoridae (Fleshbelly frogs)
@@ -295,14 +295,14 @@ Left: ; Middle: ; Right: *Pristimantis cf. divnae*.
 
 Left: *Oreobates cf. cruralis*; Right: *Oreobates quixensis*.
 <p align="left">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102730292-3b5edb80-4302-11eb-9185-f53da8eb032e.jpg">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102730292-3b5edb80-4302-11eb-9185-f53da8eb032e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560706-a0d02700-3284-11eb-91e5-ad02daa1a495.jpg">
 </p>
 
 Left: *Pristimantis ventrimaculata*; Right: *Noblella losamigos*.
 <p align="left">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102722566-e904c700-42cf-11eb-92cc-7c0948f3551e.jpg">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102722566-e904c700-42cf-11eb-92cc-7c0948f3551e.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99460193-6d44e280-28fd-11eb-8c46-012c89ac3ea2.jpg">
 </p>
 
 #### Dendrobatidae (Poison dart frogs)
@@ -335,101 +335,122 @@ Left: *Dendropsophus leali*; Middle: *Dendropsophus cf. leali*; Right: *Dendroph
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101710947-87876180-3a60-11eb-9e86-fd7dae8a031c.jpg">
 </p>
 
-Left: (**); Middle: (**); Right: Orange-shanked tree frog (*Dendropsophus kamagarini*).
+Left and middle: Cinammon tree frog (*Dendropsophus koechlini*); Right: Orange-shanked tree frog (*Dendropsophus kamagarini*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95804727-82609d00-0cd1-11eb-8160-053f98da707d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103600867-70f4ee80-4ed6-11eb-80cc-100b088e4bcf.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
 </p>
 
-Left: 
+Left: *Osteocephalus boans*; Middle: *Osteocephalus taurinus*; Right: *Osteocephalus cf. leprieurii*
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102645199-13b81980-4130-11eb-82e5-ff1f10c80cba.jpg">
 </p>
 
-Left: 
+Left: *Osteocephalus cf. castaneicola*; Right: Buckley's slender-legged tree frog (*Osteocephalus buckleyi*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102645235-26325300-4130-11eb-8ec2-a670ae022606.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102821646-736b2a80-43a5-11eb-8176-4ce329c173a4.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99471612-e865c300-2914-11eb-88c5-cc7aafbe0066.jpg">
 </p>
 
-Left: 
-<p align="left">  
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546005-05f98a00-4085-11eb-9bf9-8e392cbae10d.jpg">
-</p>
-  
-Left: 
+Left: *Trachycephalus coreaceus*, adult; Right: *Trachycephalus coreaceus*, juvenile; Right: Veined tree frog (*Trachycephalus typhonius*)
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99471612-e865c300-2914-11eb-88c5-cc7aafbe0066.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
+</p>
+
+Left: *Hypsiboas lanciformis*; Middle: Convict tree frog (*Hypsiboas calcaratus*); Right: Gunther's banded tree frog (*Hypsiboas fasciatus*)
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546005-05f98a00-4085-11eb-9bf9-8e392cbae10d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925241-53dfd400-2d0b-11eb-8e13-30ced8bf4e80.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102942898-98829a80-4484-11eb-9054-807a3040283b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159639-cb38d580-4799-11eb-948e-165875c65694.jpg">
-</p>
-  
-Left: 
-<p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819101-811e3780-3419-11eb-80f2-088a9415ab11.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925170-0b281b00-2d0b-11eb-8691-e27b29282188.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103288165-496fc480-49b2-11eb-925c-2653ee56889e.jpg">
 </p>
 
-Left: 
+Left and middle: Map tree frog (*Hypsiboas geographicus*); Right: Polka-dot tree frog (*Hypsiboas punctatus*) 
+<p align="left">  
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159639-cb38d580-4799-11eb-948e-165875c65694.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819101-811e3780-3419-11eb-80f2-088a9415ab11.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925170-0b281b00-2d0b-11eb-8691-e27b29282188.jpg">
+</p>
+
+Left: Demerara Falls tree frog (*Hypsiboas cinerascens*), juvenile; Right: Demerara Falls tree frog (*Hypsiboas cinerascens*), adult.
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103288165-496fc480-49b2-11eb-925c-2653ee56889e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
+</p>
+
+Left:  (*Phyllomedusa camba*); Middle: Jaguar leaf frog (*Phyllomedusa palliata*); Right: Tiger leg monkey tree frog (Phyllomedusa tomopterna)
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491731-1658bd80-30f4-11eb-9a37-53d970fff424.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562288-2181d800-3995-11eb-9545-743f1344c197.jpg">
-</p>
-  
-Left: 
-<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102837893-da4f0a80-43ca-11eb-8288-9221e54c9762.jpg">
+</p>
+
+Left: White-lined leaf frog (*Phyllomedusa vaillantii*)
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102838444-31a1aa80-43cc-11eb-8c39-2c9f0a831427.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
 </p>
   
-Left: 
+Left: Red-snouted tree frog (*Scinax ruber*); Middle: Puerto Maldonado Snouted Tree Frog (*Scinax ictericus*); Right: *Scinax pedromedinae*
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546743-15c59e00-4086-11eb-8969-d4d45dd8cfbe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562144-cd76f380-3994-11eb-8ddf-00a19d2050fd.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818831-ede50200-3418-11eb-9d32-7f459d7f8b12.jpg">
 </p>
   
-Left: 
+Left: Tarauaca snouted treefrog (*Scarthyla goinorum*); Right: Orinoco lime tree frog (*Sphaenorhynchus lacteus*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101299755-43e2ec80-3801-11eb-9574-0d3549d332a7.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
+Left:
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491763-4acc7980-30f4-11eb-87c1-d2def4eda314.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546790-2ece4f00-4086-11eb-8749-aedb023fe29e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102920493-df5a9b00-4458-11eb-8c63-ba9119a2a10a.jpg">
+</p>
+
+Left:
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95694600-f1ba8c00-0c00-11eb-8161-b123d4bbeb30.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818733-bc6c3680-3418-11eb-97f5-fcf549393544.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298753-78ed4000-37fd-11eb-955b-cab648d90b5c.jpg">
+</p>
+
+Left:
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491699-c37f0600-30f3-11eb-94c2-c1fbadf86074.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102722386-d1790e80-42ce-11eb-870b-1c8151c294db.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159724-c294cf00-479a-11eb-946d-c38fe36c7a8b.jpg">
+</p>
+
+Left:
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102731304-71518f00-4305-11eb-8d9b-e673098b4013.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562272-19c23380-3995-11eb-8213-19fc9d46a6f0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101710736-18aa0880-3a60-11eb-8d31-1bf4ea335edc.jpg">
+</p>
+
+Left:
+<p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96529876-3921c780-1254-11eb-8f1f-7cb57515ca37.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103288730-9011ee80-49b3-11eb-8f19-6173c82cd135.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
-
+Left: Bolivian sheep frog (*Hamptophryne boliviana*); Middle: *Ctenophryne geayi*; Right: *Elachistocleis bicolor*
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101710683-04fea200-3a60-11eb-8eba-c77bcb1a32ec.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687900-6cb97d80-0bd4-11eb-8ffe-1280c3bf1ad0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269184-dfa92580-3739-11eb-9e5b-a275436d2406.jpg">
 </p>
 
-
+Left: *Chiasmocleis bassleri*; Right: Dotted humming frog (*Chiasmocleis ventrimaculata*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95688375-c5d6e080-0bd7-11eb-8bdb-06d660a99a5f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687936-a7bbb100-0bd4-11eb-8898-ece91aa818fd.jpg">
