@@ -20,6 +20,8 @@ Black caiman (*Melanosuchus niger*), baby.
 <img src="https://user-images.githubusercontent.com/32546509/95004632-e7beda80-05bb-11eb-867d-ecbfb86eca18.jpg">
 </p>
 
+***
+
 ## Testudinides (Turtles and Tortoises)
 #### Chelidae (Side-necked turtles)
 Left: Twist-necked turtle (*Platemys platycephala*); Right: Toadhead turtle (*Mesoclemmys gibba*).
@@ -36,6 +38,8 @@ Yellow-footed tortoise (*Chelonoidis denticulata*).
 <p align="left">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
 </p>
+
+***
 
 ## Squamata (Lizards, Snakes, and Amphisbaenids)
 ### Lacertilia (Lizards and Skinks)
@@ -233,6 +237,8 @@ Left: Common lancehead (*Bothrops atrox*), juvenile; Right: Brazil's lancehead (
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95696057-9cce4400-0c07-11eb-8417-d4b31778cde6.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95696060-a0fa6180-0c07-11eb-888b-148d3d6e5ad7.jpg">
 </p>
+
+***
 
 # Amphibia (Frogs, Toads, Salamanders, and Caecelians)
 ## Anura (Frogs and Toads)
@@ -456,12 +462,16 @@ Left: *Syncope bassleri*; Right: Dotted humming frog (*Chiasmocleis ventrimacula
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687936-a7bbb100-0bd4-11eb-8898-ece91aa818fd.jpg">
 </p>
 
+***
+
 ## Gymnophiona (Legless caecelians)
 #### Caeciliidae (Common caecelians)
 South American caecilian (*Siphonops annulatus*)
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/102921190-f64dbd00-4459-11eb-83ba-82e55aa2c921.jpg">
 </p>
+
+***
 
 ## Caudata (Newts and salamanders)
 #### Plethodontidae (Lungless salamanders)
