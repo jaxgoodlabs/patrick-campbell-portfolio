@@ -450,7 +450,7 @@ Left: Bolivian sheep frog (*Hamptophryne boliviana*); Middle: *Ctenophryne geayi
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101269184-dfa92580-3739-11eb-9e5b-a275436d2406.jpg">
 </p>
 
-Left: *Chiasmocleis bassleri*; Right: Dotted humming frog (*Chiasmocleis ventrimaculata*)
+Left: *Syncope bassleri*; Right: Dotted humming frog (*Chiasmocleis ventrimaculata*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95688375-c5d6e080-0bd7-11eb-8bdb-06d660a99a5f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95687936-a7bbb100-0bd4-11eb-8898-ece91aa818fd.jpg">
