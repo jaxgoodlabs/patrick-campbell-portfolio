@@ -22,17 +22,17 @@ Black caiman (*Melanosuchus niger*), baby.
 
 ## Testudinides (Turtles and Tortoises)
 #### Chelidae (Side-necked turtles)
-Left: Twist-necked turtle (*Platemys platycephala*); Right: Toadhead turtle (*Mesoclemmys gibba*)
+Left: Twist-necked turtle (*Platemys platycephala*); Right: Toadhead turtle (*Mesoclemmys gibba*).
 <p align="left">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/92541551-5ce4fd00-f214-11ea-92ac-6fee6b2779a6.jpg">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/95004339-e25f9100-05b7-11eb-9449-90f3ea307044.jpg">
 </p>
 
 #### Podocnemididae (South American river turtles)
-Yellow-spotted Amazon river turtle (*Podonecmis unifilis*)
+Yellow-spotted Amazon river turtle (*Podonecmis unifilis*).
 
 #### Testudinidae (Tortoises)
-Yellow-footed tortoise (*Chelonoidis denticulata*)
+Yellow-footed tortoise (*Chelonoidis denticulata*).
 <p align="left">
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/95004326-b7753d00-05b7-11eb-9f88-fb0c03a256fa.jpg">
 </p>
@@ -48,14 +48,14 @@ Left and middle: *Alopoglossus angulatus*; Right: *Ptychoglossus brevifrontalis*
 </p>
 
 #### Dactyloidae (Anoles)
-Left: Common anole (*Anolis fuscoauratus*); Middle: *Anolis nitens*, female; Right: *Anolis nitens*, male
+Left: Common anole (*Anolis fuscoauratus*); Middle: *Anolis nitens*, female; Right: *Anolis nitens*, male.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92053920-e64f8780-ed5b-11ea-95a2-c608ba743282.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92499411-d3104200-f1c9-11ea-8a74-324bec363693.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421408-62741180-f146-11ea-84d0-caf392b90c48.jpg">
 </p>
 
-Left: *Anolis punctatus*; Right: *Anolis ortoni*
+Left: *Anolis punctatus*; Right: *Anolis ortoni*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103600548-b664ec00-4ed5-11eb-90cb-99a1786ca6c2.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541068-07f4b700-f213-11ea-80de-b50d3b2c4ecb.jpg">
@@ -69,46 +69,46 @@ Left: Bridled forest gecko (*Gonotades humeralis*), male; Middle: Bridled forest
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049968-d33bb800-ed59-11ea-9420-53d9255c8e12.jpg">
 </p>
 
-Tropical house gecko (*Hemidactylus mabouia*)
+Tropical house gecko (*Hemidactylus mabouia*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/103183224-ee898080-487e-11eb-9636-b4b278e68079.jpg">
 </p>
 
 #### Gymnophthalmidae (Spectacled lizards)
-Left: *Iphisa elegans*; Middle: Dorbigny’s bachia (*Bachia dorbignyi*); Right: *Potamites cf. ecpleopus*
+Left: *Iphisa elegans*; Middle: Dorbigny’s bachia (*Bachia dorbignyi*); Right: *Potamites cf. ecpleopus*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412978-0d230a80-f11c-11ea-9ebe-6d9889d7145a.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99454968-27841c00-28f5-11eb-989c-fe0d9730c5bf.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101424278-cda9bd00-38c8-11eb-88b8-c08a341ef55e.jpg">
 </p>
 
-Left: *Cercosaurus oscellata*; Right: *Cercosaurus eigenmanni*
+Left: *Cercosaurus oscellata*; Right: *Cercosaurus eigenmanni*.
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/101644069-c4bd0680-3a02-11eb-8d0c-b3b858caa461.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/102722447-2452c600-42cf-11eb-9327-fc2a5a8e607b.jpg">
 </p>
 
 #### Phyllodactylidae (Geckos)
-Southern turnip-tailed gecko (*Thecadactylus solimoensis*)
+Southern turnip-tailed gecko (*Thecadactylus solimoensis*).
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/101110359-d20f6680-35a6-11eb-8c51-d288597d3dfa.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/103843463-dfb48200-5065-11eb-9994-9b8933441284.jpg">
 </p>
 
 #### Scincidae (Skinks)
-South American spotted skink (*Copeoglossum nigropunctatum*)
+South American spotted skink (*Copeoglossum nigropunctatum*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/102703974-fb392380-4243-11eb-8190-80d8d8bed7eb.jpg">
 </p>
 
 #### Sphaerodactylidae (South American clawed geckos)
-Amazon dwarf gecko (*Psuedogonates guianensis*)
+Amazon dwarf gecko (*Psuedogonates guianensis*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/101644677-7f4d0900-3a03-11eb-8364-cf308d514515.jpg">
 </p>
 
 #### Teiidae (Whiptails)
-Left: Green ameiva (*Ameiva ameiva*); Middle: Forest whiptail (*Kentropyx pelviceps*); Right: Cocha whiptail (*Kentropyx altamazonica*)
+Left: Green ameiva (*Ameiva ameiva*); Middle: Forest whiptail (*Kentropyx pelviceps*); Right: Cocha whiptail (*Kentropyx altamazonica*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92049347-2d3b7e00-ed58-11ea-8baf-5479f7c5987c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92421394-54be8c00-f146-11ea-9f06-893bdf5734ed.jpg">
@@ -116,7 +116,7 @@ Left: Green ameiva (*Ameiva ameiva*); Middle: Forest whiptail (*Kentropyx pelvic
 </p>
 
 #### Tropiduridae (Neotropical ground lizards)
-Left: Harlequin tree lizard (*Plica plica*); Right: Collared tree lizard (*Plica umbra*)
+Left: Harlequin tree lizard (*Plica plica*); Right: Collared tree lizard (*Plica umbra*).
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92542040-b3067000-f215-11ea-8a4a-1ce764fa2af5.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/103155190-3b7c3280-476b-11eb-8a01-8a212ff40a43.jpg">
@@ -124,7 +124,7 @@ Left: Harlequin tree lizard (*Plica plica*); Right: Collared tree lizard (*Plica
 
 ### Serpentes (Snakes)
 #### Aniliidae (American pipe snakes)
-Red pipesnake (*Anilius scytale*)
+Red pipesnake (*Anilius scytale*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/101290307-547a6f00-37cf-11eb-92df-02f688290c99.jpg">
 </p>
@@ -136,18 +136,18 @@ Left: Boa constrictor (*Boa constrictor*); Right: Rainbow boa (*Epicrates cenchr
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/95687864-4a276480-0bd4-11eb-8164-dd54b19db94b.jpg">
 </p>
 
-Amazon tree boa (*Corallus hortunalus*)
+Amazon tree boa (*Corallus hortunalus*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/101290334-88ee2b00-37cf-11eb-9a95-8f89f493d3f6.jpg">
 </p>
 
-Green anaconda (*Eunectus murinus*)
+Green anaconda (*Eunectus murinus*).
 <p align="left">
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/96530792-29a37e00-1256-11eb-818d-174b91fb4832.jpg">
 </p>
 
 #### Colubridae (Colubrids)
-Left: Yellow-tailed cribo (*Drymarchon corais corais*); Middle: Black-headed calico snake (*Oxyrhopus melanogenys*); Right: *Siphlophis compressus*
+Left: Yellow-tailed cribo (*Drymarchon corais corais*); Middle: Black-headed calico snake (*Oxyrhopus melanogenys*); Right: *Siphlophis compressus*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92050197-71c81900-ed5a-11ea-8740-830eb2b267fe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541992-8fdbc080-f215-11ea-8479-6cc74d95c178.jpg">
@@ -161,27 +161,27 @@ Left: Striped sharpnose snake (*Xenoxybelis argentea*); Middle: Chunk-headed tre
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102800491-f4b0c600-4381-11eb-9535-00496fd59e06.jpg">
 </p>
 
-Left: Ornate snake sucker (*Dipsas catesbyi*); Middle: Neotropical snail eater (*Dipsas indica*); Right: Long-tailed machete savane (*Chironius multiventris*)
+Left: Ornate snake sucker (*Dipsas catesbyi*); Middle: Neotropical snail eater (*Dipsas indica*); Right: Long-tailed machete savane (*Chironius multiventris*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97117977-bbd7d600-16dd-11eb-8b4c-3c0489e0b873.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95931488-46900b00-0d97-11eb-8e99-85083a68f4be.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102726427-c339eb00-42ec-11eb-8bbf-c7a236a124ba.jpg">
 </p>
 
-Left: Peru slender snake (*Tachymenis peruviana*); Middle: *Atractus sp.*; Right: 
+Left: Peru slender snake (*Tachymenis peruviana*); Middle: *Atractus sp.*
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/97092206-f7a46a00-160f-11eb-9610-cc4a676701b0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99747790-38758e80-2aa9-11eb-8c0e-bd40007529b5.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101424219-ad79fe00-38c8-11eb-8729-538166584a03.jpg">
 
-Left: Amazon swamp snake (*Liophis taeniogaster*); Middle: Swamp snake (*Liophis reginae*); Right: Swamp snake (*Liophis reginae*), "pineapple" morph
+Left: Amazon swamp snake (*Liophis taeniogaster*); Middle: Swamp snake (*Liophis reginae*); Right: Swamp snake (*Liophis reginae*), "pineapple" morph.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102635944-01cf7a00-4122-11eb-8de4-5d90acef8f14.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102562934-24bc4880-40a6-11eb-95d3-79eb70624892.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92541960-776ba600-f215-11ea-8862-cc55b457987b.jpg">
 </p>
 
-Left: Esmarald racer (*Drymobius rhombifer*), adult; Middle: Esmarald racer (*Drymobius rhombifer*), juvenile; Right: Black-skinned parrot snake (*Leptophis ahaetulla nigromarginatus*)
+Left: Esmarald racer (*Drymobius rhombifer*), adult; Middle: Esmarald racer (*Drymobius rhombifer*), juvenile; Right: Black-skinned parrot snake (*Leptophis ahaetulla nigromarginatus*).
 
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102728511-62b1aa80-42fa-11eb-8d5f-cc31ca9e31ed.jpg">
@@ -342,34 +342,34 @@ Left and middle: Cinammon tree frog (*Dendropsophus koechlini*); Right: Orange-s
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92060408-adb2ac80-ed61-11ea-95e9-4be6b78c01e6.jpg">
 </p>
 
-Left: *Osteocephalus boans*; Middle: *Osteocephalus taurinus*; Right: *Osteocephalus cf. leprieurii*
+Left: *Osteocephalus boans*; Middle: *Osteocephalus taurinus*; Right: *Osteocephalus cf. leprieurii*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92062062-d2a91e80-ed65-11ea-9cd2-e78427b8019c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92412783-31cab280-f11b-11ea-9a17-5cacb7805d7f.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102645199-13b81980-4130-11eb-82e5-ff1f10c80cba.jpg">
 </p>
 
-Left: *Osteocephalus cf. castaneicola*; Right: Buckley's slender-legged tree frog (*Osteocephalus buckleyi*)
+Left: *Osteocephalus cf. castaneicola*; Right: Buckley's slender-legged tree frog (*Osteocephalus buckleyi*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102645235-26325300-4130-11eb-8ec2-a670ae022606.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102821646-736b2a80-43a5-11eb-8176-4ce329c173a4.jpg">
 </p>
 
-Left: *Trachycephalus coreaceus*, adult; Right: *Trachycephalus coreaceus*, juvenile; Right: Veined tree frog (*Trachycephalus typhonius*)
+Left: Veined tree frog (*Trachycephalus typhonius*); Middle: *Trachycephalus coreaceus*, adult; Right: *Trachycephalus coreaceus*, juvenile.
 <p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96664223-4f955500-1320-11eb-83d5-120af173015d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99471612-e865c300-2914-11eb-88c5-cc7aafbe0066.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99473130-f8cb6d00-2917-11eb-8fcd-263ef5c07154.jpg">
 </p>
 
-Left: *Hypsiboas lanciformis*; Middle: Convict tree frog (*Hypsiboas calcaratus*); Right: Gunther's banded tree frog (*Hypsiboas fasciatus*)
+Left: *Hypsiboas lanciformis*; Middle: Convict tree frog (*Hypsiboas calcaratus*); Right: Gunther's banded tree frog (*Hypsiboas fasciatus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546005-05f98a00-4085-11eb-9bf9-8e392cbae10d.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/99925241-53dfd400-2d0b-11eb-8e13-30ced8bf4e80.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102942898-98829a80-4484-11eb-9054-807a3040283b.jpg">
 </p>
 
-Left and middle: Map tree frog (*Hypsiboas geographicus*); Right: Polka-dot tree frog (*Hypsiboas punctatus*) 
+Left and middle: Map tree frog (*Hypsiboas geographicus*); Right: Polka-dot tree frog (*Hypsiboas punctatus*).
 <p align="left">  
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159639-cb38d580-4799-11eb-948e-165875c65694.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100819101-811e3780-3419-11eb-80f2-088a9415ab11.jpg">
@@ -382,61 +382,61 @@ Left: Demerara Falls tree frog (*Hypsiboas cinerascens*), juvenile; Right: Demer
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95004072-70d21380-05b4-11eb-94a4-e8fad78cdac1.jpg">
 </p>
 
-Left:  (*Phyllomedusa camba*); Middle: Jaguar leaf frog (*Phyllomedusa palliata*); Right: Tiger leg monkey tree frog (Phyllomedusa tomopterna)
+Left: *Phyllomedusa camba*; Middle: Jaguar leaf frog (*Phyllomedusa palliata*); Right: Tiger leg monkey tree frog (*Phyllomedusa tomopterna*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491731-1658bd80-30f4-11eb-9a37-53d970fff424.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562288-2181d800-3995-11eb-9545-743f1344c197.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102837893-da4f0a80-43ca-11eb-8288-9221e54c9762.jpg">
 </p>
 
-Left: White-lined leaf frog (*Phyllomedusa vaillantii*)
+Left: White-lined leaf frog (*Phyllomedusa vaillantii*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102838444-31a1aa80-43cc-11eb-8c39-2c9f0a831427.jpg">
 </p>
   
-Left: Red-snouted tree frog (*Scinax ruber*); Middle: Puerto Maldonado Snouted Tree Frog (*Scinax ictericus*); Right: *Scinax pedromedinae*
+Left: Red-snouted tree frog (*Scinax ruber*); Middle: Puerto Maldonado Snouted Tree Frog (*Scinax ictericus*); Right: *Scinax pedromedinae*.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546743-15c59e00-4086-11eb-8969-d4d45dd8cfbe.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562144-cd76f380-3994-11eb-8ddf-00a19d2050fd.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818831-ede50200-3418-11eb-9d32-7f459d7f8b12.jpg">
 </p>
   
-Left: Tarauaca snouted treefrog (*Scarthyla goinorum*); Right: Orinoco lime tree frog (*Sphaenorhynchus lacteus*)
+Left: Tarauaca snouted treefrog (*Scarthyla goinorum*); Right: Orinoco lime tree frog (*Sphaenorhynchus lacteus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101299755-43e2ec80-3801-11eb-9574-0d3549d332a7.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100560558-328b6480-3284-11eb-818f-20a45d8b4250.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
-Left:
+Left: *Leptodactylus rhodonotus*; Middle and right: Smoky jungle frog (*Leptodactylus pentadactylus*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491763-4acc7980-30f4-11eb-87c1-d2def4eda314.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102546790-2ece4f00-4086-11eb-8749-aedb023fe29e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102920493-df5a9b00-4458-11eb-8c63-ba9119a2a10a.jpg">
 </p>
 
-Left:
+Left: *Leptodactylus cf. boliviana*; Middle: White-lipped basin frog (*Leptodactylus didymus cf. mystaceus*); Right: Knudsen's thin-toed frog (*Leptodactylus knudseni*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/95694600-f1ba8c00-0c00-11eb-8161-b123d4bbeb30.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100818733-bc6c3680-3418-11eb-97f5-fcf549393544.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101298753-78ed4000-37fd-11eb-955b-cab648d90b5c.jpg">
 </p>
 
-Left:
+Left: Painted antnest frog (*Leptodactylus lineatus*); Middle and right: Lowland tropical bullfrog (*Adenomera andreae*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/100491699-c37f0600-30f3-11eb-94c2-c1fbadf86074.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102722386-d1790e80-42ce-11eb-870b-1c8151c294db.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103159724-c294cf00-479a-11eb-946d-c38fe36c7a8b.jpg">
 </p>
 
-Left:
+Left: Peters' thin-toed frog (*Leptodactylus petersii*); Middle: *Leptodactylus cf. leptodactyloides*; Right: Perez's snouted frog (*Edalorhina perezi*).
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/102731304-71518f00-4305-11eb-8d9b-e673098b4013.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101562272-19c23380-3995-11eb-8213-19fc9d46a6f0.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/101710736-18aa0880-3a60-11eb-8d31-1bf4ea335edc.jpg">
 </p>
 
-Left:
+Left and right: Painted forest toadlet (*Engystomops freibergi cf. petersi*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/96529876-3921c780-1254-11eb-8f1f-7cb57515ca37.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/103288730-9011ee80-49b3-11eb-8f19-6173c82cd135.jpg">
