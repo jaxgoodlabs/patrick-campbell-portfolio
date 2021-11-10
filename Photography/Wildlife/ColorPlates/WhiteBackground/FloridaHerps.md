@@ -169,7 +169,7 @@ Left: Southern black racer (*Coluber constrictor*); Right: Eastern coachwhip (*M
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/93109397-00556800-f682-11ea-948b-4ccf0433a751.jpg">
 </p>
 
-Left: Southern ringneck snale (*Diadophis punctatus*); Middle Florida brown snake (*Storeria victa*), juvenile; Right: Florida brown snake (*Storeria victa*), adult.
+Left: Southern ringneck snake (*Diadophis punctatus*); Middle Florida brown snake (*Storeria victa*), juvenile; Right: Florida brown snake (*Storeria victa*), adult.
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91778947-13683280-ebc2-11ea-8c18-ac9f60ded80e.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91778952-16632300-ebc2-11ea-9fc1-7ae2f52c72cc.jpg">
@@ -254,11 +254,15 @@ Brahminy blind snake (*Ramphotyphlops braminus*)
 </p>
 
 #### Viperidae (Vipers)
-Left: Cottonmouth (*Agkistrodon piscivorus*), juvenile. Middle and right: Pygmy rattlesnake (*Sistrurus miliarius*).
+Left: Eastern diamondback rattlesnake (*Crotalus adamanteus*), juvenile.. Right: Pygmy rattlesnake (*Sistrurus miliarius*) 
 <p align="left">
-<img width="32%" height="32%" src="https://user-images.githubusercontent.com/32546509/91750302-de8fb780-eb90-11ea-992e-901da1e14b79.jpg">
-<img width="32%" height="32%" src="https://user-images.githubusercontent.com/32546509/92338592-66892c00-f07f-11ea-8f77-91bcd6de1078.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/141166886-f3bc3d93-9d9b-4456-a765-ff24ca46e75b.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92338592-66892c00-f07f-11ea-8f77-91bcd6de1078.jpg">
+<img width="49%" height="33%" src="https://user-images.githubusercontent.com/32546509/141166886-f3bc3d93-9d9b-4456-a765-ff24ca46e75b.jpg">
+</p>
+
+Left: Cottonmouth (*Agkistrodon piscivorus*), juvenile. 
+<p align="left">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91750302-de8fb780-eb90-11ea-992e-901da1e14b79.jpg">
 </p>
 
 ## Anura (Frogs and Toads)
