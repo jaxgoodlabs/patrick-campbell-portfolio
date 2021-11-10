@@ -256,8 +256,8 @@ Brahminy blind snake (*Ramphotyphlops braminus*)
 #### Viperidae (Vipers)
 Left: Eastern diamondback rattlesnake (*Crotalus adamanteus*), juvenile.. Right: Pygmy rattlesnake (*Sistrurus miliarius*) 
 <p align="left">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92338592-66892c00-f07f-11ea-8f77-91bcd6de1078.jpg">
 <img width="49%" height="33%" src="https://user-images.githubusercontent.com/32546509/141166886-f3bc3d93-9d9b-4456-a765-ff24ca46e75b.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92338592-66892c00-f07f-11ea-8f77-91bcd6de1078.jpg">
 </p>
 
 Left: Cottonmouth (*Agkistrodon piscivorus*), juvenile. 
