@@ -262,7 +262,7 @@ Left: Eastern diamondback rattlesnake (*Crotalus adamanteus*), juvenile.. Right:
 
 Left: Cottonmouth (*Agkistrodon piscivorus*), juvenile. 
 <p align="left">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91750302-de8fb780-eb90-11ea-992e-901da1e14b79.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/141306302-233813a0-fb8c-4791-984d-d7bb4ef306e2.jpg">
 </p>
 
 ## Anura (Frogs and Toads)
