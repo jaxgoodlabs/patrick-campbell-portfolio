@@ -130,6 +130,12 @@ Northern curlytail lizard (*Leiocephalus carinatus armouri*), adult.
 </p>
 
 #### Gekkonidae (Geckos)
+Left: Florida reef gecko (*Sphaerodactylus notatus*); Right: Tokay gecko (*Gekko gecko*).
+<p align="left">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/143376467-0e8fa8a7-14a7-4b9b-b79b-b8c967d48974.jpg">
+<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/143376477-461096a7-a455-4ca8-8cb5-45c4248eccbd.jpg">
+</p>
+
 Left: Tropical house gecko (*Hemidactylus mabouia*); Right: Indo-Pacific gecko (*Hemidactylus garnotii*).
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
