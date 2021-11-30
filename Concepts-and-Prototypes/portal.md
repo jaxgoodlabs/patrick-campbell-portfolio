@@ -5,6 +5,8 @@ Below you'll find examples of project concepts and prototypes. To view a project
 - [rosettaHUB Work Party](#rosettahub-work-party)
 - [Antfarm.io](#antfarm-io)
 - [GoodLabs](#goodlabs)
+- [Career Support](#career-support)
+- [GitFriendly](#gitfriendly)
 
 ## rosettaHUB Work Party
 <p align="center">
@@ -44,6 +46,38 @@ This project is open source. Click [here](https://github.com/antfarm-io/antfarm-
   <summary>Click to expand</summary>
 
 GoodLabs is a hub for commons-based peer production providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations.
+
+This project is open source. Click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
+
+[Return to top](#jump-to-section)
+
+</details>
+
+## Career Support
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/143968941-f336603e-7c78-4c99-af31-5cd15750d332.jpg">
+</p>
+
+<details>
+  <summary>Click to expand</summary>
+
+
+
+This project is open source. Click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
+
+[Return to top](#jump-to-section)
+
+</details>
+
+## GitFriendly
+<p align="center">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/143969310-1ddae9ce-45ef-4af1-9615-64b7db60c01c.jpg">
+</p>
+
+<details>
+  <summary>Click to expand</summary>
+
+GitFriendly is GitHub-like platform / suite of services for adoption by the open source and peer-to-peer communities. Within the GoodLabs portfolio of projects, GitFriendly represents the low-fi precursor of the future GoodLabs platform. 
 
 This project is open source. Click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
 
