@@ -71,7 +71,7 @@ This project is open source. Click [here](https://www.sensorica.co/communities/g
 
 ## GitFriendly
 <p align="center">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/143969310-1ddae9ce-45ef-4af1-9615-64b7db60c01c.jpg">
+<img width="25%" height="25%" src="https://user-images.githubusercontent.com/32546509/143969310-1ddae9ce-45ef-4af1-9615-64b7db60c01c.jpg">
 </p>
 
 <details>
