@@ -130,13 +130,17 @@ Northern curlytail lizard (*Leiocephalus carinatus armouri*), adult.
 </p>
 
 #### Gekkonidae (Geckos)
-Left: Florida reef gecko (*Sphaerodactylus notatus*); Right: Tokay gecko (*Gekko gecko*).
+Florida reef gecko (*Sphaerodactylus notatus*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/143376467-0e8fa8a7-14a7-4b9b-b79b-b8c967d48974.jpg">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/143376477-461096a7-a455-4ca8-8cb5-45c4248eccbd.jpg">
+
+Left: Madagascar giant day gecko (*Phelsuma grandis*), exotic; Right: Tokay gecko (*Gekko gecko*), exotic.
+<p align="left">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/149567463-4e48f8c7-0e3e-472d-b05a-79b9162f1da9.jpg">  
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/143376477-461096a7-a455-4ca8-8cb5-45c4248eccbd.jpg">
 </p>
 
-Left: Tropical house gecko (*Hemidactylus mabouia*); Right: Indo-Pacific gecko (*Hemidactylus garnotii*).
+Left: Tropical house gecko (*Hemidactylus mabouia*), exotic; Right: Indo-Pacific gecko (*Hemidactylus garnotii*), exotic.
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91664574-298cca80-eabe-11ea-9810-6541801f9e9c.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91666680-b2aafe00-eacc-11ea-83ed-5fbe2c2b0306.jpg">
