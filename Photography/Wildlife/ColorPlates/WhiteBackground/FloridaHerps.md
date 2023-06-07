@@ -193,11 +193,15 @@ Left, middle, and right: Banded water snake (*Nerodia fasciata*)
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068253-7699c680-ed74-11ea-9e50-49d75590b956.jpg">
 </p>
 
-Left: Brown water snake (*Nerodia taxispilota*); Middle: Florida green water snake (*Nerodia floridana*); Right: Gulf salt marsh snake (*Nerodia clarkii*)
+Left: Brown water snake (*Nerodia taxispilota*); Right: Florida green water snake (*Nerodia floridana*)
 <p align="left">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91783546-8aa3c380-ebce-11ea-99da-ce17bbf79b92.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92068499-1c4d3580-ed75-11ea-828d-d040a849d86b.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/121443975-8d50f780-c95c-11eb-91a7-7abbafa366e7.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91783546-8aa3c380-ebce-11ea-99da-ce17bbf79b92.jpg">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92068499-1c4d3580-ed75-11ea-828d-d040a849d86b.jpg">
+
+Left: Gulf saltmarsh snake (*Nerodia clarkii*); Right: Mangrove saltmarsh snake (*Nerodia clarkii compressicauda*)
+<p align="left">
+<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/121443975-8d50f780-c95c-11eb-91a7-7abbafa366e7.jpg">
+<img width="49%" height="49%" src="https://github.com/jaxgoodlabs/patrick-campbell-portfolio/assets/32546509/79746b73-6291-40fc-a22e-22bee4d79659">
 </p>
 
 Left: Peninsula ribbon snake (*Thamnophis sauritus sackenii*); Middle: Eastern garter snake (*Thamnophis sirtalis sirtalis*)
