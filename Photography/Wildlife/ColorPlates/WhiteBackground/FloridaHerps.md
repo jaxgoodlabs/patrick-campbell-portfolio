@@ -282,10 +282,11 @@ Left: Cottonmouth (*Agkistrodon piscivorus*), juvenile.
 
 ## Anura (Frogs and Toads)
 #### Ranidae (True frogs)
-Pig frog (*Rana grylio*). Left: Adult; Right: Juvenile.
+Left: Pig frog (*Rana grylio*), adult; Middle: Pig frog, juvenile; Right: River frog (*Lithobates heckscheri*), juvenile.
 <p align="left">
-<img width="54%" height="54%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
-<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650611-a3d23600-ea4f-11ea-8322-e804bc6f0921.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93109060-9210a580-f681-11ea-9f2c-a0f33960d2f0.jpg">
+<img width="33%" height="33%" src="https://github.com/jaxgoodlabs/patrick-campbell-portfolio/assets/32546509/fc5e6e44-7667-4ede-b0e6-08a21c9f39b5">
 </p>
 
 American bullfrog (*Lithobates catesbeianus*). Left: Adult; Right: Tadpole
