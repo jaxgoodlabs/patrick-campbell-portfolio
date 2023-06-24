@@ -7,6 +7,7 @@ Below you'll find examples of project concepts and prototypes. To view a project
 - [GoodLabs](#goodlabs)
 - [Career Support](#career-support)
 - [GitFriendly](#gitfriendly)
+- [P2P Sharehouse](#p2psharehouse)
 
 ## rosettaHUB Work Party
 <p align="center">
@@ -80,6 +81,18 @@ This project is open source. Click [here](https://www.sensorica.co/communities/g
 GitFriendly is GitHub-like platform / suite of services for adoption by the open source and peer-to-peer communities. Within the GoodLabs portfolio of projects, GitFriendly represents the low-fi precursor of the future GoodLabs platform. 
 
 This project is open source. Click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
+
+## Peer-to-Peer Sharehouse
+<p align="center">
+<img width="25%" height="25%" src="">
+</p>
+
+<details>
+  <summary>Click to expand</summary>
+
+The P2P Sharehouse 
+
+This project is open source. Read more about the project [here](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Concepts-and-Prototypes/Sharehouse.md) or click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
 
 [Return to top](#jump-to-section)
 
