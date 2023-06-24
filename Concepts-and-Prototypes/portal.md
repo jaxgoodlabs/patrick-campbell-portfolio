@@ -7,7 +7,7 @@ Below you'll find examples of project concepts and prototypes. To view a project
 - [GoodLabs](#goodlabs)
 - [Career Support](#career-support)
 - [GitFriendly](#gitfriendly)
-- [P2P Sharehouse](#p2psharehouse)
+- [P2P Sharehouse](#p2p-sharehouse)
 
 ## rosettaHUB Work Party
 <p align="center">
