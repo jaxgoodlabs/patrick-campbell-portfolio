@@ -82,6 +82,10 @@ GitFriendly is GitHub-like platform / suite of services for adoption by the open
 
 This project is open source. Click [here](https://www.sensorica.co/communities/goodlabs) to join and start contributing to the project.
 
+[Return to top](#jump-to-section)
+
+</details>
+
 ## Peer-to-Peer Sharehouse
 <p align="center">
 <img width="25%" height="25%" src="">
