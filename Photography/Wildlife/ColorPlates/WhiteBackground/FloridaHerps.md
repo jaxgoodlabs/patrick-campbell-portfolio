@@ -308,34 +308,35 @@ Southern cricket frog (*Acris gryllus*)
 </p>
 
 #### Hylidae (Tree frogs)
-Left: Squirrel tree frog (*Hyla squirella*); Middle: Green Treefrog (*Hyla cinerea*); Right: Pine woods tree frog (*Hyla femoralis*)
+Left: Barking tree frog (*Hyla gratiosa*); Middle: Squirrel tree frog (*Hyla squirella*); Right: Green Treefrog (*Hyla cinerea*)
 <p align="left">
+<img width="33%" height="33%" src="https://github.com/jaxgoodlabs/patrick-campbell-portfolio/assets/32546509/81f1f58d-61ca-40c9-9736-be2520083b76">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790729-7a481480-ebdf-11ea-9348-7f9ac3bbf15c.jpg">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790762-88963080-ebdf-11ea-930e-eb89cd383aea.jpg">
-<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338593-6852ef80-f07f-11ea-8068-59a911b449f8.jpg">
 </p>
 
-Little grass frog (Pseudacris ocularis).
+Left: Pine woods tree frog (*Hyla femoralis*); Right: Little grass frog (Pseudacris ocularis).
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92338590-6557ff00-f07f-11ea-849f-b9b3264e9ba9.jpg">
+<img width="37%" height="37%" src="https://user-images.githubusercontent.com/32546509/92338593-6852ef80-f07f-11ea-8068-59a911b449f8.jpg">
+<img width="29%" height="29%" src="https://user-images.githubusercontent.com/32546509/92338590-6557ff00-f07f-11ea-849f-b9b3264e9ba9.jpg">
 </p>
 
 Cuban tree frog (*Osteopilus septentrionalis*). Left: Subadult; Right: Metamorph
 <p align="left">
-<img width="54%" height="54%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
-<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
+<img width="37%" height="37%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
+<img width="29%" height="29%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
 </p>
 
 #### Eleutherodactylidae (Rain frogs)
 Greenhouse frog (*Eleutherodactylus planirostris*)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650453-cd8a5d80-ea4d-11ea-88e3-e6b224920a99.jpg">
 </p>
 
 #### Microhylidae (Microhylid frogs)
 Eastern narrowmouth toad (*Gastrophryne carolinensis*)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91650452-cb280380-ea4d-11ea-8ead-b48be1f3821c.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650452-cb280380-ea4d-11ea-8ead-b48be1f3821c.jpg">
 </p>
 
 #### Bufonidae (Toads)
@@ -349,7 +350,7 @@ Left: Cane toad (*Rhinella marina*); Middle and right: Southern toad (*Anaxyrus 
 #### Scaphiopodidae (Spadefoot toads)
 Eastern spadefoot toad (*Scaphiopus holbrookii*)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91790444-d2324b80-ebde-11ea-9f5d-c66a0c6e56c1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91790444-d2324b80-ebde-11ea-9f5d-c66a0c6e56c1.jpg">
 </p>
 
 ### Urodela
