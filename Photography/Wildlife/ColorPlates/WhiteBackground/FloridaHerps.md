@@ -242,12 +242,12 @@ Left: Striped crayfish snake (*Regina alleni*); Middle: Florida kingsnake (*Lamp
 
 Eastern indigo snake (*Drymarchon couperi*)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121444532-b7ef8000-c95d-11eb-8371-7a486ca3af49.jpg">
+<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/121444532-b7ef8000-c95d-11eb-8371-7a486ca3af49.jpg">
 </p>
 
 Florida Pine Snake (*Pituophis melanoleucus mugitus*)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/121441893-9a6be780-c958-11eb-92e8-611884c40c82.jpg">
+<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/121441893-9a6be780-c958-11eb-92e8-611884c40c82.jpg">
 </p>
 
 #### Elapidae (Elapids)
@@ -291,20 +291,20 @@ Left: Pig frog (*Rana grylio*), adult; Middle: Pig frog, juvenile; Right: River 
 
 American bullfrog (*Lithobates catesbeianus*). Left: Adult; Right: Tadpole
 <p align="left">
-<img width="54%" height="54%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
-<img width="45%" height="45%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
+<img width="36%" height="36%" src="https://user-images.githubusercontent.com/32546509/91790460-d8282c80-ebde-11ea-95e1-32a575755b0e.jpg">
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/32546509/91790471-e118fe00-ebde-11ea-8034-db76a6978703.jpg">
 </p>
 
 Left: Southern leopard frog (*Lithobates sphenocephalus*); Right: Gopher frog (*Lithobates capito*).
 <p align="left">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92338594-68eb8600-f07f-11ea-8e4a-7cc20951c2d1.jpg">
-<img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/93110145-ee27f980-f682-11ea-9c5c-cbea9ca46f67.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338594-68eb8600-f07f-11ea-8e4a-7cc20951c2d1.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/93110145-ee27f980-f682-11ea-9c5c-cbea9ca46f67.jpg">
 </p>
 
 #### Leptodactylidae (Thin-toed frogs)
 Southern cricket frog (*Acris gryllus*)
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/91650455-cfecb780-ea4d-11ea-9ef9-0f565667e0b8.jpg">
 </p>
 
 #### Hylidae (Tree frogs)
@@ -317,14 +317,14 @@ Left: Barking tree frog (*Hyla gratiosa*); Middle: Squirrel tree frog (*Hyla squ
 
 Left: Pine woods tree frog (*Hyla femoralis*); Right: Little grass frog (Pseudacris ocularis).
 <p align="left">
-<img width="37%" height="37%" src="https://user-images.githubusercontent.com/32546509/92338593-6852ef80-f07f-11ea-8068-59a911b449f8.jpg">
-<img width="29%" height="29%" src="https://user-images.githubusercontent.com/32546509/92338590-6557ff00-f07f-11ea-849f-b9b3264e9ba9.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338593-6852ef80-f07f-11ea-8068-59a911b449f8.jpg">
+<img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/92338590-6557ff00-f07f-11ea-849f-b9b3264e9ba9.jpg">
 </p>
 
 Cuban tree frog (*Osteopilus septentrionalis*). Left: Subadult; Right: Metamorph
 <p align="left">
-<img width="37%" height="37%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
-<img width="29%" height="29%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
+<img width="35%" height="35%" src="https://user-images.githubusercontent.com/32546509/91790862-bbd8bf80-ebdf-11ea-8fb9-09e745a3b667.jpg">
+<img width="31%" height="31%" src="https://user-images.githubusercontent.com/32546509/91790859-ba0efc00-ebdf-11ea-85ac-f398ae5284c2.jpg">
 </p>
 
 #### Eleutherodactylidae (Rain frogs)
@@ -357,5 +357,5 @@ Eastern spadefoot toad (*Scaphiopus holbrookii*)
 #### Sirenidae (Sirens)
 Lesser siren (*Siren intermedia*)
 <p align="left">
-<img width="66%" height="66%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
+<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
 </p>
