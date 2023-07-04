@@ -133,6 +133,7 @@ Northern curlytail lizard (*Leiocephalus carinatus armouri*), adult.
 Florida reef gecko (*Sphaerodactylus notatus*)
 <p align="left">
 <img width="33%" height="33%" src="https://user-images.githubusercontent.com/32546509/143376467-0e8fa8a7-14a7-4b9b-b79b-b8c967d48974.jpg">
+</p>
 
 Left: Madagascar giant day gecko (*Phelsuma grandis*), exotic; Right: Tokay gecko (*Gekko gecko*), exotic.
 <p align="left">
