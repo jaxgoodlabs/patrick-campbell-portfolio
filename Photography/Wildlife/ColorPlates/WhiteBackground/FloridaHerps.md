@@ -199,6 +199,7 @@ Left: Brown water snake (*Nerodia taxispilota*); Right: Florida green water snak
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/91783546-8aa3c380-ebce-11ea-99da-ce17bbf79b92.jpg">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92068499-1c4d3580-ed75-11ea-828d-d040a849d86b.jpg">
+</p>
 
 Left: Gulf saltmarsh snake (*Nerodia clarkii*); Right: Mangrove saltmarsh snake (*Nerodia clarkii compressicauda*)
 <p align="left">
