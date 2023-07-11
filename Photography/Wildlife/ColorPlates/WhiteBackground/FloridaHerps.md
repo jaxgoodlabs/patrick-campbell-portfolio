@@ -153,6 +153,13 @@ Green iguana (*Iguana iguana*), juvenile.
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/92125685-49c5cd80-edcd-11ea-8577-5a0d1a5a02f6.jpg">
 </p>
 
+#### Agamidae (Agamids)
+Peter's rock agama (*Agama picticauda*). Left: male; Right: female.
+<p align="left">
+<img width="49%" height="49%" src="https://github.com/jaxgoodlabs/patrick-campbell-portfolio/assets/32546509/1c9eaaa4-a890-447d-b7d9-0db1e3d60661">
+<img width="49%" height="49%" src="https://github.com/jaxgoodlabs/patrick-campbell-portfolio/assets/32546509/f67735cd-d78a-40fa-b0c9-706685d6b6d6">
+</p>
+
 #### Corytophanidae (Basilisks)
 Brown basilisk (*Basiliscus vittatus*). Left: Adult male; Right: Juvenile.
 <p align="left">
