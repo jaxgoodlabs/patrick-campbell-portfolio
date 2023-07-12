@@ -168,7 +168,7 @@ Brown basilisk (*Basiliscus vittatus*). Left: Adult male; Right: Juvenile.
 </p>
 
 #### Anguidae (Glass lizards)
-Left: Slender glass lizard (*Ophisaurus attenuatus*); Right: Island glass lizard (*Ophisaurus compressus*).
+Left: Island glass lizard (*Ophisaurus compressus*); Right: Slender glass lizard (*Ophisaurus attenuatus*).
 <p align="left">
 <img width="49%" height="49%" src="https://user-images.githubusercontent.com/32546509/92068580-4a327a00-ed75-11ea-96b4-3bc209d9da9c.jpg">
 <img width="49%" height="49%" src="https://github.com/jaxgoodlabs/patrick-campbell-portfolio/assets/32546509/58164920-3d81-4148-8aaf-9eecd34888aa">
