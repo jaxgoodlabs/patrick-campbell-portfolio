@@ -365,7 +365,7 @@ Eastern spadefoot toad (*Scaphiopus holbrookii*)
 
 ### Urodela
 #### Sirenidae (Sirens)
-Lesser siren (*Siren intermedia*)
+Greater siren (*Siren lacertina*)
 <p align="left">
 <img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/92420371-f511b200-f140-11ea-8fd9-ff6ca5a67b50.jpg">
 </p>
